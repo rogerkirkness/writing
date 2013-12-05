@@ -1,4 +1,0 @@
-rogerkirkness
-=============
-
-My personal website.
