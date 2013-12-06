@@ -1,4 +1,1 @@
-rogerkirkness.github.io
-=======================
-
-My personal website.
+My name's Roger Kirkness. This is my personal website.
