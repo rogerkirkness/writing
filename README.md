@@ -1,1 +1,0 @@
-Roger Kirkness personal website.
