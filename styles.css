@@ -1,0 +1,9 @@
+@media (min-width: 800px) {
+  body {
+    width:800px;
+    margin:auto;
+  }
+}
+.right {
+  float: right;
+}
