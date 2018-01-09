@@ -6,6 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="styles.css" />
 </head>
 <body>
+  {{ content }}
 	<p>
 		<b>Introduction</b><br><br />
 		My name is Roger Kirkness. My email is: <a href="mailto:me@rogerkirkness.com">me@rogerkirkness.com</a>.<br><br>
@@ -15,6 +16,9 @@
 		My wife and enjoy reading so we keep a list of what we have read <a href="https://docs.google.com/spreadsheets/d/1p8F9J2mziGSeuGS03KSrfdU9vbjFh1HmzGF4HOhZ-CU/edit?usp=sharing">here</a>.<br><br>
 		<b>Writing</b><br>
 		<ul>
+      { % for post in site.posts % }
+        <li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+      { % endfor % }
 			<li><a href="http://www.rogerkirkness.com/anxiety.html">Anxiety</a></li>
 			<li><a href="http://www.rogerkirkness.com/time.html">Time</a></li>
 			<li><a href="http://www.rogerkirkness.com/boinc.html">BOINC</a></li>
