@@ -11,8 +11,8 @@ My main interests are building a big family and good companies.<br><br>
 My wife and enjoy reading so we keep a list of what we have read <a href="https://docs.google.com/spreadsheets/d/1p8F9J2mziGSeuGS03KSrfdU9vbjFh1HmzGF4HOhZ-CU/edit?usp=sharing">here</a>.
 **Writing**
 <ul>
-	{ % for post in site.posts % }
-		<li><span>{{ post.date }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
-	{ % endfor % }
+	{% for post in site.posts %}
+		<li>{{ post.date }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
 </ul>
 
