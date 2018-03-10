@@ -6,7 +6,7 @@
 	<link href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAYAAABPYyMiAAAABmJLR0T///////8JWPfcAAAACXBIWXMAAABIAAAASABGyWs+AAAAF0lEQVRIx2NgGAWjYBSMglEwCkbBSAcACBAAAeaR9cIAAAAASUVORK5CYII=" rel="icon" type="image/x-icon" />
 	<style>
 		@media (min-width: 600px) {
-		  body {
+		  .container {
 		    width:600px;
 		    margin:auto;
 		    padding-top:30px;
@@ -19,9 +19,37 @@
 		body {
 		    font-family: "Verdana", Geneva, sans-serif;
 		}
+		nav {
+			padding-top: 50px;
+			position: sticky;
+		}
+		ul{ 
+		  list-style-type: none;
+		}
 	</style>
 </head>
 <body>
-  {{ content }}
+	<nav class="nav">
+		<ul>
+			<li>
+				<a href="/about">ABOUT</a>
+			</li>
+			<li>
+				<a href="/work">WORK</a>
+			</li>
+			<li>
+				<a href="/family">FAMILY</a>
+			</li>
+			<li>
+				<a href="/">WRITING</a>
+			</li>
+			<li>
+				<a href="https://docs.google.com/spreadsheets/d/1p8F9J2mziGSeuGS03KSrfdU9vbjFh1HmzGF4HOhZ-CU/edit?usp=sharing">READING</a>
+			</li>
+		</ul>
+	</nav>
+	<div class="container">
+		{{ content }}
+	</div>
 </body>
 </html>
