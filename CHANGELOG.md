@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4 - 2018-03-15
+
+* Removing writing from the home page, moving it into a post with everything else.
+
 ## 1.0.3 - 2018-03-15
 
 * Added a meta description. Passing 100% of performance, accessibility and SEO tests.
