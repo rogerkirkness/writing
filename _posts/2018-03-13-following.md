@@ -4,6 +4,7 @@ title: Following
 date: March 2018
 ---
 The following is a collection of writing that I enjoy:
+
 * [Essays by Paul Graham](http://paulgraham.com/articles.html)
 * [ribbonfarm](https://www.ribbonfarm.com/)
 * [brandur.org](https://brandur.org/fragments)
