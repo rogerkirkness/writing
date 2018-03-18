@@ -33,8 +33,7 @@
 	</div>
 	<script>
 		if ('serviceWorker' in navigator) {
-			navigator.serverWorker
-				.register('/sw.js')
+			navigator.serviceWorker.register('/sw.js')
 				.then(() => { console.log('serviceWorker registered.') })
 				.catch((error) => { consol.error(error) })
 		}
