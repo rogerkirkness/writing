@@ -2,6 +2,8 @@
 layout: null
 ---
 
+var currentCacheName = 'rogerkirkness-2'
+
 var urls = [
   {% for post in site.posts %}
   '{{ post.url }}',
@@ -12,19 +14,19 @@ var urls = [
 self.addEventListener('install', (event) => {
   self.skipWaiting()
   event.waitUntil(
-    caches.open('rogerkirkness-1').then((cache) => {
+    caches.open(currentCacheName).then((cache) => {
       return cache.addAll(urls)
     })
   )
 })
 
-self.addEventListener("activate", function(e){
+self.addEventListener('activate', function(e){
   e.waitUntil(
     caches.keys().then(function(cacheNames){
       return Promise.all(
         cacheNames.filter(function(cacheName){
-          return cacheName.startsWith("rogerkirkness")
-            && cacheName != staticCacheName
+          return cacheName.startsWith('rogerkirkness')
+            && cacheName != currentCacheName
         }).map(function(cacheName){
           return cache.delete(cacheName)
         })
@@ -33,7 +35,7 @@ self.addEventListener("activate", function(e){
   )
 })
 
-self.addEventListener("fetch", function(e){
+self.addEventListener('fetch', function(e){
   e.respondWith(
      caches.match(e.request).then(function(response) {
        return response || fetch(e.request)
