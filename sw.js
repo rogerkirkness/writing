@@ -1,5 +1,9 @@
 self.addEventListener('install', (event) => {
-  return cache.addAll([
-    '/*'
-  ])
+  event.waitUntil(
+    caches.open('rogerkirkness').then((cache) => {
+      return cache.addAll([
+        '/*'
+      ])
+    })
+  )
 })
