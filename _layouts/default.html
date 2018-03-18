@@ -35,7 +35,7 @@
 		if ('serviceWorker' in navigator) {
 			navigator.serviceWorker.register('/sw.js')
 				.then(() => { console.log('serviceWorker registered.') })
-				.catch((error) => { consol.error(error) })
+				.catch((error) => { console.error(error) })
 		}
 	</script>
 </body>
