@@ -17,17 +17,7 @@
 		body { line-height: 1.5; font-family: sans-serif; }
 		ul{ list-style-type: none; }
 	</style>
-	<script> 
-		window.addEventListener('load', function() {   
-			navigator.serviceWorker.register('/sw.js').then(
-				function(registration) {
-					console.log('ServiceWorker registration successful with scope: ', registration.scope) }, 
-				function(err) { 
-					console.log('ServiceWorker registration failed: ', err) 
-				}
-			)
-		})
-		</script>
+	<script src="/sw-toolbox.js" data-service-worker="/sw.js"></script>
 </head>
 <body>
 	<nav class="nav">
