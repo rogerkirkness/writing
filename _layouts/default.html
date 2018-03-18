@@ -6,29 +6,29 @@
 	<meta name="description" content="Roger Kirkness" />
 	<meta name="theme-color" content="#FFFFFF">
 	<link rel="manifest" href="/manifest.json">
-	<link href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAYAAABPYyMiAAAABmJLR0T///////8JWPfcAAAACXBIWXMAAABIAAAASABGyWs+AAAAF0lEQVRIx2NgGAWjYBSMglEwCkbBSAcACBAAAeaR9cIAAAAASUVORK5CYII=" rel="icon" type="image/x-icon" />
+	<link sizes="any" href="data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAYAAABPYyMiAAAABmJLR0T///////8JWPfcAAAACXBIWXMAAABIAAAASABGyWs+AAAAF0lEQVRIx2NgGAWjYBSMglEwCkbBSAcACBAAAeaR9cIAAAAASUVORK5CYII=" rel="icon" type="image/x-icon" />
 	<style>
 		@media (min-width: 600px) {
-		  .container {
-		    width:600px;
-		    margin:auto;
-		    padding-top:20px;
-		    padding-bottom:20px;
-		  }
-			nav {
-				position: sticky;
-				float: left;
-				top: 0px;
-			}
+		  .container { width:600px; margin:auto; padding-top:20px; padding-bottom:20px; }
+			nav { position: sticky; float: left; top: 0px; }
 		}
 		.right { float: right; }
 		html { color: #222222; }
-		body {
-		  line-height: 1.5;
-		  font-family: sans-serif;
-		}
+		body { line-height: 1.5; font-family: sans-serif; }
 		ul{ list-style-type: none; }
 	</style>
+	<script>
+		if ('serviceWorker' in navigator) { 
+			window.addEventListener('load', function() {   
+				navigator.serviceWorker.register('/sw.js').then(
+					function(registration) {
+						console.log('ServiceWorker registration successful with scope: ', registration.scope) }, 
+					function(err) { 
+						console.log('ServiceWorker registration failed: ', err) 
+					}); 
+			});
+		}
+		</script>
 </head>
 <body>
 	<nav class="nav">
