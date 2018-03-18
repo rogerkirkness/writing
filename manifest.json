@@ -1,4 +1,11 @@
 {
+  "lang": "en",
   "name": "Roger Kirkness",
-  "short_name": "RK"
+  "description": "Roger Kirkness",
+  "short_name": "RK",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "https://rogerkirkness.com/"
 }
