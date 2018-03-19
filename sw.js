@@ -2,14 +2,14 @@
 layout: null
 ---
 
-var currentCacheName = 'rogerkirkness-2'
-
 var urls = [
   {% for post in site.posts %}
   '{{ post.url }}',
   {% endfor %}
   '/'
 ]
+
+var currentCacheName = 'rogerkirkness-' + String(urls.length) 
 
 self.addEventListener('install', (event) => {
   self.skipWaiting()
