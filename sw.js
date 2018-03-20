@@ -9,7 +9,7 @@ var urls = [
   '/'
 ]
 
-var currentCacheName = 'rogerkirkness-' + String(urls.length) 
+var currentCacheName = 'rogerkirkness-' + new Date()
 
 self.addEventListener('install', (event) => {
   self.skipWaiting()

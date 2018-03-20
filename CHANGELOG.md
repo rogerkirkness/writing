@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.6 - 2018-03-20
+
+* Updating the service worker to be based on. 
+
 ## 1.0.5 - 2018-03-18
 
 * 100% coverage for service workers and rest of lighthouse.
