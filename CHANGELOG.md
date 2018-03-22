@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.7 - 2018-03-22
+
+* Adding a post about individualism vs. collectivism
+* Editing post called "on leadership" before sharing
+
 ## 1.0.6 - 2018-03-20
 
 * Updating the service worker to be based on. 
