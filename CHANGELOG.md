@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.8 - 2018-03-22
+
+* Updating the style to read more cleanly.
+
 ## 1.0.7 - 2018-03-22
 
 * Adding a post about individualism vs. collectivism
