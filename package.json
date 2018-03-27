@@ -1,6 +1,6 @@
 {
   "name": "rogerkirkness.com",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "scripts": {
     "commit": "git add -A && git commit -m \"Bump version to $npm_package_version\" && git push"
   },

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.9 - 2018-03-27
+
+* New post: full stack self awareness
+
 ## 1.0.8 - 2018-03-22
 
 * Updating the style to read more cleanly.
