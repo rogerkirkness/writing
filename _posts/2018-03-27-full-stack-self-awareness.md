@@ -7,7 +7,7 @@ At a certain point, I became very interested in self awareness. It is hard to ha
 
 In software, the term full stack means that you can apply technology at each layer of the system. So you can write code that runs on the client, and code that runs on the server. You can write the code that runs in between too, or it would not be the "full" stack. In this context, it means to understand yourself at every level, from biology (low level) up to psychology (high level).
 
-I started with the highest level (psychology) but quickly realized that things that happen at the psychological level are informed by what is happening at the lower levels. So I moved down the stack, into the neuroscience of why I acted. And then eventually that led to the fundamental parts. Eventually I built a synthesis of how each layer acted on the other, in order to be self aware of them.
+I started with the highest level (psychology) but quickly realized that things that happen at the psychological level are informed by what is happening at the lower levels. So I moved down the stack, into the neuroscience of why I acted. And then eventually that led to the fundamental parts. Eventually I built a synthesis of how each layer acted on the other, in order to be self aware.
 
 I wanted to understand how a decision to exercise could affect how well my brain my be able to focus, and that required understanding both focus (psychology, high level) and physiology (biology, low level). Many people are vaguely aware of these things, but less so as it relates to decision making. Biology was useful for understanding how physical threat state (ie. fight or flight) affects decision making, and how biological forces like heart rate can impact how one thinks and behaves.
 
