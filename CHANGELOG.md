@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1 - 2018-04-15
+
+* Adding post about entropy.
+
 ## 1.1.0 - 2018-04-02
 
 * Updating to fix site icon
