@@ -14,3 +14,4 @@ The following is a collection of writing that I enjoy:
 * [waitbutwhy](https://waitbutwhy.com/)
 * [Quillette](http://quillette.com/)
 * [Back-end Design](https://github.com/binhnguyennus/awesome-scalability)
+* [XKCD](https://www.xkcd.com/)
