@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.2 - 2018-05-03
+
+* Adding a post about investing.
+
 ## 1.1.1 - 2018-04-15
 
 * Adding post about entropy.
