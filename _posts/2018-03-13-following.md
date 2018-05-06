@@ -15,3 +15,4 @@ The following is a collection of writing that I enjoy:
 * [Quillette](http://quillette.com/)
 * [Back-end Design](https://github.com/binhnguyennus/awesome-scalability)
 * [XKCD](https://www.xkcd.com/)
+* [Akin's Laws](http://spacecraft.ssl.umd.edu/akins_laws.html)
