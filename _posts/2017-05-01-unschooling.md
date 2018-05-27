@@ -7,7 +7,7 @@ I was unschooled. Unschooling is the antithesis of schooling. Homeschooling impl
 
 I found unschooling to be enjoyable and rewarding relative to my experience in private and public school. The main reason stems from how I learn, which is usually a function of my interests and intrinsic motivation. At school there has to be a developmentally appropriate overlap between your interests and the subject you are learning or you will disengage. Hence most people are.
 
-Unschooling is surprisingly uncommon for how effective it is. The concept that investing less in formal education could yield a better outcome in life and personal development is a very foreign concept when you consider the zero sum tournament most school implicates. It takes an appreciation for learning and values that is fundamentally incompatible with school.
+Unschooling is surprisingly uncommon for how effective it is. The concept that investing less in formal education could yield a better outcome in life and personal development is a foreign concept when you consider the zero sum tournament most school implicates. It takes an appreciation for learning and values that is fundamentally incompatible with school.
 
 Unschooling was a better option for me because I am capable of (and prefer) autodidactic learning to formal education. This was clear before I would have even qualified to attend school. I did not learn to read until I was eleven, which was horrifying to pretty much everyone until it turned out that when I decided to learn to read at eleven I read at a University level. If I went to school, I would have been forced to learn much sooner and be a worse reader as a result.
 
