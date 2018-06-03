@@ -4,6 +4,7 @@ layout: post
 title: On Love and Agency
 date: June 2018
 ---
+
 It seems like one area people don't try very hard is love. For someone with high agency, the concept of "falling" in love sounds like a depression symptom. Love is something that you build, on purpose, every day. It takes time and it does not "last" in a sense that it cannot be sustained without deliberate effort. This concept isn't lost on people in the world of sports or business, when it comes to working and what it takes to be successful, when applied to love however people's agency melts away.
 
 Agency is the capacity of an actor (you) to act in a given environment (love). Is it really fair to say that most people can't "act" on their relationship with another person? The cultural experiment to classify love as something that "happens" as opposed to strictly a verb seems increasingly like a failed one. Is there a better way to guarantee failure in a relationship, than to assume that whatever happens cannot be changed? Even if that is the case, the attitude is a disaster.
