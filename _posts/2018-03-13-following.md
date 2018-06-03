@@ -16,3 +16,4 @@ The following is a collection of writing that I enjoy:
 * [Back-end Design](https://github.com/binhnguyennus/awesome-scalability)
 * [XKCD](https://www.xkcd.com/)
 * [Akin's Laws](http://spacecraft.ssl.umd.edu/akins_laws.html)
+* [US. Army Survival Manual](http://www.preppers.info/uploads/FM21-76_SurvivalManual.pdf)
