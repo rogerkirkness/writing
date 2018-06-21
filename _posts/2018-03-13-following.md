@@ -17,3 +17,4 @@ The following is a collection of writing that I enjoy:
 * [XKCD](https://www.xkcd.com/)
 * [Akin's Laws](http://spacecraft.ssl.umd.edu/akins_laws.html)
 * [US. Army Survival Manual](http://www.preppers.info/uploads/FM21-76_SurvivalManual.pdf)
+* [Essays by Werner Vogels](https://www.allthingsdistributed.com/)
