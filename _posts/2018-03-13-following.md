@@ -5,9 +5,11 @@ date: March 2018
 ---
 The following is a collection of writing that I enjoy:
 
+* [Notes on Peter Thiel's cs183 Class](http://blakemasters.com/peter-thiels-cs183-startup)
 * [Essays by Paul Graham](http://paulgraham.com/articles.html)
 * [ribbonfarm](https://www.ribbonfarm.com/)
 * [brandur.org](https://brandur.org/fragments)
+* [Principles by Ray Dalio](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlYm9va3Nkb3dubG9hZG5vdzIwMTZ8Z3g6MjY3NGU2Njk5N2QxNjViMg)
 * [Essays by Aaron Swartz](http://www.aaronsw.com/weblog/archive)
 * [Exponential Backoff](https://exponentialbackoff.substack.com)
 * [Essays by Patrick Collison](https://patrickcollison.com/)
@@ -19,3 +21,4 @@ The following is a collection of writing that I enjoy:
 * [US. Army Survival Manual](http://www.preppers.info/uploads/FM21-76_SurvivalManual.pdf)
 * [Essays by Werner Vogels](https://www.allthingsdistributed.com/)
 * [Google Scholar](https://scholar.google.com)
+* [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#heading=h.pdmqf3646hgt)
