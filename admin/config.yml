@@ -1,0 +1,16 @@
+backend:
+  name: github
+  repo: rogerkirkness/rogerkirkness.github.io
+publish_mode: editorial_workflow
+media_folder: "assets"
+collections:
+  - name: "post"
+    label: "Posts"
+    folder: "_posts/"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "date"}
+      - {label: "Body", name: "body", widget: "markdown"}
