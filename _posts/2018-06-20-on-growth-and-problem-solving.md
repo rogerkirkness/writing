@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On Growth and Problem Solving
-date: June 2018
+date: '2018-07-01'
 ---
 
 The hard thing about hard things is that the reason they are hard tends to differ significantly person to person. The Tolstoy quote about all happy families being alike and all unhappy families being unhappy in their own way comes to mind. I’m finding that the reason having kids or starting a business is hard for me seems to be pretty different from the reason that various other people I know find these things difficult. Being resilient or capable in one arena doesn’t necessarily translate well to others, which causes issues that are challenging because they aren’t common. The internet helps because you can expose yourself to similar people, but only to a degree. For things where the solution tends to be more consistent, you have conventional wisdom. But convention wisdom applied to an unconventional problem can be worse than simply toughing it out. Not everything is simple or can be transferred among problems.
