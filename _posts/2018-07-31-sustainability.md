@@ -4,9 +4,7 @@ title: Sustainability
 date: '2018-07-31'
 ---
 
-The main purpose of living things is sustainability. By being alive, you are already in the positive state of being. The goal, more or less, is to continue to be alive for as long as possible.
-
-Sustainability as a concept has been co-opted to a degree to mean specifically, environmental sustainability. That use evokes a feeling of lofty idealism, but sustainability on a first principles basis just means something that can be sustained on any level.
+The main purpose of living things is sustainability. By being alive, you are already in the positive state of being. The goal, more or less, is to continue to be alive for as long as possible. Sustainability as a concept has been co-opted to a degree to mean specifically, environmental sustainability. That use evokes a feeling of lofty idealism, but sustainability on a first principles basis just means something that can be sustained.
 
 Applying the concept of sustainability to other areas of life leads to interesting results. What would a sustainable career look like (probably something involving a fundamental need, met by an attitude of continuously learning and adapting) or a sustainable approach to communication?
 
