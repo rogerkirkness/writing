@@ -40,5 +40,3 @@ It is hard to say the impact in practice that having the meeting has had on our 
 We tend to hold the meeting whenever we feel like we have enough energy and time during the course of the day on Sunday. Usually that is somewhere between late morning and late afternoon. Occasionally we will forget or have something going on that prevents it. We consider that to be completely fine and pick-up where we left off with a slightly longer meeting next week.
 
 We haven’t had to implement much in the way of rules (talk about this, don’t talk about this, talk about this in a certain way, etc.) because the meeting and the format have evolved over time. We both prefer to operate this way, but a difference structure (like the weekly going out for dinner my family did when I was little) might work better for difference kinds of families.
-
-Hopefully you got value from this essay. If you have ideas about how we could improve our family meetings, or in how you run your own, I would be interested in hearing from you about it.
