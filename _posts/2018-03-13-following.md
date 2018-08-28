@@ -3,7 +3,7 @@ layout: post
 title: Following
 date: March 2018
 ---
-The following is a collection of writing that I enjoy:
+The following is a collection of writing I enjoy:
 
 * [Notes on Peter Thiel's cs183 Class](http://blakemasters.com/peter-thiels-cs183-startup)
 * [Essays by Paul Graham](http://paulgraham.com/articles.html)
@@ -14,7 +14,8 @@ The following is a collection of writing that I enjoy:
 * [Exponential Backoff](https://exponentialbackoff.substack.com)
 * [Essays by Patrick Collison](https://patrickcollison.com/)
 * [waitbutwhy](https://waitbutwhy.com/)
-* [Quillette](http://quillette.com/)
+* [Quillette](https://quillette.com/)
+* [Blogs by Martin Shkreli](http://martinshkreli.com/)
 * [Back-end Design](https://github.com/binhnguyennus/awesome-scalability)
 * [XKCD](https://www.xkcd.com/)
 * [Akin's Laws](http://spacecraft.ssl.umd.edu/akins_laws.html)
