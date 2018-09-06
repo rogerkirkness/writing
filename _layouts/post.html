@@ -2,10 +2,8 @@
 layout: default
 ---
 <b>{{ page.title }}</b><b class="right">{{ page.date | date: "%B %Y"}}</b>
-<hr>
 {{ content }}
-<hr>
-<div>
+<div class="pagination">
   {% if page.previous.url %}
     <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
   {% endif %}
