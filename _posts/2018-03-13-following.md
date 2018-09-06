@@ -24,3 +24,4 @@ The following is a collection of writing I enjoy:
 * [Google Scholar](https://scholar.google.com)
 * [Founder to CEO](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview#heading=h.pdmqf3646hgt)
 * [Entropy by Aatishb](https://aatishb.com/entropy/)
+* [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
