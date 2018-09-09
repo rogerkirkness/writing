@@ -5,6 +5,7 @@ date: March 2018
 ---
 The following is a collection of writing I enjoy:
 
+* [Idle Words](http://idlewords.com/)
 * [Notes on Peter Thiel's cs183 Class](http://blakemasters.com/peter-thiels-cs183-startup)
 * [Essays by Paul Graham](http://paulgraham.com/articles.html)
 * [ribbonfarm](https://www.ribbonfarm.com/)
