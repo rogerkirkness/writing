@@ -15,14 +15,14 @@ I don't like that phones come with useless apps. The manufacturer and the OS pro
 
 5. Download and install Android Debug Bridge from Android.
 
-6. Type `adb version` to confirm the install worked.
+6. Type `$ adb version` to confirm the install worked.
 
-7. Type `adb shell` to open a shell to your phone.
+7. Type `$ adb shell` to open a shell to your phone.
 
-8. Type `pm list packages` to sell all the stuff on your phone.
+8. Type `$ pm list packages` to sell all the stuff on your phone.
 
-9. Look for unwanted apps. When you find one, type `pm uninstall -k --user 0 (app_name)`
+9. Look for unwanted apps. When you find one, type `$ pm uninstall -k --user 0 (app_name)`
 
-10. Example: `pm uninstall -k --user 0 com.google.android.gm` (Gmail)
+10. Example: `$ pm uninstall -k --user 0 com.google.android.gm` (Gmail)
 
 To do it, you need an Android phone. It needs to have USB debugging active and be plugged into your computer. And you need to download the ADB tool from the Android website. If you do the above, it will remove any app. It doesn't permanently delete them, but it hides it from the main user, which is close enough. If you somehow mess it up (like I did the first time getting overzealous), hold the on button + volume up and recover it.
