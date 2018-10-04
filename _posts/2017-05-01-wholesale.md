@@ -15,7 +15,7 @@ We are not building: a marketplace, an EDI system, a fax, email or phone orderin
 
 Wholesale is a key part of making commerce better for everyone. Solutions exist that implicate in person, offline interaction as well as scaled online interactions. The issue is that no one has solved wholesale tooling at scale in a way that meets the needs of a current wholesale buyer without having to build it yourself or do it offline.
 
-Failure means our work becomes unfeasible or our processes fail. We should set out to build the opposite, a tool that does wholesale well enough online to satisfy the needs of both the wholesale merchant and the wholesale buyer. If customers have a better way to wholesale, online or offline, we have failed to create a superior alternative.
+Failure means our work becomes infeasible or our processes fail. We should set out to build the opposite, a tool that does wholesale well enough online to satisfy the needs of both the wholesale merchant and the wholesale buyer. If customers have a better way to wholesale, online or offline, we have failed to create a superior alternative.
 
 Ultimate success would be improving the customer experience of the wholesale buyer. If we are going to provide a tool that provides direct to consumer merchants a way to sell wholesale, we need to understand the wholesale buyer. Wholesale buyers want products that are easy to discover, compare, order, track, pay for, sell and reorder.
 
