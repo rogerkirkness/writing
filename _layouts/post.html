@@ -5,10 +5,10 @@ layout: default
 <b class="right">{{ page.date | date: "%B %Y"}} &bull; {{ content | reading_time_as_i }} </b>
 {{ content }}
 <div class="pagination">
-  <a target="_blank" href="mailto:me@rogerkirkness.com?subject=Comments%20on%20{{ page.title }}">Comments ▼</a>
+  <a target="_blank" style="text-decoration: none;" href="mailto:me@rogerkirkness.com?subject=Comments%20on%20{{ page.title }}">Comments ▼</a>
   <div class="right">
       {% if page.previous.url %}
-      <a href="{{page.previous.url}}" style="text-decoration: none;">&laquo; Previous</a>
+      <a style="text-decoration: none;" href="{{page.previous.url}}">&laquo; Previous</a>
     {% endif %}
     &nbsp;&bull;&nbsp;
     {% if page.next.url %}
