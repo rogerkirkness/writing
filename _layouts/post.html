@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<b>{{ page.title }}</b><b class="right">{{ page.date | date: "%B %Y"}}</b>
+<b>{{ page.title }}</b><b class="right">{{ page.date | date: "%B %Y"}} &bull; {% include read_time.html %} </b>
 {{ content }}
 <div class="pagination">
   {% if page.previous.url %}
