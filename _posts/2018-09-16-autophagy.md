@@ -3,7 +3,7 @@ layout: post
 title: Autophagy
 date: September 2018
 ---
-The brain, and other parts of the body, recycle. The process is called autophagy. It’s what happens when you fast and sometimes happens without having to fast. The person who discovered it’s positive impact on people won the Nobel Prize in Medicine recently as a result of their work. It’s very important that bodies can access it.
+The brain, and other parts of the body, recycle. The process is called autophagy. It’s what happens when you fast and sometimes happens without having to fast. The person who discovered it’s positive impact on people won the Nobel Prize in Medicine recently as a result of their work. It’s important that bodies can access it.
 
 There is much scientific literature on autophagy only a Google away. It’s well worth the time spent trying to understand it. When you fast, your body eventually goes into autophagy, which essentially means it starts cleaning up and destroying old and broken cells, and using their parts for energy and repair. It’s necessary for our body to get into this state. It’s natural for a feast and famine animal to spend periods without food.
 

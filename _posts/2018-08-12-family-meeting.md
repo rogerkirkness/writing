@@ -3,7 +3,7 @@ layout: post
 title: Family Meeting
 date: '2018-08-12'
 ---
-Every Sunday, my wife and I (and our infant son -- not that he does much of the talking yet) have a family meeting. We tweak the format slightly every week depending on what is happening in our life, but we have done it for a few years at this point and the approach is now getting quite consistent week to week. We find it very useful for staying in sync.
+Every Sunday, my wife and I (and our infant son -- not that he does much of the talking yet) have a family meeting. We tweak the format slightly every week depending on what is happening in our life, but we have done it for a few years at this point and the approach is now getting quite consistent week to week. We find it useful for staying in sync.
 
 The purpose of the meeting is to sync up about what is happening in our life during the coming week, and talk about what happened in our life the past week. It is more about logistics than it is about reflection, the idea is that we have already reflected on the week, and are ready to discuss it together. We do it every week without fail, and it is always useful to all of us.
 
@@ -17,7 +17,7 @@ We split the subjects to cover in the meeting into groups and prompts. Each grou
 
 These groups evolved through considerable iteration. If we thought something needed to be covered more frequently, it would be, but we tend to save our big topics of discussion for the meeting and try to fit them into one of the groups. There is no open group for additional topics.
 
-Under each group, there are various prompts that basically force us to check in on a certain thing. The prompts follow the important aspects of each group. This all sounds very formal but again, we started very small (always talk about family matters on Sunday) and then evolved the format as time went on. To get a sense of the prompts, here is what we use for finances:
+Under each group, there are various prompts that basically force us to check in on a certain thing. The prompts follow the important aspects of each group. This all sounds formal but again, we started small (always talk about family matters on Sunday) and then evolved the format as time went on. To get a sense of the prompts, here is what we use for finances:
 
 * Cash balance (how much cash do we have? why?)
 * Burn rate (how much are we gaining or losing per week cash wise? why?)
