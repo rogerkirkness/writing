@@ -27,3 +27,4 @@ The following is a collection of writing I enjoy:
 * [Entropy by Aatishb](https://aatishb.com/entropy/)
 * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
 * [Quotes by Naval Ravikant](https://medium.com/@noahmadden/navalism-quotes-perceptions-by-naval-ravikant-a5fd60ac5788)
+* [Grey Enlightenment](http://greyenlightenment.com)
