@@ -33,3 +33,4 @@ The following is a collection of writing I enjoy:
 * [Zen Habits](https://zenhabits.net)
 * [The Minimalists](https://www.theminimalists.com/)
 * [Mises Institute](https://mises.org/)
+* [Biohacking by Serge Faguet](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f)
