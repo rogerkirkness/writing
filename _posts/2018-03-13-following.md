@@ -5,6 +5,7 @@ date: March 2018
 ---
 The following is a collection of writing I enjoy:
 
+* [I Would Never Send My Kids To School](http://supermemo.guru/wiki/I_would_never_send_my_kids_to_school#Baby_management)
 * [World's Hardest Problems](https://docs.google.com/document/d/1Vb8WWbsVyEJzl66_qqtZfFr2uLL07Y7SJH5XKldjDPY/edit)
 * [Idle Words](http://idlewords.com/)
 * [Notes on Peter Thiel's cs183 Class](http://blakemasters.com/peter-thiels-cs183-startup)
