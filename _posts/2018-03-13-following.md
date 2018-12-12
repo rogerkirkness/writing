@@ -18,6 +18,7 @@ The following is a collection of writing I enjoy:
 * [Essays by Patrick Collison](https://patrickcollison.com/)
 * [waitbutwhy](https://waitbutwhy.com/)
 * [Quillette](https://quillette.com/)
+* [Moxie Marlinspike](https://moxie.org/)
 * [Blogs by Martin Shkreli](http://martinshkreli.com/)
 * [Back-end Design](https://github.com/binhnguyennus/awesome-scalability)
 * [XKCD](https://www.xkcd.com/)
