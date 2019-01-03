@@ -8,6 +8,10 @@ The content is copyright but you can use the code for whatever you want (MIT).
 
 ## Changelog
 
+## 1.2.0 - 2019-01-02
+
+* Updating.
+
 ## 1.1.2 - 2018-05-03
 
 * Adding a post about investing.
