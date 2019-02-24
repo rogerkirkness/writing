@@ -7,7 +7,7 @@ Software is built in layers. Most of what we do stands on the shoulders of the w
 
 Above the infrastructure layer, there are approximately three more. The next three in order would be the platform, the applications and the services. Let’s unpack that.
 
-A platform is something that enables applications. If you have an operating system, that’s technically a platform. The user of the operating system might be someone using a computer. The applications are the software that runs on the computer (Chrome, Microsoft Word, etc.). And the services would be the things that are necessary to learn about the application (could be support, documentation, or any other technical intelligence that the users needs beyond code).
+A platform is something that enables applications. If you have an operating system, that’s technically a platform. The user of the operating system might be someone using a computer. The applications are the software that runs on the computer (Chrome, Microsoft Word, etc.). And the services would be the things that are necessary to learn about the application (could be support, documentation, or any other technical intelligence that the users need beyond code).
 
 Tech companies have realized that the lower in that stack you are, the more valuable you can claim your software is. So service providers pretend to be applications (ie. a service business that pretends they have a product), application providers pretend to be platforms (a good example would be an app for a particular OS or web platform -- if it’s tied to an OS or another platform, it’s an application) and platform providers pretend to be infrastructure (because it sounds more impressive to say and because infrastructure has the biggest moat of all). 
 
@@ -23,4 +23,4 @@ That’s really the key: the platform is the distance between bare metal compute
 
 Mark Zuckerburg has a now leaked email in which he talks about how they are weak on mobile because Google and Apple both own their own full stack. Facebook only has applications and services, their platform isn’t really well suited for building mobile applications. So he talks about how in future, they need to make big bets on the platforms and applications that will win (such as VR), and that they have to build both the platform and the key applications. If cost is no object, but winning markets is important to your sustainability as a business, this is probably the right approach. It’s roughly the same one Google and Apple decided to take with mobile.
 
-I found writing this up a good exercise in clarifying my own thinking. There are lots of good visualizations of this if you Google for software stack or platform vs. applications. 
+I found writing this up a good exercise in clarifying my own thinking. There are lots of good visualizations of this if you Google for software stack or platform vs. applications. Hopefully it's helpful to those facing the same question.
