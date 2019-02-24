@@ -1,3 +1,8 @@
+---
+layout: post
+title: Platforms vs Applications
+date: February 2019
+---
 Software is built in layers. Most of what we do stands on the shoulders of the work done by programmers that came before us. That applies to the actual computer the software runs on, as well as the lower level code that is required to translate the fancy modern languages people use to write software with the very basic level of interpreting instructions according to ones and zeros. All that stuff is basically the infrastructure of software, the main customer would be the developer who has to build software for a user on top of the infrastructure.
 
 Above the infrastructure layer, there are approximately three more. The next three in order would be the platform, the applications and the services. Let’s unpack that.
