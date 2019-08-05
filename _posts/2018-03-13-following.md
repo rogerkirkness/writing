@@ -32,3 +32,4 @@ The following is a collection of writing I enjoy:
 * [The Minimalists](https://www.theminimalists.com/)
 * [Biohacking by Serge Faguet](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f)
 * [Marginal Revolution](https://marginalrevolution.com/)
+* [Gwern Branwen](https://www.gwern.net/index)
