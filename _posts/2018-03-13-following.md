@@ -34,3 +34,4 @@ The following is a collection of writing I enjoy:
 * [Marginal Revolution](https://marginalrevolution.com/)
 * [Gwern Branwen](https://www.gwern.net/index)
 * [David Perell](https://www.perell.com/)
+* [War Is A Racket](https://www.ratical.org/ratville/CAH/warisaracket.html#)
