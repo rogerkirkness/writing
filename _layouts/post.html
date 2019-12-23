@@ -5,14 +5,13 @@ layout: default
 <b class="right">{{ page.date | date: "%B %Y"}} &bull; {{ content | reading_time_as_i }} </b>
 {{ content }}
 <div class="pagination">
-  <a target="_blank" style="text-decoration: none;" href="mailto:me@rogerkirkness.com?subject=Comments%20on%20{{ page.title }}">Comments ▼</a>
   <div class="right">
       {% if page.previous.url %}
-      <a style="text-decoration: none;" href="{{page.previous.url}}">&laquo; Previous</a>
+      <a style="text-decoration: none;" href="https://rogerkirkness.com{{page.previous.url}}">&laquo; Previous</a>
     {% endif %}
     &nbsp;&bull;&nbsp;
     {% if page.next.url %}
-      <a style="text-decoration: none;" href="{{page.next.url}}">Next &raquo;</a>
+      <a style="text-decoration: none;" href="https://rogerkirkness.com{{page.next.url}}">Next &raquo;</a>
     {% endif %}
   </div>
 </div>
