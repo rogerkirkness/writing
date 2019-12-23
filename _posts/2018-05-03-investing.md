@@ -6,7 +6,7 @@ date: May 2018
 
 The two main resources that we can invest as individuals are time and money. For the sake of argument let's pretend that the money part matters, because by far the most important resource to invest carefully is obviously time, something which cannot be renewed and luck has no bearing on.
 
-My argument is that people should bias towards investing their money in boring things and their time in interesting things. The concept that people spend most of their life working for the money in a job that displeases them, while investing their money in interesting areas, is flawed. 
+My argument is that people should bias towards investing their money in boring things and their time in interesting things. The concept that people spend most of their life working for the money in a job that displeases them, while investing their money in interesting areas, is flawed.
 
 People should instead invest their money in boring ways (bonds, savings accounts, *maybe* stocks if the market was priced reasonably) and their time in interesting ways (starting companies, where savings allow). The assumption here is that you have a surplus of any least one of time and money. If not, focusing on survival makes the most sense.
 
