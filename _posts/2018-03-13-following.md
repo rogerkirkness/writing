@@ -30,3 +30,5 @@ The following is a collection of writing I enjoy:
 * [David Perell](https://www.perell.com/)
 * [War Is A Racket](https://www.ratical.org/ratville/CAH/warisaracket.html#)
 * [Doing Business in Japan](https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/)
+* [Slate Star Codex](https://slatestarcodex.com/)
+* [Property Rights](http://www.daviddfriedman.com/Academic/Property/Property.html)
