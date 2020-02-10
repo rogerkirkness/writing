@@ -2,4 +2,3 @@ url: "https://rogerkirkness.com"
 permalink: /:title
 plugins:
   - jekyll-sitemap
-  - jekyll-time-to-read
