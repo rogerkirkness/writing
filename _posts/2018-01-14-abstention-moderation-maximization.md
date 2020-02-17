@@ -5,7 +5,7 @@ date: January 2018
 ---
 There are three ways to orient yourself towards different kinds of pleasure: abstention, moderation and maximization. I think what each of those mean in this context is somewhat obvious but for the sake of argument: abstention means you refrain from doing something entirely, moderation means you do it but within conventionally defined social limits and maximization means you do it to the most extreme extent possible.
 
-Sometimes people will lean towards one form or another in various ways. We all know someone who tends to go too hard when it comes to good times and generally values having the most extreme / exciting / intense experiences. On the other end, we all know people who tend to avoid any and all forms of pleasing activity for one reason or another. In between are the people who never seem to overdo it but also know how to have fun. 
+Sometimes people will lean towards one form or another in various ways. We all know someone who tends to go too hard when it comes to good times and generally values having the most extreme / exciting / intense experiences. On the other end, we all know people who tend to avoid any and all forms of pleasing activity for one reason or another. In between are the people who never seem to overdo it but also know how to have fun.
 
 The key to having a good life is actively controlling which activity falls into which category. If you want to abstain but instead you maximize, or what to maximize and instead moderate, you probably won’t even get a fraction of the value you would if things were where they should be. There are also things that probably belong in each category and deviating from that convention would cause significantly more harm than good. The medicine is in the dosage.
 
