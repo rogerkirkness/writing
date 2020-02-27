@@ -18,6 +18,7 @@ The following is a collection of writing I enjoy:
 * [Quillette](https://quillette.com/)
 * [Moxie Marlinspike](https://moxie.org/)
 * [Penelope Trunk](https://blog.penelopetrunk.com/)
+* [Daniel Gross](https://dcgross.com/)
 * [Back-end Design](https://github.com/binhnguyennus/awesome-scalability)
 * [XKCD](https://www.xkcd.com/)
 * [Akin's Laws](http://spacecraft.ssl.umd.edu/akins_laws.html)
