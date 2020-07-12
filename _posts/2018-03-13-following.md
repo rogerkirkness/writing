@@ -5,6 +5,7 @@ date: March 2018
 ---
 The following is a collection of writing I enjoy:
 
+* [Valter Longo](https://valterlongo.com/daily-longevity-diet-for-adults/)
 * [Marginal Revolution](https://marginalrevolution.com/)
 * [World's Hardest Problems](https://docs.google.com/document/d/1Vb8WWbsVyEJzl66_qqtZfFr2uLL07Y7SJH5XKldjDPY/edit)
 * [Idle Words](http://idlewords.com/)
