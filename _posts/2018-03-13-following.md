@@ -17,6 +17,7 @@ The following is a collection of writing I enjoy:
 * [Aaron Swartz](http://www.aaronsw.com/weblog/archive)
 * [Patrick Collison](https://patrickcollison.com/)
 * [Quillette](https://quillette.com/)
+* [Ben Greenfield](https://bengreenfieldfitness.com/)
 * [Moxie Marlinspike](https://moxie.org/)
 * [Penelope Trunk](https://blog.penelopetrunk.com/)
 * [Daniel Gross](https://dcgross.com/)
