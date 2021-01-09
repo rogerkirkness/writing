@@ -4,7 +4,7 @@ title: The Last Pandemic
 date: December 2020
 ---
 ## Introduction
-Covid-19 should go down in history as the world’s last pandemic. We have let this tragic process devolve for too long. We sequenced the virus in weeks, and from there had an mRNA vaccine candidate in 48 hours. It took 60 days to prove this candidate safe and effective in animal trials. While that is happening in future, we need to have the production capacity in place, and the logistical capacity in place, to bury the virus before it reaches pandemic status. Test, trace, isolate and vaccinate in 90 days. Shorter seems romantically unfeasible. We’ve seen longer.
+Covid-19 should go down in history as the world’s last pandemic. We have let this tragic process devolve for too long. We sequenced the virus in weeks, and from there had an mRNA vaccine candidate in 72 hours. It took 45 days to ship the first batch from the day it was sequenced. While that is happening in future, we need to have the production capacity in place, and the logistical capacity in place, to bury the virus before it reaches pandemic status. Test, trace, isolate and vaccinate in 90 days. Shorter seems romantically unfeasible. We’ve seen longer.
 
 I propose that we view Covid-19 as paying the iron price for our future preparation for super viruses. Industrial animal agriculture, global air travel and liberal social policies are a near perfect environment for a virus to reach a global maximum of hosts. We need to view this experience with a degree of indignant love for life and for our collective future. We need to find the motivation to prepare rigorously and resourcefully so that this never, ever happens again. 
 
