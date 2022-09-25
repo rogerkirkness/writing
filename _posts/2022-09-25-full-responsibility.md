@@ -10,7 +10,7 @@ I read an email written by the CEO of Apple that was released as part of a share
 
 I take full responsibility.
 
-I keep thinking about the implications of that one-sentence paragraph. What if I took full responsibility for everything in my life? The work implications given my role are clear: I have full responsibility for the company as the CEO. The personal implications are less clear and more profound. What if I took full responsibility for every action I took, and decision I made? Any outcome resulting from my actions and decisions are my responsibility.
+I keep thinking about the implications of that one-sentence paragraph. What if I took full responsibility for everything in my life? The work implications given my role are clear: I have full responsibility for the company as the CEO. The personal implications are less clear and more profound. What if I took full responsibility for every action I took, and decision I made? Any resulting outcomes are my responsibility.
 
 I take full responsibility, for:
 - Myself, my actions and my decisions
