@@ -1,0 +1,20 @@
+---
+layout: post
+title: Full Responsibility
+date: September 2022
+tags:
+- responsibility
+---
+
+I read an email written by the CEO of Apple that was released as part of a shareholder lawsuit. The email was an exceptional example of business communications, you can see it [here](https://www.techemails.com/p/tim-cooks-notes-steve-jobs-emails-himself) on TechEmails. My favorite part of the email was the second paragraph, which was comprised of a single sentence of four words:
+
+I take full responsibility.
+
+I keep thinking about the implications of that one-sentence paragraph. What if I took full responsibility for everything in my life? The work implications given my role are clear: I have full responsibility for the company as the CEO of the company. The personal implications are less clear and more profound: what if I took full responsibility for every action I took and decision I made. If there is a negative or positive externality that results from my actions and decisions, I am fully responsible for those things too.
+
+I take full responsibility, for:
+Myself, my actions and my decisions
+The actions and decisions of my dependents
+The actions and decisions of any company in which I am the leader
+
+I will write more about the effects this has on my life. It already feels better to take responsibility in this way. I think this is what Jocko calls extreme ownership, and I now understand why he advocates for it.
