@@ -21,8 +21,7 @@ So, your kid is playing Minecraft while you take a Zoom meeting? [That's unschoo
 
 We had certain market forces (e.g. we had to read in order to bank up time for passive video games) that acted on our decisions, but they remained our decisions from the earliest ages. Agency is one of the most fundamental forces you can use to better your life. We were given agency (and the expectations to go along with it) from very young ages by most standards. That agency allowed us to invest in our own learning in ways that worked best for us.
 
-
-                    _To unschool is not to forgo learning, it is to enable it in the purest sense of the word._
+To unschool is not to forgo learning, it is to enable it in the purest sense of the word.
 
 Unshooling (doing whatever I wanted whenever I wanted, more or less) is how I learned until I went to school. I went to school in Grade 7 to socialize with age peers. It took me a month or so to catch up to where everyone else was academically having done no formal instruction. My parents feared it would be much worse, but even French which I'd never been exposed to seemed to be okay. This is one example of how quickly someone can learn the things that are intended for people of younger ages when they're motivated to.
 
