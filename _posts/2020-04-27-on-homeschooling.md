@@ -33,8 +33,7 @@ If we agree that the real aim of the entire education system is to develop child
 
 Our brains are wired to seek out relevance wherever it exists. Right now there is a global pandemic, and that's a scary, relevant thing. It's also a firehose of learning. We're learning about all kinds of new things: hygeine, antivirals, pandemics, quarantines, social distancing, geography, removal costs, politics, policy making, economics, the financial system, trade offs, demographics, comorbidities and more. The reason we have trouble closing Google News is our brain has an unquenchable thirst for relevance. Now consider how that implicates your children. Are there valuable lessons for adulthood in this experience?
 
-
-                    _The greatest lie of Formal Education is the implied assumption that learning, or at least the most important learning, only happens in buildings called Schools._
+The greatest lie of Formal Education is the implied assumption that learning, or at least the most important learning, only happens in buildings called Schools.
 
 I'm going to spoil the answer to that rhetorical question, it is a resounding yes. There are enormously valuable lessons in this dark period. We need to reengineer our daily lives to account for this new risk that faces us. We are going to have to be more adaptable, creative and resilient than we have in recent memory. We are going to have to change, which is very hard, how we live. If we view this as a setback in the development of our children, we are missing a once in a lifetime opportunity to model resilience, adaptiveness and maturity. We're basically admitting and modeling to kids that we as adults can't learn from our environment. People, including children, rise (or fall) to the expectations you place on them. Let's give our children a way to rise to the occasion by being the model for how to act in hard times. How can you be the model of learning for your children? Let's explore it.
 
