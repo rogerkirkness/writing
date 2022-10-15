@@ -52,8 +52,7 @@ I can think of many, many ways to create learning opportunities out of this pand
 
 The list is near endless. Big things are happening. The stories and articles and activities exist on YouTube, in media, in blogs and all over social media. It would be impossible to prevent your kids from learning a great deal from this experience, but so much of the _what_ will be defined on how you present these issues to them.
 
-
-                    _If you haven't talked about what this means for your family and for your children, are you sure it's your children you are protecting?_
+If you haven't talked about what this means for your family and for your children, are you sure it's your children you are protecting?
 
 What is it about the fact that people rarely use school skills in the real world and admit as much that makes people think it's a good idea for kids? We should be asking these questions. When things are scary, we cling to normal. Imagine a future where your kid knows quadratics, but not the things from the list we talked through earlier?
 
