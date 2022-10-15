@@ -3,6 +3,8 @@ layout: post
 title: First Birth Journal
 date: October 2022
 ---
+*The following is a document I wrote the week after our first child was born while he was still in the ICU, largely unedited.*
+
 Today (May 20th, 2018) Jess and I went and visited Magnus. We woke up around 9:30am after our best sleep in weeks. Jess finally feels like she is catching up on her sleep debt a little bit. I feel pretty good considering I slept for about 10 hours straight, only waking up a few times while Jess was pumping. It feels somewhat unfair that I have extra capacity while Jess struggles to continue to wake up and pump, but she is handling it impressively well.
 
 We drove into the hospital around 11:15am. We tried to get there sooner but Jess wanted to have another bagel, this time with butter, so we stopped at Tim Hortons. Once we got to the hospital around 11:30am, I went to check on Magnus while Jess went to the pumping room to pump. She was doing better today than yesterday and seems to be able to cope more with the situation, all the changes, the fatigue and soreness and the traumatic experience.
