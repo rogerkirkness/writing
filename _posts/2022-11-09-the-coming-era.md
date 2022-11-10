@@ -3,7 +3,7 @@ layout: post
 title: The Coming Era
 date: November 2022
 ---
-We exist in a period of time that will end up being remembered as transformational. There are three concurrent technological revolutions in the early stages of taking effect on the world. Each of them present the potential to have a greater impact on the functioning of humankind than the prior ones. Those revolutions are: sustainable low marginal cost energy, applied biotechnology and artificial intelligence.
+There are three concurrent technological revolutions in the early stages of taking effect on the world. Each of them present the potential to have a greater impact on the functioning of humankind than the prior ones. Those revolutions are: sustainable low marginal cost energy, applied biotechnology and artificial intelligence.
 
 The hype right now is centered on artificial intelligence. Large language models and text to image models are starting to become useful. The user experience of applying artificial intelligence is reaching a point that nominally technical people can request access to OpenAI and benefit from the same modern AI tools as the most cutting edge researchers inside of research universities and trillion dollar technology companies.
 
