@@ -17,6 +17,6 @@ I’ve encouraged friends and colleagues to consider these values:
 * **Focus** - the agency robbing abyss of the Reddit front page is vast
 * **Curiosity** - it keeps us in a state of welcoming challenge and change
 * **Diligence** - no matter what the outcome is, getting there fast matters
-* **Patience** - while the temptation is always to have closure, it will take time
+* **Patience** - while the temptation is to have closure, it will take time
 
 We can look at the accelerating progress in each of these areas and attempt to understand the implications it will have on us. But in the midst of accelerating technological progress, progress that the world has arguably not seen since the industrial revolution, it is easy to become cynical and distracted. The great challenge is to hold on long enough to see the benefits of the long term compounding unfold.
