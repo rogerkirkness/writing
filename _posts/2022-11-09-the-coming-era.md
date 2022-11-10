@@ -13,10 +13,10 @@ And applied biotechnology, such as mRNA therapies, are pulling us out of pandemi
 
 We are rapidly hurtling towards a brave new world. The three concurrent revolutions will start to feed into one another. AI is being used by increasingly sophisticated deep learning models to predict protein folding and optimize the way that carbon lattice is constructed on solar panels for maximal energy capture. Each one is going to start having profound effects on the way we live, and has already in ways we can’t predict.
 
-I’ve encouraged friends and colleagues to consider this future according to the following values:
-* **Focus**, because the agency robbing abyss of the Reddit front page is vast
-* **Curiosity**, because it keeps us in a state of welcoming challenge and change
-* **Diligence**, because no matter what the outcome is, getting there fast matters
-* **Patience**, because while the temptation is always to have closure, it will take time
+I’ve encouraged friends and colleagues to consider these values:
+* **Focus** - the agency robbing abyss of the Reddit front page is vast
+* **Curiosity** - it keeps us in a state of welcoming challenge and change
+* **Diligence** - no matter what the outcome is, getting there fast matters
+* **Patience** - while the temptation is always to have closure, it will take time
 
 We can look at the accelerating progress in each of these areas and attempt to understand the implications it will have on us. But in the midst of accelerating technological progress, progress that the world has arguably not seen since the industrial revolution, it is easy to become cynical and distracted. The great challenge is to hold on long enough to see the benefits of the long term compounding unfold.
