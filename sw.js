@@ -9,7 +9,7 @@ const { CacheableResponse } = workbox.cacheableResponse;
 
 workbox.core.setCacheNameDetails({
   prefix: 'rogerkirkness.com',
-  suffix: '{{ site.time | date: "%Y%m%d%H" }}'
+  suffix: '{{ site.time | date: "%Y%m%d%H%M" }}'
 });
 
 registerRoute(
