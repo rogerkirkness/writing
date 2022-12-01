@@ -28,3 +28,17 @@ workbox.precaching.precacheAndRoute([
   {% endfor -%}
   { url: '/', revision: '{{ site.time | date: "%Y%m%d%H%M" }}' },
 ])
+
+registerRoute(
+  ({request}) => request.destination === 'image' ,
+  new CacheFirst({
+    plugins: [
+      new CacheableResponse({statuses: [0, 200]})
+    ],
+  })
+);
+
+registerRoute(
+  /assets\/(images|icons|css)/,
+  new CacheFirst()
+);
