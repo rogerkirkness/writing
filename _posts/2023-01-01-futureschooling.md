@@ -6,7 +6,7 @@ date: January 2023
 
 I’d like to propose a variant of homeschooling called futureschooling, which aims to develop children with high and accurate aspirations for themselves. This involves developing a sense of self and maximizing yourself against what you value. The goal is to become great at whatever you choose to pursue.  
 
-These principles are focused on accelerating technological progress, reducing violence, and increasing personal freedom and can be applied in a homeschooling setting or elsewhere. As I reflect on my experience as an unschooler ([here](https://rogerkirkness.com/unschooling)) and my personal philosophies, I plan to use futureschooling to guide my own children's development.
+These principles are focused on accelerating technological progress, reducing violence, and increasing personal freedom and can be applied in a homeschooling setting or elsewhere. As I reflect on my experience as an unschooler ([here](https://rogerkirkness.com/unschooling)), I plan to use futureschooling to guide my own children's development.
 
 ### Principle #1: Determined Optimism
 The future will be better only if we create a better future. Peter Thiel outlined a 2x2 matrix outlining whether a culture is pessimistic or optimistic, and whether they are determinate or indeterminate. Futureschooling takes for granted that one is a determinate optimist, meaning you believe the future will be better as a result of specific actions. Optimism is good and a widely cultivated value in the West, but we have to be specific about how to make a better future for it to work. 
