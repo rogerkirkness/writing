@@ -5,7 +5,7 @@ date: January 2023
 ---
 
 
-Futureschooling aims to develop children with high and accurate aspirations for themselves. This involves developing a sense of self, and maximizing that self against what you decide to value to a satisfying degree. The goal is to become great at whatever you choose to pursue. As I reflect on my experience as an unschooler ([here](https://rogerkirkness.com/unschooling)), I plan to use futureschooling to guide my own children's development.
+Futureschooling aims to develop children with high and accurate aspirations. This involves developing a sense of self, and maximizing that self against what you decide to value to a satisfying degree. The goal is to become great at whatever you choose to pursue. As I reflect on [my experience as an unschooler](https://rogerkirkness.com/unschooling), I plan to use futureschooling to guide my children's development.
 
 ### Principle #1: Determined Optimism
 Peter Thiel outlined a framework for thinking about determinism and optimism. Where one can choose to be either determinate or indeterminate, and optimistic or pessimistic, futureschooling prefers determinate optimism. Which amounts to a belief that the future will be better if we build it. 
