@@ -2,6 +2,7 @@
 layout: post
 title: Freedom of Time
 date: August 2017
+tags: [reflection]
 ---
 People want things. A particularly trendy thing to want currently is entrepreneurship. Most people do not want to work longer hours or risk their personal finances. Most people actually want freedom of time. Entrepreneurship in practice allows you to work any 60 hours a week you want. Which is appealing to a certain kind of person that values freedom of time.
 
