@@ -2,6 +2,7 @@
 layout: post
 title: Inflation
 date: May 2021
+tags: [economics]
 ---
 You can increase the supply of money, but you can’t increase the supply of value without technology. If technology is defined as doing more with less, inflation is entropy -- it’s doing less (goods and services) with more (money). Because the supply of money is increasing through government policy choices more quickly than technology is progressing, the Western world is experiencing inflation. Unless we can find a way for technological progress to outrun the spending, the ratio between money and value will continue to progress in the wrong direction.
 
