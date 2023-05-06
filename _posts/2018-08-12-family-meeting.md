@@ -2,6 +2,7 @@
 layout: post
 title: Family Meeting
 date: '2018-08-12'
+tags: [lifestyle]
 ---
 Every Sunday, my wife and I (and our infant son -- not that he does much of the talking yet) have a family meeting. We tweak the format slightly every week depending on what is happening in our life, but we have done it for a few years at this point and the approach is now getting quite consistent week to week. We find it useful for staying in sync.
 
