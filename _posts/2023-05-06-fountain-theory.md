@@ -2,6 +2,7 @@
 layout: post
 title: Fountain Theory
 date: May 2023
+tags: [psychology]
 ---
 
 Over time, I’ve developed a pet theory to explain some of the social difficulties and loneliness of high IQ people. It can be visualized the way water behaves when leaving a fountain pointed up in the air. Near the source of the water, the drops of water are closer to each other. This represents the creative potential and allowable types of thinking of lower IQ people, that they think similarly to each other and to the median.
