@@ -2,6 +2,7 @@
 layout: post
 title: Scary Math
 date: April 2014
+tags: [lifestyle]
 ---
 I read an article recently about social media usage. The article focuses on the big four networks, being Facebook, Twitter, Instagram and LinkedIn. Having worked in social media, I still found some of the numbers rather surprising, which is what inspired this post on some scary math that can be derived from the stats in the article.
 
