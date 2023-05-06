@@ -2,7 +2,7 @@
 layout: post
 title: Prompts, People and Domains
 date: April 2023
-tags: [ai]
+tags: [AI]
 ---
 
 The future of knowledge work will not look like the past. Too often, people look at trendlines and try to extrapolate things incrementally. With the advent of modern generative AI, knowledge work is going to drastically change. Whether that change is for the better of an individual or a company depends on how we respond to these changes.
