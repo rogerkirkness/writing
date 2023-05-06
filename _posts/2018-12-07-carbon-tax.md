@@ -2,6 +2,7 @@
 layout: post
 title: Carbon Tax
 date: December 2018
+tags: [politics]
 ---
 I’ve written up my thoughts on occasion to various levels of politicians on carbon taxes but I wanted to put them in a single place in order to clarify my own thinking and get ideas from others on how to solve this issue. My assertion is that a revenue neutral, universally applied carbon tax will be necessary to price in climate change externalities and prevent them in future.
 
