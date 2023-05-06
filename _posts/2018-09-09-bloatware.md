@@ -2,6 +2,7 @@
 layout: post
 title: Bloatware
 date: September 2018
+tags: [technology]
 ---
 I don't like that phones come with apps I don't want. The manufacturer and the OS providers know they are useless, so why do they include them? I found a way to safely remove unused apps from an Android phone, even the annoying ones that they don't let you delete, that won't destroy your phone (if you do it right) and works on any app. It only works if you delete stuff that isn't important, so research the name of the app before you do it and keep a backup.
 
