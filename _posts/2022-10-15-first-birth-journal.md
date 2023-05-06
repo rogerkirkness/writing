@@ -2,6 +2,7 @@
 layout: post
 title: First Birth Journal
 date: October 2022
+tags: [reflection]
 ---
 *The following is a document I wrote the week after our first child was born while he was still in the ICU, largely unedited.*
 
