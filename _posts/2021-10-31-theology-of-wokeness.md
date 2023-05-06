@@ -2,6 +2,7 @@
 layout: post
 title: Theology of Wokeness
 date: October 2021
+tags: [politics]
 ---
 The core assertion of this essay is that religion has reemerged in the form of wokeness. The more I explore the ideas of modern progressivism, aka wokeness, the more clear it is that it is theological in nature. Religion is defined as: “... an organized collection of beliefs, cultural systems, and world views that relate humanity to an order of existence.” Wokeness clearly fits that definition, and further mimics many of the historical behaviors of major religions. Like religion, it feels good. Like religion, if you sum it together, it contradicts itself and sums to zero.
 
