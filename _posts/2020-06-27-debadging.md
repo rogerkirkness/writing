@@ -2,6 +2,7 @@
 layout: post
 title: Debadging
 date: June 2020
+tags: [lifestyle]
 ---
 Since I was a teenager, I’ve had this unusual obsession with debadging things. It’s mostly a term used for cars, where you remove the logo and model type from the outside of the car. The goal differs, but it’s generally to make the aesthetic simpler and not muddy it with branding. The idea is similar I think for clothes and other items. I find I like clean and simple aesthetics more over time, they seem more durable than ornate or obvious approaches to design. I think it’s an exercise in essentialism: how many elements can be removed before the only thing left is value.
 
