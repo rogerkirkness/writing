@@ -2,6 +2,7 @@
 layout: post
 title: Constitution of Business
 date: November 2020
+tags: [business]
 ---
 I have been re-reading The Federalist Papers ahead of the US presidential election. Highly recommended. It is remarkable how many of the problems that American politics currently experiences are predicted by Madison and Hamilton. The section about how both sides of the argument were anxious about the President being able to elect judges to the Supreme Court for example. Or the section about how to appropriate the number of Senate seats, where it appears that Hamilton and Madison were actually on the losing side (they wanted proportionate but as we know it was eventually decided that senate seats would be fixed on a per state basis). 
 
