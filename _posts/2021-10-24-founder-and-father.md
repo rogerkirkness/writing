@@ -2,6 +2,7 @@
 layout: post
 title: Founder and Father
 date: October 2021
+tags: [reflection]
 ---
 
 Being a Dad and starting a company at the same time is hard. I wrote a version of this essay, and then deleted it, because it wasn’t honest. It was aspirational and measured. My experience as a founder and father have been neither. They have been brutally mundane, extremely uncomfortable, and often directly conflicting in their needs. This is my reflection.
