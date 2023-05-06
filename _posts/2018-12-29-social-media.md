@@ -2,6 +2,7 @@
 layout: post
 title: Social Media
 date: December 2018
+tags: [technology]
 ---
 I think social media is a failed cultural experiment. By that I mean, at least here in North America, I think usage will go down over time rather than up. It seems more likely to end-game along the lines of smoking than it does to become some kind of taken-for-granted public good. I like to use a borrowed analogy for technologies that are unanimously good: we don’t call them technology anymore. Windows (the kind you see through), surgery and bicycles are so unapologetically good we don’t call them technology anymore: they just are. Social media will never get into that category in my opinion, instead it will fade into a social vice like smoking.
 
