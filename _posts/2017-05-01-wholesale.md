@@ -2,6 +2,7 @@
 layout: post
 title: Wholesale
 date: May 2017
+tags: [business]
 ---
 Wholesale commerce involves selling to distributors or retailers. It would seem like a wholesale tool is the opposite of what we should build by that definition if one assumes that makers selling to end users is the optimal form of commerce. This shows a failure to empathize with the consumer of the product. Wholesale exists because it creates value for the consumer in other ways. It will happen more in the future, not less.
 
