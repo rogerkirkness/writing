@@ -2,6 +2,7 @@
 layout: post
 title: The Coming Era
 date: November 2022
+tags: [futurism]
 ---
 There are three concurrent technological revolutions in the early stages of taking effect on the world. Each of them present the potential to have a greater impact on the functioning of humankind than the prior ones. Those revolutions are: sustainable low marginal cost energy, applied biotechnology and artificial intelligence.
 
