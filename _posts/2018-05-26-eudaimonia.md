@@ -2,6 +2,7 @@
 layout: post
 title: Eudaimonia
 date: May 2018
+tags: [philosophy]
 ---
 Eudaimonia is an alternative kind of happiness to hedonic. Almost no one actually uses those words in conversation, but hedonic means pleasurable where eudaimonia sort of boils down to meaningful. Hedonic happiness, as in pleasure, has been popular lately while people complain of a lack of meaning in their lives. Eudaimonic happiness was theorized to counteract that, by focusing on ethics and meaning instead of pleasure, but those things can be pretty zero-sum and counter-intuitive as I’ll show.
 
