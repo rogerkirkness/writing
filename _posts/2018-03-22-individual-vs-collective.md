@@ -2,6 +2,7 @@
 layout: post
 title: Individual vs Collective
 date: March 2018
+tags: [philosophy]
 ---
 Historically, the Western world has been known for individuality. By contrast, much of the developing world embraces collectivism. Most places tend to have aspects of individuality and collectivism built into identify formation, but the ideal that is pursued tends to be on opposite ends of the spectrum depending on where you are. I think part of what is frustrating people in the Western world about immigration is the shift from individuality to collectivism at the national political level among all parties.
 
