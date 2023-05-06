@@ -2,6 +2,7 @@
 layout: post
 title: Hydroxyapatite
 date: October 2018
+tags: [science]
 ---
 I recently discovered some scientific papers ([Enamel and dentine remineralization by hydroxyapatite toothpastes][https://www.sciencedirect.com/science/article/pii/S0300571211000832]) about a new (ish) kind of toothpaste, containing something called hydroxyapatite. It's a chemical that is comprised of minerals in a similar form to those found in bones, teeth in particular. It acts in a different way than conventional fluoride toothpaste, and the studies I read suggest that it pretty consistently results in remineralization (healing) of your teeth and less cavities. Because fluoride is a pretty awful neurotoxin, a science-backed alternative seems appealing.
 
