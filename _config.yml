@@ -2,3 +2,6 @@ url: "https://rogerkirkness.com"
 permalink: /:title
 plugins:
   - jekyll-sitemap
+collections:
+  - ai
+  - responsibility
