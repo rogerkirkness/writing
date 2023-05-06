@@ -2,8 +2,18 @@
 title: Writing
 layout: default
 ---
-<ul class="essays">
-	{% for post in site.posts %}
-		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<div class="card-container">
+	{% for tag in site.tags %}
+		<div class="card" data-topic="{{ tag[0] }}">
+			<div class="card-content">
+				<h4>{{ tag[0] }}</h4>
+				<hr>
+				<ul class="essays">
+					{% for post in site.tags[page.tag] %}
+						<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
 	{% endfor %}
-</ul>
+</div>
