@@ -40,6 +40,30 @@
 			padding-left: 5px;
 			padding-right: 10px;
 		}
+		.card-container {
+		  width: 1200px;
+		  display: flex;
+		  flex-wrap: wrap;
+		  justify-content: space-between;
+		  padding: 1rem;
+		}
+
+		.card {
+		  background-color: #f5f5f5;
+		  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+		  flex: 0 0 calc(33.333% - 2rem);
+		  margin: 1rem;
+		  padding: 1rem;
+		  transition: all 0.3s;
+		}
+
+		.card-content h4 {
+		  margin-top: 0;
+		}
+
+		.card-content ul {
+		  margin-bottom: 0;
+		}
 	</style>
 </head>
 
@@ -52,11 +76,9 @@
 			<li><a target="_blank" rel="noopener" href="https://github.com/rogerkirkness/personal">Source Code</a></li>
 		</ul>
 	</nav>
-	<div class="container">
-		<main>
-			{{ content }}
-		</main>
-	</div>
+	<main>
+		{{ content }}
+	</main>
 </body>
 
 <script>
