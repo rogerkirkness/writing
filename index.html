@@ -3,7 +3,7 @@ title: Writing
 layout: default
 ---
 <div class="card-container">
-	{% for tags in site.tags %}
+	{% for tag in site.tags %}
 		<div class="card">
 			<div class="card-content">
 				<h4>{{ tag[0] }}</h4>
@@ -16,4 +16,11 @@ layout: default
 			</div>
 		</div>
 	{% endfor %}
+	<ul class="essays">
+          {% for post in site.posts %}
+            {% if post.tags.size == 0 %}
+              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
 </div>
