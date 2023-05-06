@@ -2,6 +2,7 @@
 layout: post
 title: Investing
 date: May 2018
+tags: [business]
 ---
 
 The two main resources that we can invest as individuals are time and money. For the sake of argument let's pretend that the money part matters, because by far the most important resource to invest carefully is obviously time, something which cannot be renewed and luck has no bearing on.
