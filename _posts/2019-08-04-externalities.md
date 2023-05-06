@@ -2,6 +2,7 @@
 layout: post
 title: Externalities
 date: August 2019
+tags: [economics]
 ---
 People seem to routinely misprice externalities into their decision making. Consuming gas for it’s transportation benefits without pricing in the environmental impact is the obvious one. Doing something that wastes time but saves money would be a less obvious version: by accounting your own time with a value of zero, you create a significant distortion of economic and practical reality. Much like gas and the environment, the consequences are serious if routinely mistaken.
 
