@@ -2,6 +2,7 @@
 layout: post
 title: Security or Privacy
 date: March 2019
+tags: [futurism]
 ---
 I used to be quite sure of my position that privacy was more important than security. By that I mean when you face a trade off between security or privacy, I would be on the privacy side of that argument. That could be digital, in a sense that Firefox is a more private but less secure browser compared to Chrome, or physical, in a sense that facial recognition in public spaces is more secure but less private. As time goes on, I’m less convinced that privacy, or what people call privacy, is likely to work. I’m more inclined to say that privacy is somewhat of a luxury, to be reserved for the people and situations that demand it and not generally a widely held preference. Security is something that tends to be more popular in practice than in theory.
 
