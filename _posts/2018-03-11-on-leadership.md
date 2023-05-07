@@ -2,6 +2,7 @@
 layout: post
 title: On Leadership
 date: March 2018
+tags: [business]
 ---
 The currency of leadership is respect. The currency of management is output. Sometimes people conflate the two, and refer to senior managers as “senior leadership” or to managers as “leads” but there is a big difference. Lots of things that result in output are not respectable. Lots of respectable things result in lower output. The difference therefore is material to how people decide to act, how they perceive themselves and how they are perceived. A great leader receives near universal respect, even if people may not necessarily like them. A great manager has consistent output, but respect is usually not as important. Both are necessary.
 
