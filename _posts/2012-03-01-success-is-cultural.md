@@ -2,6 +2,7 @@
 layout: post
 title: Success is Cultural
 date: March 2012
+tags: [reflection]
 ---
 
 Culture is defined as the quality in a person or society that arises from a concern for what is regarded as excellence. It is simply the interactions you are surrounded by on a daily basis that result in you acting in the way you do. Culture is powerful, something which can shape the entire rest of your life if you let it; however it can be manipulated to work for you instead.
