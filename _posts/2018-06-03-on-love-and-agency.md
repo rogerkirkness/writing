@@ -2,6 +2,7 @@
 layout: post
 title: On Love and Agency
 date: June 2018
+tags: [philosophy]
 ---
 It seems like one area people don’t try hard is love. For someone with high agency, the concept of “falling” in love sounds like a depression symptom. Love is something that you build, on purpose, every day. It takes time and it does not “last” in a sense that it cannot be sustained without deliberate effort. This concept isn’t lost on people in the world of sports or business, when it comes to working and what it takes to be successful, when applied to love however people’s agency melts away.
 
