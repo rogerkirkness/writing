@@ -2,6 +2,7 @@
 layout: post
 title: Gratis versus libre
 date: November 2020
+tags: [technology]
 ---
 I’ve been thinking about the Stewart Brand quote: “information wants to be free” and the latin that came before it: “Gratis versus libre” which roughly translates to “free without restriction”. 
 
