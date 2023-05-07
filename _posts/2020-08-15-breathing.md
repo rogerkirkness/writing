@@ -2,6 +2,7 @@
 layout: post
 title: Breathing
 date: August 2020
+tags: [science]
 ---
 I have been spending more time being aware of my breathing, and learned a lot about myself in the process. Some combination of child birthing classes, Wim Hof being referenced on YouTube and curiosity led me down an internet rabbit hole about breathing. One assumes it’s a given that our bodies will tune our breathing optimally, but that is far from the case. Almost everyone breaths wrong in some way, and it has a fundamental impact on health and wellness.
 
