@@ -2,6 +2,7 @@
 layout: post
 title: Group Survival
 date: June 2019
+tags: [business]
 ---
 One of my pet theories is that group survival is not well understood by science and further that the dynamics of group survival significantly impact daily life. My assertion is that group survival is the main source of respect, conflict, deference, dominance and success in groups of people. Much more so than other factors people seem to attribute success to. And that people, without realizing it in most cases, will upgrade who they respect and defer to when someone that offers superior abilities to the group comes along. It’s a rather strange concept considering our social nature. In practice, we may not be that social, favoring a marketplace of competence instead.
 
