@@ -2,6 +2,7 @@
 layout: post
 title: Fewer Better
 date: October 2019
+tags: [lifestyle]
 ---
 I’m coming to realize that everything is a series of trade off decisions made whether you recognize them or not but which ultimately lead to the natural conclusion of something. For example, you can do more things, but that often impacts quality (ie. more things, worse). I’ve also realized that most people actually take that path, doing more things of lower quality. I think some people perceive that as both efficient and effective, doing something good enough. As time goes on, I feel that doing fewer things better is comparatively rare. People tend to notice it when it happens though because doing something well is the exception rather than the rule.
 
