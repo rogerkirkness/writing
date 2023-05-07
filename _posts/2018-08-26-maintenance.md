@@ -2,6 +2,7 @@
 layout: post
 title: Maintenance
 date: August 2018
+tags: [philosophy]
 ---
 I have been thinking more about the concept of maintenance. At a certain point in your life, the percentage of your time that you spend starting things and leveling up rapidly levels off. As time goes on, the percentage of time spent maintaining existing things (relationships, sources of income, skills, housing, tools) increases, because you start to have the components you want.
 
