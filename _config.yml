@@ -9,7 +9,3 @@ defaults:
       type: "posts"
     values:
       pdf: true
-pdf:
-  cache: false
-  page_size: Digest
-  layout: pdf
