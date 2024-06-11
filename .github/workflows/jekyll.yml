@@ -57,7 +57,9 @@ jobs:
       - name: Concatenate and Convert Markdown to PDF
         run: |
           mkdir pdf
-          find _site -name '*.md' -exec cat {} + > pdf/combined.md
+          find _posts -name '*.md' | sort | while read file; do
+            sed '/---/,/---/d' "$file" >> pdf/combined.md
+          done
           pandoc pdf/combined.md -o book.pdf --pdf-engine=xelatex
       - name: Upload PDF to Artifacts
         uses: actions/upload-artifact@v2
