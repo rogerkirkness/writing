@@ -2,3 +2,15 @@ url: "https://rogerkirkness.com"
 permalink: /:title
 plugins:
   - jekyll-sitemap
+  - jekyll-pdf
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      pdf: true
+pdf:
+  cache: false
+  page_size: Digest
+  layout: pdf
