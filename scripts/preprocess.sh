@@ -9,7 +9,7 @@ find _posts -name '*.md' | sort | while IFS= read -r file; do
         title=$(sed -n '/^title: /p' "$file" | sed 's/title: //')
         echo -e "\n\n# $title\n\n" >> "$output"
         sed -e '1,/^\---$/d' -e '/^\---$/,$d' "$file" >> "$output"  # Strip YAML front matter
-        echo -e "\n\n\\newpage\n\n" >> "$output"
+        echo -e "\n\n\\\\newpage\n\n" >> "$output"
     else
         echo "Skipping missing file $file"
     fi
