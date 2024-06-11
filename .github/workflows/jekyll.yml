@@ -64,21 +64,24 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-texlive-pandoc-
       - name: Install Pandoc and LaTeX
+        if: steps.cache.outputs.cache-hit != 'true'
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-xetex
-      - name: Concatenate and Convert Markdown to PDF
+      - name: Create PDF directory
+        run: mkdir -p pdf
+      - name: Set Execution Permissions for Script
+        run: chmod +x scripts/preprocess.sh
+      - name: Run Preprocess Script
+        run: ./scripts/preprocess.sh
+      - name: Convert Markdown to PDF
         run: |
-          mkdir pdf
-          find _posts -name '*.md' | sort | while read file; do
-            sed '/---/,/---/d' "$file" >> pdf/combined.md
-          done
-          pandoc pdf/combined.md -o book.pdf --pdf-engine=xelatex geometry:"paperwidth=5.5in,paperheight=8.5in,margin=1in"
+          pandoc pdf/combined.md -o pdf/book.pdf --pdf-engine=xelatex -V geometry:"paperwidth=5.5in,paperheight=8.5in,margin=1in"
       - name: Upload PDF to Artifacts
         uses: actions/upload-artifact@v2
         with:
           name: book
-          path: book.pdf
+          path: pdf/book.pdf
   
   # Deployment job
   deploy:
