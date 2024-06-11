@@ -70,9 +70,12 @@ jobs:
         run: chmod +x scripts/preprocess.sh
       - name: Run Preprocess Script
         run: ./scripts/preprocess.sh
-      - name: Convert Markdown to PDF
+      - name: Covnert Markdown to PDF
         run: |
-          pandoc pdf/combined.md -o pdf/book.pdf --pdf-engine=xelatex -V geometry:"paperwidth=5.5in,paperheight=8.5in,margin=1in"
+          pandoc pdf/combined.md -o pdf/book.pdf --pdf-engine=xelatex \
+          -V geometry:"paperwidth=5.5in,paperheight=8.5in,margin=0.75in,inner=0.875in" \
+          -V mainfont="Times New Roman" -V sansfont="Arial" -V monofont="Courier New" \
+          -V linestretch=1.5 --toc --toc-depth=2
       - name: Upload PDF to Artifacts
         uses: actions/upload-artifact@v2
         with:
