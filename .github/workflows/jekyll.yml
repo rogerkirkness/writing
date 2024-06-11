@@ -50,6 +50,15 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+      - name: Cache LaTeX and Pandoc
+        uses: actions/cache@v2
+        with:
+          path: |
+            /usr/local/texlive
+            /usr/local/bin/pandoc
+          key: ${{ runner.os }}-texlive-pandoc-${{ hashFiles('**/*.md') }}
+          restore-keys: |
+            ${{ runner.os }}-texlive-pandoc-
       - name: Install Pandoc and LaTeX
         run: |
           sudo apt-get update
