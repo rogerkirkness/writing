@@ -50,20 +50,26 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
-      - name: Convert Markdown to PDF
-        uses: docker://pandoc/latex:2.9
-        with:
-          args: >
-            --from markdown
-            --to pdf
-            --output book.pdf
-            $(find _site -name '*.md' | xargs)
+
+  # Book job
+  book:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex
+      - name: Concatenate and Convert Markdown to PDF
+        run: |
+          mkdir pdf
+          find _site -name '*.md' -exec cat {} + > pdf/combined.md
+          pandoc pdf/combined.md -o book.pdf --pdf-engine=xelatex
       - name: Upload PDF to Artifacts
         uses: actions/upload-artifact@v2
         with:
           name: book
           path: book.pdf
-      
+  
   # Deployment job
   deploy:
     environment:
