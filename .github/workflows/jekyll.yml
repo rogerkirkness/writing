@@ -69,7 +69,7 @@ jobs:
           find _posts -name '*.md' | sort | while read file; do
             sed '/---/,/---/d' "$file" >> pdf/combined.md
           done
-          pandoc pdf/combined.md -o book.pdf --pdf-engine=xelatex
+          pandoc pdf/combined.md -o book.pdf --pdf-engine=xelatex geometry:"paperwidth=5.5in,paperheight=8.5in,margin=1in"
       - name: Upload PDF to Artifacts
         uses: actions/upload-artifact@v2
         with:
