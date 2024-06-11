@@ -50,10 +50,6 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
-      - name: Preprocess Markdown Files
-        run: |
-          chmod +x scripts/preprocess.sh
-          ./scripts/preprocess.sh
       - name: Cache LaTeX and Pandoc
         uses: actions/cache@v2
         with:
