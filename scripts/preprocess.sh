@@ -2,7 +2,7 @@
 
 output_dir="pdf"
 output_file="${output_dir}/combined.md"
-honeycomb_image_path="/images/honeycomb.webp"  # Update this path
+honeycomb_image_path="/images/honeycomb.jpeg"  # Update this path
 
 # Ensure the output directory exists
 mkdir -p "$output_dir"
