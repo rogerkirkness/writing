@@ -67,11 +67,15 @@ jobs:
           -V linestretch=1.5 --toc --toc-depth=2  \
           -H <(echo '\usepackage{graphicx}')
       - name: Upload PDF to Artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
-          name: book
+          name: ESSAYS by ROGER KIRKNESS
           path: pdf/book.pdf
-  
+      - name: Move PDF to GitHub Pages directory
+        run: |
+          mkdir -p _site/book  # Ensure the directory exists
+          mv pdf/book.pdf _site/book/book.pdf  # Move the PDF
+        
   # Deployment job
   deploy:
     environment:
