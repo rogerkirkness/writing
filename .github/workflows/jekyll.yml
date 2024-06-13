@@ -73,8 +73,7 @@ jobs:
           path: pdf/book.pdf
       - name: Move PDF to GitHub Pages directory
         run: |
-          mkdir -p _site/book  # Ensure the directory exists
-          mv pdf/book.pdf _site/book/book.pdf  # Move the PDF
+          cp pdf/book.pdf _site/book.pdf  # Move the PDF
         
   # Deployment job
   deploy:
