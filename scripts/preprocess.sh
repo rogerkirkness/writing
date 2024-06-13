@@ -13,7 +13,6 @@ find _posts -name '*.md' | while IFS= read -r file; do
         if [ -z "$book_status" ]; then  # Proceed only if 'book: false' is not found
             tag=$(sed -n -e 's/^tags: \[\(.*\)\]/\1/p' "$file")
             tags[$tag]+="$file "  # Append file to the list of files for this tag
-            echo "The post $file is in the $tag category"
         fi
     fi
 done
