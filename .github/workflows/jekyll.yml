@@ -42,14 +42,6 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        env:
-          JEKYLL_ENV: production
-      - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v3
       - name: Install Pandoc and LaTeX
         run: |
           sudo apt-get update
@@ -74,6 +66,14 @@ jobs:
       - name: Move PDF to GitHub Pages directory
         run: |
           mv pdf/book.pdf _site/book.pdf  # Move the PDF
+      - name: Build with Jekyll
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+      - name: Upload artifact
+          # Automatically uploads an artifact from the './_site' directory by default
+          uses: actions/upload-pages-artifact@v3
         
   # Deployment job
   deploy:
