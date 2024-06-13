@@ -18,6 +18,8 @@ find _posts -name '*.md' | while IFS= read -r file; do
     fi
 done
 
+echo "Tags found: ${!tags[@]}"
+
 # Process each tag and its associated files
 for tag in "${!tags[@]}"; do
     echo "Processing tag: $tag"
