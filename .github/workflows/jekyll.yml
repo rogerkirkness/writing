@@ -64,7 +64,8 @@ jobs:
         run: |
           pandoc pdf/combined.md -o pdf/book.pdf --pdf-engine=xelatex \
           -V geometry:"paperwidth=5.5in,paperheight=8.5in,margin=0.75in" \
-          -V linestretch=1.5 --toc --toc-depth=2
+          -V linestretch=1.5 --toc --toc-depth=2 \
+          -H <(echo '\usepackage{graphicx}')
       - name: Upload PDF to Artifacts
         uses: actions/upload-artifact@v2
         with:
