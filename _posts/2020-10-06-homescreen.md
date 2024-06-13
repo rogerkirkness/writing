@@ -3,6 +3,7 @@ layout: post
 title: Homescreen
 date: October 2020
 tags: [lifestyle]
+book: false
 ---
 I like seeing screenshots of people's homescreen. Not clear why. Mine is below. I only use Google apps and Signal. No email, no browser. I do have a few apps that I enable or disable (e.g. YouTube Music) that are uncommonly used. 
 
