@@ -69,12 +69,11 @@ jobs:
       - name: Upload PDF to Artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: book
+          name: ESSAYS by ROGER KIRKNESS
           path: pdf/book.pdf
       - name: Move PDF to GitHub Pages directory
         run: |
-          mkdir -p _site/books
-          mv pdf/book.pdf _site/books/book.pdf  # Move the PDF
+          mv pdf/book.pdf _site/book.pdf  # Move the PDF
         
   # Deployment job
   deploy:
