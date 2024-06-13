@@ -17,4 +17,5 @@ find _posts -name '*.md' | sort | while IFS= read -r file; do
         else
             echo "Skipping $file (book set to false)"
         fi
+    fi
 done
