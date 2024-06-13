@@ -14,6 +14,7 @@ add_or_append() {
     for i in "${!tagsArray[@]}"; do
         if [[ "${tagsArray[i]}" == "$newtag" ]]; then
             filesArray[i]+="$newfile "
+            echo filesArray[i]
             return
         fi
     done
