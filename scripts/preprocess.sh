@@ -3,6 +3,21 @@
 output="pdf/combined.md"
 echo "" > "$output"
 
+# Holds tags
+declare -A tags
+
+# Collect posts and their tags
+find _posts -name '*.md' | while IFS= read -r file; do
+    if [ -f "$file" ]; then
+        book_status=$(sed -n '/^book: false/p' "$file")
+        if [ -z "$book_status" ]; then  # Proceed only if 'book: false' is not found
+            tag=$(sed -n -e 's/^tags: \[\(.*\)\]/\1/p' "$file")
+            tags[$tag]+="$file "  # Append file to the list of files for this tag
+            echo "The post $file is in the $tag category"
+        fi
+    fi
+done
+
 find _posts -name '*.md' | sort | while IFS= read -r file; do
     if [ -f "$file" ]; then
         # Check if 'book' is set to 'false' in the front matter
