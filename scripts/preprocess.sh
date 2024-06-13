@@ -45,8 +45,7 @@ for i in "${!tagsArray[@]}"; do
     files="${filesArray[i]}"
     for file in $files; do
         title=$(sed -n '/^title: /p' "$file" | sed 's/title: //')
-        echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n\\\\begin{center}\n\\\\Large $title\n\\\\end{center}\n" >> "$output"
-        # echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n# $title\n\n" >> "$output" // known to work
+        echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n\\\\begin{center}\n# $title\n\\\\end{center}\n" >> "$output"
         echo -e "\n\\\\begin{center}\n\\\\includegraphics[width=0.1\\\\textwidth]{$honeycomb_image}\n\\\\end{center}\n" >> "$output"
         sed -e '1,/^\---$/d' -e '/^\---$/,$d' "$file" >> "$output"
         echo -e "\n\n\\\\newpage\n\n" >> "$output"

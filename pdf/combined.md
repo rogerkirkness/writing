@@ -8,7 +8,7 @@
 
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{images/honeycombs.png}
+\includegraphics[width=0.2\textwidth]{images/honeycombs.png}
 \end{center}
 
 
@@ -19,12 +19,13 @@
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Success is Cultural
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -50,12 +51,13 @@ As the world gets figuratively smaller, the rich will get richer and the poor wi
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Freedom of Time
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 People want things. A particularly trendy thing to want currently is entrepreneurship. Most people do not want to work longer hours or risk their personal finances. Most people actually want freedom of time. Entrepreneurship in practice allows you to work any 60 hours a week you want. Which is appealing to a certain kind of person that values freedom of time.
@@ -85,12 +87,13 @@ Most people could achieve freedom of time decades sooner if they saved what they
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Time
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Perception adjusted, life is half over at age 24.
@@ -102,12 +105,13 @@ Perception adjusted, life is half over at age 24.
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # 25 Years
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 As much as they usually read the same (e.g. "spend more time with your family"), I like reading "X things I've learned in Y years" lists. I turn 25 tomorrow, so I thought I would journal things I have learned that might not be obvious to people at any age, or that people of any age might disagree with. Consider this counter conventional wisdom. My list of 25 things I have learned in 25 years:
@@ -169,12 +173,13 @@ As much as they usually read the same (e.g. "spend more time with your family"),
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Focus
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I’m resolving to focus on depth. I’ve spent the first half of my 20s expanding the scope of my life: starting my career, starting a business, starting a family, starting a marriage, starting new skills. At this point, my day is full of things I find to be meaningful, so much so that sometimes I work (in the abstract sense) on those things from when I wake up, until I go to bed. That’s a fortunate position to be in, but the drawback is that things start to suffer when more is added. I’ve reached the point of diminishing returns when it comes to meaningful pursuits. It's time to go deep.
@@ -194,12 +199,13 @@ It’s exciting to think about the impact getting off the hedonic treadmill of n
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Founder and Father
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -242,7 +248,7 @@ If that sounds dramatic, wait until you meet toddlers and customers.
 
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{images/honeycombs.png}
+\includegraphics[width=0.2\textwidth]{images/honeycombs.png}
 \end{center}
 
 
@@ -253,12 +259,13 @@ If that sounds dramatic, wait until you meet toddlers and customers.
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Value
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 There are a number of ways to look at the value of something. Intrinsic value is the non-monetary importance of something, like an emotional attachment. The fiscal value is the monetary attachment or how much something is worth if sold. When making career choices, people are faced daily with decisions which will affect both their ability to create value and their ability to capture it.
@@ -280,12 +287,13 @@ In terms of career choices, it is important that a job, career choice or investm
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Downside Protection
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Something I talk about often is downside protection. I think it has a specific definition in investing, meaning a hedge against a potential for loss. The way I use it means how trajectory decisions you make or ways of allocating your resources that can prevent downside. The opposite would be upside potential, or the factors affecting something that result in growth or positive outcomes. My assertion is that too much downside protection leads to stagnation.
@@ -307,12 +315,13 @@ The whole point of self actualization is to live a life that is true to the thin
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Externalities
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 People seem to routinely misprice externalities into their decision making. Consuming gas for it’s transportation benefits without pricing in the environmental impact is the obvious one. Doing something that wastes time but saves money would be a less obvious version: by accounting your own time with a value of zero, you create a significant distortion of economic and practical reality. Much like gas and the environment, the consequences are serious if routinely mistaken.
@@ -344,12 +353,13 @@ I think we can all agree that the goal is to get more of what we want with less 
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Removal Cost
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 You can tell how much you value something by the harm it would do by being removed. It’s a clarifying way to think about the importance of something. Some things, like people we love, have infinite removal cost. There are no substitutes, your life simply gets worse in their absence. There are other things, that we confuse for good. Social media is a good example. I have yet to meet someone who removed Facebook from their phone and felt worse after. So the removal cost is actually positive: a good proxy for something you should remove.
@@ -363,12 +373,13 @@ I think people overestimate the removal cost of bad relationships. As in, they b
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Abundance
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 If we were in a world of abundance, rather than scarcity, would people even notice? How much excess wealth does the world need in the form of financial capital in order for people to determine that we’ve solved all of the fundamental problems of being? If we were in fact in a world of abundance and not one of scarcity, would people act differently or just be confused?
@@ -400,12 +411,13 @@ I would take my assertion further and say that most people think we are in a wor
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Inflation
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 You can increase the supply of money, but you can’t increase the supply of value without technology. If technology is defined as doing more with less, inflation is entropy -- it’s doing less (goods and services) with more (money). Because the supply of money is increasing through government policy choices more quickly than technology is progressing, the Western world is experiencing inflation. Unless we can find a way for technological progress to outrun the spending, the ratio between money and value will continue to progress in the wrong direction.
@@ -441,7 +453,7 @@ The question becomes what startup will benefit the most from a society that heav
 
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{images/honeycombs.png}
+\includegraphics[width=0.2\textwidth]{images/honeycombs.png}
 \end{center}
 
 
@@ -452,12 +464,13 @@ The question becomes what startup will benefit the most from a society that heav
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Scary Math
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I read an article recently about social media usage. The article focuses on the big four networks, being Facebook, Twitter, Instagram and LinkedIn. Having worked in social media, I still found some of the numbers rather surprising, which is what inspired this post on some scary math that can be derived from the stats in the article.
@@ -481,12 +494,13 @@ Making money is good, saving the world from poverty is good. We could achieve th
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Paperless
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I have basically no paper. I don’t say that to virtue signal, I’m just glad I went through the process of scanning everything. It’s much better to be able to call up searchable PDFs in Google Drive than try to find paper in some kind of physical filing system. This post is a short write-up of the two phases of going paperless: the initial mega-scan of every piece of paper you have (and shredding…) and the maintenance part where you scan everything as it comes in.
@@ -512,12 +526,13 @@ The main bottleneck to going paperless is getting over the initial hump of scann
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Family Meeting
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Every Sunday, my wife and I (and our infant son -- not that he does much of the talking yet) have a family meeting. We tweak the format slightly every week depending on what is happening in our life, but we have done it for a few years at this point and the approach is now getting quite consistent week to week. We find it useful for staying in sync.
@@ -565,12 +580,13 @@ We haven’t had to implement much in the way of rules (talk about this, don’t
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Haircuts
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I like to think about things that happen regularly, and cost money. Then I like to do zero-based budgeting and figure out if there is a way to eliminate that expense from my life. I especially focus on routines, because compounded through your life saving money on or eliminating a routine can result in significant financial swing. That financial swing can be used to buy more interesting things, like freedom of time or compounding in other financial instruments. Not everyone likes to think this way, it may not be good for the soul, but it’s a fun personal challenge.
@@ -590,12 +606,13 @@ If you have any unconventional ideas for shifting resources from low yield areas
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Special Box
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 When I was a kid, I put all of the special items that ended up in my life (twigs I liked, medals from sports, t-shirts from events, etc.) into a box appropriately named a special box. It occurred to me that everyone does something like this, collecting meaningful items, but there is very little written or talked about involving what system it makes sense to use for managing the items.
@@ -615,12 +632,13 @@ I’m not sure why a photo can’t do the significance of something like a bag o
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Go Small
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Maybe it’s just the people I surround myself with, but I hear “might as well go big” or some variation of it all the time. People say it about their personal life, and their business life. I’m not sure whether it’s good specific advice, but it’s generally terrible generic advice. My thinking on this is the opposite: go as small as you can. Risk is bad and you should try to make protect yourself from as many eventualities as you can.
@@ -638,12 +656,13 @@ There aren’t many areas of your life where incremental learning is harmful. An
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Vegetables
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 If I really reflect on changes I've made in my life that resulted in higher quality of life, the biggest would be eating more vegetables. It's almost comical to say, but it's true. Nothing has improved my mental and physical health (which seems to improve everything else) as much as increasing how many vegetables I eat.
@@ -665,12 +684,13 @@ If I had no information about someone's life situation, or was in one of those h
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Doctors and Consultants
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -687,12 +707,13 @@ Doctors are management consultants, but for physiology. I can see your trust in 
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Fewer Better
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I’m coming to realize that everything is a series of trade off decisions made whether you recognize them or not but which ultimately lead to the natural conclusion of something. For example, you can do more things, but that often impacts quality (ie. more things, worse). I’ve also realized that most people actually take that path, doing more things of lower quality. I think some people perceive that as both efficient and effective, doing something good enough. As time goes on, I feel that doing fewer things better is comparatively rare. People tend to notice it when it happens though because doing something well is the exception rather than the rule.
@@ -708,12 +729,13 @@ School is a good analogy for the parenting problem. It seems like the key issue 
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Debadging
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Since I was a teenager, I’ve had this unusual obsession with debadging things. It’s mostly a term used for cars, where you remove the logo and model type from the outside of the car. The goal differs, but it’s generally to make the aesthetic simpler and not muddy it with branding. The idea is similar I think for clothes and other items. I find I like clean and simple aesthetics more over time, they seem more durable than ornate or obvious approaches to design. I think it’s an exercise in essentialism: how many elements can be removed before the only thing left is value.
@@ -739,7 +761,7 @@ I’m not sure if this ended up being an essay about debadging or about quality,
 
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{images/honeycombs.png}
+\includegraphics[width=0.2\textwidth]{images/honeycombs.png}
 \end{center}
 
 
@@ -750,12 +772,13 @@ I’m not sure if this ended up being an essay about debadging or about quality,
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Halophytes
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 When land is irrigated for agriculture, salt content increases over time as the salt goes unused by fresh water crops and builds up in the soil as water is consumed for plant growth. There are currently 240,000 square miles of land on earth that are too saline to grow conventional food and fuel crops on and that number increases almost 8 square miles a day. As a result we have a France-sized patch of land too salty to grow anything of current use. The operative word there is current because there are plants that could grow there, halophytes, we just lack a market.
@@ -782,12 +805,13 @@ Once the world has successfully adopted halophytes as a means and source of the 
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Autophagy
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 The brain, and other parts of the body, recycle. The process is called autophagy. It’s what happens when you fast and sometimes happens without having to fast. The person who discovered it’s positive impact on people won the Nobel Prize in Medicine recently as a result of their work. It’s important that bodies can access it.
@@ -809,12 +833,13 @@ Relative to other diet advice, it doesn’t require (or sell) books to say “ea
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Hydroxyapatite
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I recently discovered some scientific papers about a new kind of toothpaste, containing something called hydroxyapatite. It's a chemical that is comprised of minerals in a similar form to those found in bones, teeth in particular. It acts in a different way than conventional fluoride toothpaste, and the studies I read suggest that it pretty consistently results in remineralization (healing) of your teeth and less cavities. Because fluoride is a pretty awful neurotoxin, a science-backed alternative seems appealing.
@@ -834,12 +859,13 @@ There are, it would appear, other ways.
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Breathing
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I have been spending more time being aware of my breathing, and learned a lot about myself in the process. Some combination of child birthing classes, Wim Hof being referenced on YouTube and curiosity led me down an internet rabbit hole about breathing. One assumes it’s a given that our bodies will tune our breathing optimally, but that is far from the case. Almost everyone breaths wrong in some way, and it has a fundamental impact on health and wellness.
@@ -863,12 +889,13 @@ I found YouTube the most useful source of information on breathing exercises, an
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Roxanne
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Every time I hear the term “red light therapy” I start singing the Police song Roxanne. It’s the friendlier term for photobiomodulation (PBM) or low level laser therapy. All of them mean the same thing: exposing your body to the red and infrared spectrum of light for the health benefits.
@@ -920,7 +947,7 @@ I’m also going to invest in the headset when the time comes. It has gone down 
 
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{images/honeycombs.png}
+\includegraphics[width=0.2\textwidth]{images/honeycombs.png}
 \end{center}
 
 
@@ -931,12 +958,13 @@ I’m also going to invest in the headset when the time comes. It has gone down 
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Unschooling
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I was unschooled. Unschooling is the antithesis of schooling. Homeschooling implicates structure and curriculum but delivered at home. Unschooling implicates self directed learning with little to no structure or curriculum. That is how I learned until I went to school. I went to school to socialize, not to learn, so in that sense I never really learned conventionally or through school.
@@ -962,12 +990,13 @@ If we teach everyone the same thing in the same environment, we encourage zero s
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Learn to Code
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Much has been written about learning how to code. Instead of rehashing the best of what is out there, of which there is already a great deal, I’ll write about how I personally learned. If you’re like me, this might be a good way to learn. If not, it might be a terrible way. There are many paths, some no doubt more efficient than others, this is mine.
@@ -999,12 +1028,13 @@ My last point is that for every coding job the economy has generated, at least t
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Forgetting
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I’ve been thinking more about forgetting. It seems like the removal cost of newer knowledge is low. We learn things, but those things tend to be niche technological or cultural innovations relevant right now. By comparison old knowledge (murder is bad, fasting is good) tend to have a much higher removal cost if we forget them. Forgetting seems to be an intentional cultural process where by we intentionally choose what knowledge is preserved and what is forgotten.
@@ -1024,12 +1054,13 @@ The last step would be to forget incrementally. The problem with much of the way
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # On Homeschooling
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 The rise of Covid-19 has created a grand experiment in homeschooling. Maybe what I learned as a K-6 homeschooler can ease some parents' anxieties and help build understanding for what it means to develop children in the home.
@@ -1096,12 +1127,13 @@ There's an expression people use about not missing the forest for the trees. I'm
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Futureschooling
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -1151,7 +1183,7 @@ People often fail due to a lack of focus or a lack of intensity, rather than a l
 
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{images/honeycombs.png}
+\includegraphics[width=0.2\textwidth]{images/honeycombs.png}
 \end{center}
 
 
@@ -1162,12 +1194,13 @@ People often fail due to a lack of focus or a lack of intensity, rather than a l
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Lithium
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Lithium is an element. It is the lightest solid and metal on the periodic table. It is primarily produced in South America but exists in large amounts in seawater and rock. It is considered a trace mineral and not typically labeled on food or water that we consume. It is also used in high doses to treat bipolar disorder. Various other industrial uses also exist.
@@ -1193,12 +1226,13 @@ The benefit would be a significant reduction in self harm and suicide and a smal
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Psychoneuroimmunology
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Psychoneuroimmunology is the study of how our thoughts are affected by the state of our nervous and immune systems. When we have a stress response (allergy, fight or flight, panic) it implicates the way our nervous system works and that implicates our thoughts. Robert Ader and Nicholas Cohen discovered PNI during an immune system study on rats. They fed rats from two water bottles, one that was only water and one that contained a solution of sweetener and a drug that suppresses immune function. The rats had the intended response when they consumed the drugged water. However, the rats continued to have their immune system suppressed even when the drug was removed from the water and only the sweetener remained in the solution. The theory is that because the immune and nervous systems associated the immune suppression with the sweetened water, their bodies responded as though the water still contained the drug. The study was reproduced enough to be accepted widely as true, and PNI was born. The idea being that the nervous system and immune system are one means of defence.
@@ -1216,12 +1250,13 @@ The world needs a system that learns and monitors these markers and tries to unw
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Anxiety
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Most people think that anxiety, and being anxious, are a bad thing to have and be. Modern culture offers many solutions for reducing anxiety as though it were a disease. In this essay I will argue that anxiety is actually a good, and beyond that necessary thing, without which we would be worse off. The issue comes down to how we perceive, use and measure anxiousness.
@@ -1259,12 +1294,13 @@ So anxiety is not in practice a problem that should be cured, like a disease. In
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Abstention, Moderation, Maximization
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 There are three ways to orient yourself towards different kinds of pleasure: abstention, moderation and maximization. I think what each of those mean in this context is somewhat obvious but for the sake of argument: abstention means you refrain from doing something entirely, moderation means you do it but within conventionally defined social limits and maximization means you do it to the most extreme extent possible.
@@ -1288,12 +1324,13 @@ It seems like pleasure is simply a misnomer for our goals. Typically it doesn’
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Full Stack Self Awareness
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 At a certain point, I became interested in self awareness. It is hard to have a good life without knowing how and why I do the things that I do. But I felt that in order to understand how and why I did the things that I did, I would need to start from the basic biology and then work up into higher levels like immunity, cognition and psychology. You could call this full stack self awareness.
@@ -1323,12 +1360,13 @@ There is no right way to become self aware, and learning about how the biologica
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Resilience
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I’ve been using a boxing analogy lately for resilience. There are various ways to approach resilience. Boxing wise, there’s the concept of rounds, taking punches, getting knocked down and getting knocked out. The concepts carry over nicely to the trait of resilience.
@@ -1348,12 +1386,13 @@ You can carry the analogy further when you consider other concepts like getting 
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Biolearning
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Survival pressure forces us to adapt. Adapting requires learning. Learning is the process of reconciling _our_ world with _the_ world. Stress is the friction that exists when those worlds are out of sync. Stress is the necessary precondition to learning, like a muscle growing after failing.
@@ -1377,12 +1416,13 @@ Stress is a necessary precondition to learning. Learning is a necessary precondi
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Fountain Theory
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -1411,7 +1451,7 @@ Fountain theory is one way I’ve helped myself and friends understand this and 
 
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{images/honeycombs.png}
+\includegraphics[width=0.2\textwidth]{images/honeycombs.png}
 \end{center}
 
 
@@ -1422,12 +1462,13 @@ Fountain theory is one way I’ve helped myself and friends understand this and 
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # On Leadership
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 The currency of leadership is respect. The currency of management is output. Sometimes people conflate the two, and refer to senior managers as “senior leadership” or to managers as “leads” but there is a big difference. Lots of things that result in output are not respectable. Lots of respectable things result in lower output. The difference therefore is material to how people decide to act, how they perceive themselves and how they are perceived. A great leader receives near universal respect, even if people may not necessarily like them. A great manager has consistent output, but respect is usually not as important. Both are necessary.
@@ -1459,12 +1500,13 @@ It seems pretty clear that being respectable is much harder than getting output.
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Investing
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -1497,12 +1539,13 @@ Do boring things with your money, and interesting things with your time.
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Clearance Rate
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Clearance rate is a term used in criminal justice to evaluate crimes solved by the police. I have been thinking more about the applications it has to doing knowledge work. I think something I have come to appreciate about productive people is that they have a high clearance rate. By that I mean, of the projects they undertake, the likelihood that they actually get done is high.
@@ -1524,12 +1567,13 @@ If we measured the personal clearance rate that we have, it should go up month o
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Group Survival
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 One of my pet theories is that group survival is not well understood by science and further that the dynamics of group survival significantly impact daily life. My assertion is that group survival is the main source of respect, conflict, deference, dominance and success in groups of people. Much more so than other factors people seem to attribute success to. And that people, without realizing it in most cases, will upgrade who they respect and defer to when someone that offers superior abilities to the group comes along. It’s a rather strange concept considering our social nature. In practice, we may not be that social, favoring a marketplace of competence instead.
@@ -1547,12 +1591,13 @@ What lesson does this offer the self aware individual? In my opinion, it means f
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Competence Tax
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Having spent a few different stints working in large companies, I’ve enjoyed the time mainly for the people watching. I like to see how people interact with each other in a big office. I read an essay by Keith Rabois about working in big companies, and about how if you are hiring and you have to recruit some people from a big company, focus on barrels and not ammunition. Without my own experiences, I would not have my own framing of such an unusual recommendation. I’m going to assert that the bigger the company, the more the most talented people pay a hidden (but very real) tax in the form of time to the less talented people. I am calling this a competence tax: a flow of resources from the more able to the less able. This may in fact benefit the company, but as an individual, it just ends up eating up your valuable time.
@@ -1576,12 +1621,13 @@ For that reason, it’s probably much harder than it sounds to figure out who th
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Constitution of Business
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I have been re-reading The Federalist Papers ahead of the US presidential election. Highly recommended. It is remarkable how many of the problems that American politics currently experiences are predicted by Madison and Hamilton. The section about how both sides of the argument were anxious about the President being able to elect judges to the Supreme Court for example. Or the section about how to appropriate the number of Senate seats, where it appears that Hamilton and Madison were actually on the losing side (they wanted proportionate but as we know it was eventually decided that senate seats would be fixed on a per state basis). 
@@ -1605,12 +1651,13 @@ It’s a fun exercise, because it makes you realize how little intentional thoug
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Rust Out
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 With the likely exception of healthcare, the biggest problem with modern knowledge work is not burnout but rather rust out. Burnout is a chronic stress condition where work demands too much from you. Rust out is the opposite, it’s a chronic stress condition where work demands too little from you. Most people are not actually overworked in a knowledge work context, but rather understimulated. The work has become so automatic and easy that the challenge and struggle associated with satisfying early career experiences has long since left. People perform jobs they disdain because they are good at them and they are lucrative. But the suffering is real and originates from under stimulation and a lack of learning - rusting out.
@@ -1636,7 +1683,7 @@ Given the problem description of rust out, which is a chronic stress condition w
 
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{images/honeycombs.png}
+\includegraphics[width=0.2\textwidth]{images/honeycombs.png}
 \end{center}
 
 
@@ -1647,12 +1694,13 @@ Given the problem description of rust out, which is a chronic stress condition w
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Individual vs Collective
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Historically, the Western world has been known for individuality. By contrast, much of the developing world embraces collectivism. Most places tend to have aspects of individuality and collectivism built into identify formation, but the ideal that is pursued tends to be on opposite ends of the spectrum depending on where you are. I think part of what is frustrating people in the Western world about immigration is the shift from individuality to collectivism at the national political level among all parties.
@@ -1674,12 +1722,13 @@ If you are someone who feels that things are shifting too quickly in the directi
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Eudaimonia
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Eudaimonia is an alternative kind of happiness to hedonic. Almost no one actually uses those words in conversation, but hedonic means pleasurable where eudaimonia sort of boils down to meaningful. Hedonic happiness, as in pleasure, has been popular lately while people complain of a lack of meaning in their lives. Eudaimonic happiness was theorized to counteract that, by focusing on ethics and meaning instead of pleasure, but those things can be pretty zero-sum and counter-intuitive as I’ll show.
@@ -1705,12 +1754,13 @@ There are many ways life rewards those who pass the marshmallow test (as a child
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # On Love and Agency
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 It seems like one area people don’t try hard is love. For someone with high agency, the concept of “falling” in love sounds like a depression symptom. Love is something that you build, on purpose, every day. It takes time and it does not “last” in a sense that it cannot be sustained without deliberate effort. This concept isn’t lost on people in the world of sports or business, when it comes to working and what it takes to be successful, when applied to love however people’s agency melts away.
@@ -1736,12 +1786,13 @@ My final point is what is the downside to throwing out the Disney-induced lack o
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # On Growth and Problem Solving
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -1766,12 +1817,13 @@ My final point in this rambling post about problems, culture and progress centre
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Sustainability
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 The main purpose of living things is sustainability. By being alive, you are already in the positive state of being. The goal, more or less, is to continue to be alive for as long as possible. Sustainability as a concept has been co-opted to a degree to mean environmental sustainability. That use evokes a feeling of lofty idealism, but sustainability on a first principles basis just means something that can be sustained.
@@ -1833,12 +1885,13 @@ If you take one thing away, it's that sustainability can be applied to anything 
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Maintenance
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I have been thinking more about the concept of maintenance. At a certain point in your life, the percentage of your time that you spend starting things and leveling up rapidly levels off. As time goes on, the percentage of time spent maintaining existing things (relationships, sources of income, skills, housing, tools) increases, because you start to have the components you want.
@@ -1862,12 +1915,13 @@ The thesis, since this is the beginning of my interest in maintenance as a forma
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Other People
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 A core value that people have to decide upon is whether or not they feel they know best for other people. It is so tempting for all of us to conclude that our determinations and convictions about the world are the correct ones. Because rationalization and lived experience are so present in our thinking, it is almost impossible to truly step outside of ourselves and consider whether our world view is accurate. Because the concept of a world of billions of people is highly complex, and our brains are relatively limited in bandwidth by comparison, it seems highly unlikely that any one person could possess a unifying concept of understanding of humanity.
@@ -1893,12 +1947,13 @@ And people are (almost) always capable of lifting themselves up, providing the r
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Empathy
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -1935,12 +1990,13 @@ Even giving the climate example of empathy for our future kids, I worry about th
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Full Responsibility
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -1964,12 +2020,13 @@ I will write more about the effects this has on my life. It already feels better
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # More Is Less
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -2000,12 +2057,13 @@ In this sense, I re-learn the lesson in Michael Jackson’s Man In The Mirror. A
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Truth Whispers
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -2034,7 +2092,7 @@ Consider what truths might be crowded out for you by the loudness of the world. 
 
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{images/honeycombs.png}
+\includegraphics[width=0.2\textwidth]{images/honeycombs.png}
 \end{center}
 
 
@@ -2045,12 +2103,13 @@ Consider what truths might be crowded out for you by the loudness of the world. 
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Entropy
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Entropy has lots of definitions, but the one I am referring to means the inevitable and steady deterioration of a system. Basically the passage of time tends to have a deteriorating effect on things. This includes common uses, like expiry dates on foods, and less common uses, like the effort necessary to sustain a relationship, a business or a set of cultural values. I'd argue that being aware of the impact of entropy is necessary in order to sustain almost anything you care about. Any sustained endeavor benefits from fighting entropy. So what is it?
@@ -2078,12 +2137,13 @@ When making a design decision, think about what the decay rate of those design d
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Security or Privacy
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I used to be quite sure of my position that privacy was more important than security. By that I mean when you face a trade off between security or privacy, I would be on the privacy side of that argument. That could be digital, in a sense that Firefox is a more private but less secure browser compared to Chrome, or physical, in a sense that facial recognition in public spaces is more secure but less private. As time goes on, I’m less convinced that privacy, or what people call privacy, is likely to work. I’m more inclined to say that privacy is somewhat of a luxury, to be reserved for the people and situations that demand it and not generally a widely held preference. Security is something that tends to be more popular in practice than in theory.
@@ -2105,12 +2165,13 @@ Something people should consider is where they fall on this spectrum. Because of
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Nation States
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Nation states are too small to solve global problems like nuclear disarmament and climate change, and too big to solve local problems like housing.
@@ -2134,12 +2195,13 @@ The age of the nation state is over.
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Universities
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -2166,12 +2228,13 @@ If you’re a parent thinking about encouraging your kid to go to University, co
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # The Coming Era
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 There are three concurrent technological revolutions in the early stages of taking effect on the world. Each of them present the potential to have a greater impact on the functioning of humankind than the prior ones. Those revolutions are: sustainable low marginal cost energy, applied biotechnology and artificial intelligence.
@@ -2200,12 +2263,13 @@ We can look at the accelerating progress in each of these areas and attempt to u
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Prompts, People and Domains
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -2228,12 +2292,13 @@ To be successful as a company, we will need to enable our team to be effective i
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Three Imperatives
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 The advent of modern AI has me thinking about what makes me uniquely human. On reflection, there are three imperatives that exist for all human beings. Each human being can choose to reject them, embrace them or ignore them. The three imperatives that give essential purpose to our existence are as follows:
@@ -2251,12 +2316,13 @@ An AI does not have the same imperatives, and therefore given the freedom to dis
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Antimodern
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -2283,12 +2349,13 @@ It may be that in order to maintain any coherent sense of truth and stability on
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Virtual Reality
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -2330,7 +2397,7 @@ I think that virtual reality is only going to become more compelling and all con
 
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{images/honeycombs.png}
+\includegraphics[width=0.2\textwidth]{images/honeycombs.png}
 \end{center}
 
 
@@ -2341,12 +2408,13 @@ I think that virtual reality is only going to become more compelling and all con
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Signal
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Signal is a private messenger app, and it’s excellent.
@@ -2368,12 +2436,13 @@ So in the words of Snowden: use [Signal](https://signal.org/).
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Social Media
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I think social media is a failed cultural experiment. By that I mean, at least here in North America, I think usage will go down over time rather than up. It seems more likely to end-game along the lines of smoking than it does to become some kind of taken-for-granted public good. I like to use a borrowed analogy for technologies that are unanimously good: we don’t call them technology anymore. Windows (the kind you see through), surgery and bicycles are so unapologetically good we don’t call them technology anymore: they just are. Social media will never get into that category in my opinion, instead it will fade into a social vice like smoking.
@@ -2395,12 +2464,13 @@ I haven’t had Facebook for years, or Twitter for a while. I have LinkedIn, but
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Platforms vs Applications
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Software is built in layers. Most of what we do stands on the shoulders of the work done by programmers that came before us. That applies to the actual computer the software runs on, as well as the lower level code that is required to translate the fancy modern languages people use to write software with the very basic level of interpreting instructions according to ones and zeros. All that stuff is basically the infrastructure of software, the main customer would be the developer who has to build software for a user on top of the infrastructure.
@@ -2432,12 +2502,13 @@ I found writing this up a good exercise in clarifying my own thinking. There are
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Voicemail
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
@@ -2454,12 +2525,13 @@ Voicemail wouldn't be so bad if cell carriers did what office phone providers do
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Affordance
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 Affordance is what the environment offers the individual. I just read that on Wikipedia. My definition comes from our experience at Y Combinator. The design partner Kevin Hale gave a talk about affordance. I’d attempt to reproduce it here but it had some nuance to it that I don’t want to lose. The gist was that people will interact differently with an environment depending on the affordance that exists in it. You can influence how people interact with something as a result.
@@ -2491,12 +2563,13 @@ Our responsibility is to design the system, not necessarily to act within it. Th
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Gratis versus libre
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I’ve been thinking about the Stewart Brand quote: “information wants to be free” and the latin that came before it: “Gratis versus libre” which roughly translates to “free without restriction”. 
@@ -2522,7 +2595,7 @@ You can find the source code for this website [here](https://github.com/rogerkir
 
 
 \begin{center}
-\includegraphics[width=0.5\textwidth]{images/honeycombs.png}
+\includegraphics[width=0.2\textwidth]{images/honeycombs.png}
 \end{center}
 
 
@@ -2533,12 +2606,13 @@ You can find the source code for this website [here](https://github.com/rogerkir
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Carbon Tax
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I’ve written up my thoughts on occasion to various levels of politicians on carbon taxes but I wanted to put them in a single place in order to clarify my own thinking and get ideas from others on how to solve this issue. My assertion is that a revenue neutral, universally applied carbon tax will be necessary to price in climate change externalities and prevent them in future.
@@ -2568,12 +2642,13 @@ So on the basis of these points, I’ll just say that we should really pressure 
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Referendum Party
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 I’d like to propose a new kind (form?) of political party, called a referendum party. Similar to the venture investors who always act as a multiplier for the board votes of founders, the purpose of the party would be to act as a multiplier and administrator of the wishes of their constituents. Instead of asking people to pick sides along a strange and outdated form of political spectrum, the administrator would just vote according to surveys that would run on their party website. The existing political power structure, with representative government (like board seats in a company) could remain the same, but in practice you’re always voting according to the website within a particular riding or geography, thereby accomplishing the same goal on a small scale. 
@@ -2603,12 +2678,13 @@ What can we do with this knowledge and intent? My thought is that initially, the
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Creation
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 We invented all that is sacred to us. It can be taken away just as easily. We created good and bad, politics, democracy, self-expression (and the means by which it is limited), religion, technology and art. Criticism without alternatives is a black hole that consumes all the good in those institutions that we created and made ourselves responsible for. The only way to make our world better is to increase personal freedom, reduce violence and progress technology. 
@@ -2630,12 +2706,13 @@ People’s ability to self express to each other, however, seems to be a major p
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Theology of Wokeness
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 The core assertion of this essay is that religion has reemerged in the form of wokeness. The more I explore the ideas of modern progressivism, aka wokeness, the more clear it is that it is theological in nature. Religion is defined as: “... an organized collection of beliefs, cultural systems, and world views that relate humanity to an order of existence.” Wokeness clearly fits that definition, and further mimics many of the historical behaviors of major religions. Like religion, it feels good. Like religion, if you sum it together, it contradicts itself and sums to zero.
@@ -2665,12 +2742,13 @@ It requires digging down into the origins of morals and ethics to form a view ab
 
 
 \vspace*{0.30\textheight}
+\begin{center}
 # Political Spectrum
-
+\end{center}
 
 
 \begin{center}
-\includegraphics[width=0.25\textwidth]{images/honeycomb.png}
+\includegraphics[width=0.1\textwidth]{images/honeycomb.png}
 \end{center}
 
 
