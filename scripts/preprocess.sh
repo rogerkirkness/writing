@@ -3,6 +3,10 @@
 output="pdf/combined.md"
 echo "" > "$output"
 
+# Paths to images
+honeycomb_image="images/honeycomb.png"
+honeycombs_image="images/honeycombs.png"
+
 # Arrays for tags and files
 declare -a tagsArray
 declare -a filesArray
@@ -35,12 +39,14 @@ done < <(find _posts -name '*.md' | sort)
 # Process each tag and associated files
 for i in "${!tagsArray[@]}"; do
     tag="${tagsArray[i]}"
-    echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n\\\\begin{center}\n\\\\Large $tag\n\\\\end{center}\n" >> "$output"
+    echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n\\\\begin{center}\n\\\\Huge $tag\n\\\\end{center}\n" >> "$output"
+    echo -e "\n\\\\begin{center}\n\\\\includegraphics[width=0.5\\\\textwidth]{$honeycombs_image}\n\\\\end{center}\n" >> "$output"
     echo -e "\n\n\\\\newpage\n\n" >> "$output"
     files="${filesArray[i]}"
     for file in $files; do
         title=$(sed -n '/^title: /p' "$file" | sed 's/title: //')
-        echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n\\\\Large $title \n\n"
+        echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n# $title\n\n" >> "$output"
+        echo -e "\n\\\\begin{center}\n\\\\includegraphics[width=0.25\\\\textwidth]{$honeycomb_image}\n\\\\end{center}\n" >> "$output"
         sed -e '1,/^\---$/d' -e '/^\---$/,$d' "$file" >> "$output"
         echo -e "\n\n\\\\newpage\n\n" >> "$output"
     done
