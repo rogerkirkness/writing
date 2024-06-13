@@ -2,7 +2,7 @@
 layout: post
 title: Forgetting
 date: January 2020
-tags: [homeschooling]
+tags: [Homeschooling]
 ---
 I’ve been thinking more about forgetting. It seems like the removal cost of newer knowledge is low. We learn things, but those things tend to be niche technological or cultural innovations relevant right now. By comparison old knowledge (murder is bad, fasting is good) tend to have a much higher removal cost if we forget them. Forgetting seems to be an intentional cultural process where by we intentionally choose what knowledge is preserved and what is forgotten.
 

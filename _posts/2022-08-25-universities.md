@@ -2,7 +2,7 @@
 layout: post
 title: Universities
 date: August 2022
-tags: [futurism]
+tags: [Futurism]
 ---
 
 Universities are obsolete. I made a post on LinkedIn about it, and people with three letter acronyms in their name jumped to the defense of their preferred church of liberalism. Ultimately we have an ethical obligation to liberate the handful of useful things that Universities do, like gatekeeping the nursing profession, from their general lack of value creation and overall wealth destroying effects. The world would be a better place if Universities shut themselves down, gave their power to credential new doctors back to doctors themselves and returned the capital to the shareholders. Given our escalating moral quest for purity and our perfectionistic ways, it may take another generation or two to do this the hard way.

@@ -2,7 +2,7 @@
 layout: post
 title: Investor Questions
 date: July 2019
-tags: [business]
+tags: [Business]
 book: false
 ---
 We recently fundraised in Silicon Valley. Here are some of the questions we got:

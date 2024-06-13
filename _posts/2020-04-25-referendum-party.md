@@ -2,7 +2,7 @@
 layout: post
 title: Referendum Party
 date: April 2020
-tags: [politics]
+tags: [Poliitcs]
 ---
 I’d like to propose a new kind (form?) of political party, called a referendum party. Similar to the venture investors who always act as a multiplier for the board votes of founders, the purpose of the party would be to act as a multiplier and administrator of the wishes of their constituents. Instead of asking people to pick sides along a strange and outdated form of political spectrum, the administrator would just vote according to surveys that would run on their party website. The existing political power structure, with representative government (like board seats in a company) could remain the same, but in practice you’re always voting according to the website within a particular riding or geography, thereby accomplishing the same goal on a small scale. 
 

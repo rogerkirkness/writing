@@ -2,7 +2,7 @@
 layout: post
 title: Unschooling
 date: May 2017
-tags: [homeschooling]
+tags: [Homeschooling]
 ---
 I was unschooled. Unschooling is the antithesis of schooling. Homeschooling implicates structure and curriculum but delivered at home. Unschooling implicates self directed learning with little to no structure or curriculum. That is how I learned until I went to school. I went to school to socialize, not to learn, so in that sense I never really learned conventionally or through school.
 

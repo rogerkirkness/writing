@@ -2,7 +2,7 @@
 layout: post
 title: Special Box
 date: October 2018
-tags: [lifestyle]
+tags: [Lifestyle]
 ---
 When I was a kid, I put all of the special items that ended up in my life (twigs I liked, medals from sports, t-shirts from events, etc.) into a box appropriately named a special box. It occurred to me that everyone does something like this, collecting meaningful items, but there is very little written or talked about involving what system it makes sense to use for managing the items.
 

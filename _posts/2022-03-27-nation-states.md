@@ -2,7 +2,7 @@
 layout: post
 title: Nation States
 date: March 2022
-tags: [futurism]
+tags: [Futurism]
 ---
 Nation states are too small to solve global problems like nuclear disarmament and climate change, and too big to solve local problems like housing.
 

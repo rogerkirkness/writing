@@ -2,7 +2,7 @@
 layout: post
 title: Sustainability
 date: '2018-07-31'
-tags: [philosophy]
+tags: [Philosophy]
 ---
 The main purpose of living things is sustainability. By being alive, you are already in the positive state of being. The goal, more or less, is to continue to be alive for as long as possible. Sustainability as a concept has been co-opted to a degree to mean environmental sustainability. That use evokes a feeling of lofty idealism, but sustainability on a first principles basis just means something that can be sustained.
 

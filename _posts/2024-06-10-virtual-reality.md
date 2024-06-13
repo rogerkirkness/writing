@@ -2,7 +2,7 @@
 layout: post
 title: Virtual Reality
 date: June 2024
-tags: [futurism]
+tags: [Futurism]
 ---
 
 Virtual reality encompasses anything both visual and digital. If it requires our focused attention and is delivered over the internet, it is virtual reality. The internet and AI together are a new force of nature, converging our nervous system by way of it’s inputs our eyes and ears into virtual reality. Unless we become aware of the effects that near constantly engaging with virtual reality will have, our humanity will become the final frontier for virtual reality to conquer.

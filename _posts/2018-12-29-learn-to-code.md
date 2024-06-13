@@ -2,7 +2,7 @@
 layout: post
 title: Learn to Code
 date: December 2018
-tags: [homeschooling]
+tags: [Homeschooling]
 ---
 Much has been written about learning how to code. Instead of rehashing the best of what is out there, of which there is already a great deal, I’ll write about how I personally learned. If you’re like me, this might be a good way to learn. If not, it might be a terrible way. There are many paths, some no doubt more efficient than others, this is mine.
 

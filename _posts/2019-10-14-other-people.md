@@ -2,7 +2,7 @@
 layout: post
 title: Other People
 date: October 2019
-tags: [philosophy]
+tags: [Philosophy]
 ---
 A core value that people have to decide upon is whether or not they feel they know best for other people. It is so tempting for all of us to conclude that our determinations and convictions about the world are the correct ones. Because rationalization and lived experience are so present in our thinking, it is almost impossible to truly step outside of ourselves and consider whether our world view is accurate. Because the concept of a world of billions of people is highly complex, and our brains are relatively limited in bandwidth by comparison, it seems highly unlikely that any one person could possess a unifying concept of understanding of humanity.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Abstention, Moderation, Maximization
 date: January 2018
-tags: [psychology]
+tags: [Psychology]
 ---
 There are three ways to orient yourself towards different kinds of pleasure: abstention, moderation and maximization. I think what each of those mean in this context is somewhat obvious but for the sake of argument: abstention means you refrain from doing something entirely, moderation means you do it but within conventionally defined social limits and maximization means you do it to the most extreme extent possible.
 

@@ -2,7 +2,7 @@
 layout: post
 title: Affordance
 date: August 2019
-tags: [technology]
+tags: [Technology]
 ---
 Affordance is what the environment offers the individual. I just read that on Wikipedia. My definition comes from our experience at Y Combinator. The design partner Kevin Hale gave a talk about affordance. I’d attempt to reproduce it here but it had some nuance to it that I don’t want to lose. The gist was that people will interact differently with an environment depending on the affordance that exists in it. You can influence how people interact with something as a result.
 

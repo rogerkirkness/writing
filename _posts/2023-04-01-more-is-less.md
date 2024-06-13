@@ -2,7 +2,7 @@
 layout: post
 title: More Is Less
 date: April 2023
-tags: [philosophy]
+tags: [Philosophy]
 ---
 
 People often quote Mies van der Rohe as having said ‘less is more’. I’ve also learned more as life has gone on that ‘more is less’. In everything there is a time price and a soul price to progress. We develop technology to make our lives more efficient and comfortable, but that comes at the expense of something else that may not be immediately obvious to us. I’ve noticed people often come to a similar conclusion about this, about how technology turns hard (but possible) to solve problems into easy or impossible ones. I can easily afford an iPhone, and it would be impossible to reproduce one by the effort of my own hands.

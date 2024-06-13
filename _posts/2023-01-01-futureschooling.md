@@ -2,7 +2,7 @@
 layout: post
 title: Futureschooling
 date: January 2023
-tags: [homeschooling]
+tags: [Homeschooling]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Political Spectrum
 date: July 2023
-tags: [politics]
+tags: [Poliitcs]
 ---
 
 Liberalism is the lie that as time goes on, things get better. Fundamentally, it never gets easier. We solve problems and we create problems, as to solve problems requires effort. We will never free ourselves from the necessity of meaningful struggle, as liberalism is a forecasting error. So called progress leads to climate change, deaths of despair and an absence of meaning and community.

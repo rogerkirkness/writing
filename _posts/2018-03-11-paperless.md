@@ -2,7 +2,7 @@
 layout: post
 title: Paperless
 date: March 2018
-tags: [lifestyle]
+tags: [Lifestyle]
 ---
 I have basically no paper. I don’t say that to virtue signal, I’m just glad I went through the process of scanning everything. It’s much better to be able to call up searchable PDFs in Google Drive than try to find paper in some kind of physical filing system. This post is a short write-up of the two phases of going paperless: the initial mega-scan of every piece of paper you have (and shredding…) and the maintenance part where you scan everything as it comes in.
 

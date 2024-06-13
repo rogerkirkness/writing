@@ -2,7 +2,7 @@
 layout: post
 title: Texting Retirement
 date: December 2023
-tags: [technology]
+tags: [Technology]
 book: false
 ---
 _This experiment to get a dumb phone and retire from texting went so well I now carry two iPhones. God bless UX design..._

@@ -2,7 +2,7 @@
 layout: post
 title: Following
 date: March 2018
-tags: [lifestyle]
+tags: [Lifestyle]
 book: false
 ---
 The following is a collection of writing I enjoy:

@@ -2,7 +2,7 @@
 layout: post
 title: Three Imperatives
 date: April 2023
-tags: [AI]
+tags: [Futurism]
 ---
 The advent of modern AI has me thinking about what makes me uniquely human. On reflection, there are three imperatives that exist for all human beings. Each human being can choose to reject them, embrace them or ignore them. The three imperatives that give essential purpose to our existence are as follows:
 

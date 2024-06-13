@@ -2,7 +2,7 @@
 layout: post
 title: Vegetables
 date: December 2018
-tags: [lifestyle]
+tags: [Lifestyle]
 ---
 If I really reflect on changes I've made in my life that resulted in higher quality of life, the biggest would be eating more vegetables. It's almost comical to say, but it's true. Nothing has improved my mental and physical health (which seems to improve everything else) as much as increasing how many vegetables I eat.
 

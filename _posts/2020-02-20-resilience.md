@@ -2,7 +2,7 @@
 layout: post
 title: Resilience
 date: February 2020
-tags: [psychology]
+tags: [Psychology]
 ---
 I’ve been using a boxing analogy lately for resilience. There are various ways to approach resilience. Boxing wise, there’s the concept of rounds, taking punches, getting knocked down and getting knocked out. The concepts carry over nicely to the trait of resilience.
 

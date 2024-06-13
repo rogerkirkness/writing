@@ -2,7 +2,7 @@
 layout: post
 title: Competence Tax
 date: May 2020
-tags: [business]
+tags: [Business]
 ---
 Having spent a few different stints working in large companies, I’ve enjoyed the time mainly for the people watching. I like to see how people interact with each other in a big office. I read an essay by Keith Rabois about working in big companies, and about how if you are hiring and you have to recruit some people from a big company, focus on barrels and not ammunition. Without my own experiences, I would not have my own framing of such an unusual recommendation. I’m going to assert that the bigger the company, the more the most talented people pay a hidden (but very real) tax in the form of time to the less talented people. I am calling this a competence tax: a flow of resources from the more able to the less able. This may in fact benefit the company, but as an individual, it just ends up eating up your valuable time.
 

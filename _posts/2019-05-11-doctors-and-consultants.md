@@ -2,7 +2,7 @@
 layout: post
 title: Doctors and Consultants
 date: May 2019
-tags: [lifestyle]
+tags: [Lifestyle]
 ---
 
 I find it surprising the difference in the level of trust that people ascribe to doctors and management consultants. It seems like if you asked some reasonably smart person who is more trustworthy, they would point to the doctor every time. But in practice, I feel like the opposite may be closer to the truth. Doctors are basically confident people applying their own incomplete understanding of a model (in their case, physiology). Management consultants are doing the same thing, with management theory. The weird thing about doing something like that is how wrong they are both capable of being.

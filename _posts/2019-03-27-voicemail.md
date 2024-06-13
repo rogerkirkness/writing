@@ -2,7 +2,7 @@
 layout: post
 title: Voicemail
 date: March 2019
-tags: [technology]
+tags: [Technology]
 ---
 
 I disabled voicemail on my cell phone. My Dad did it, because all he ever got was spam. Likewise, 95% of the voicemails I had were spam or doctor appointment reminders. In either case, I really don't want to sit through a voicemail. So I disabled it, and it's been great.

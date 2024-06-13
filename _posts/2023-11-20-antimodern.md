@@ -2,7 +2,7 @@
 layout: post
 title: Antimodern
 date: November 2023
-tags: [futurism]
+tags: [Futurism]
 ---
 
 People attempting to describe the current period in history use a lot of terms. Modern. Postmodern. And finally, metamodern, which is: “a structure of feeling of oscillating between modern and postmodern”. And yet, the growing dissatisfaction with modernity seems clear. A hundred years ago, a French thinker coined the term antimodern, which means ‘Opposed to modernity or modernization’. I think that we are about to enter a period in which antimodern thinking actually becomes the dominant philosophical framework.

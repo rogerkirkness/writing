@@ -2,7 +2,7 @@
 layout: post
 title: Clearance Rate
 date: April 2019
-tags: [business]
+tags: [Business]
 ---
 Clearance rate is a term used in criminal justice to evaluate crimes solved by the police. I have been thinking more about the applications it has to doing knowledge work. I think something I have come to appreciate about productive people is that they have a high clearance rate. By that I mean, of the projects they undertake, the likelihood that they actually get done is high.
 
