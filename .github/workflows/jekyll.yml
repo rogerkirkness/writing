@@ -51,6 +51,7 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
       - name: Cache LaTeX and Pandoc
+        id: cache  
         uses: actions/cache@v2
         with:
           path: |
