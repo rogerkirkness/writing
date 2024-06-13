@@ -36,7 +36,7 @@ done < <(find _posts -name '*.md' | sort)
 for i in "${!tagsArray[@]}"; do
     tag="${tagsArray[i]}"
     echo "Processing tag: $tag"
-    echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n\\\\begin{center}\n# $tag\n\\\\end{center}\n" >> "$output"
+    echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n\\\\begin{center}\n $tag\n\\\\end{center}\n" >> "$output"
     files="${filesArray[i]}"
     for file in $files; do
         title=$(sed -n '/^title: /p' "$file" | sed 's/title: //')
