@@ -28,4 +28,4 @@ There are some changes I have made in my life that have not been easy changes in
 - I go on walks at different times of day with an anthropological goal. To observe people, and notice how they behave with their attachments to virtual reality, and learn.
 - I encourage those that I am responsible for, both at home with my family, among friends and extended family, and at work with my team to become aware of virtual reality.
 
-I think that virtual reality is only going to become more compelling and all consuming in the future. The Sci-Fi I most enjoy, from Dune to The Unincorporated Man, imagine futures in which virtual reality no longer exists at all. I share that vision, and try to imagine that future myself. I try to take steps towards it in my life. I hope I can share this idea on paper some day soon. 
+I think that virtual reality is only going to become more compelling and all consuming in the future. The Sci-Fi I most enjoy, from Dune to The Unincorporated Man, imagine futures in which virtual reality no longer exists at all. I share that vision.

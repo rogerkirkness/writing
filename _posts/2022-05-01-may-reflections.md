@@ -3,6 +3,7 @@ layout: post
 title: May Reflections
 date: May 2022
 tags: [reflection]
+book: false
 ---
 It’s been a little over ten months since the birth of our second child. I can feel my upper brain starting to come back online after a strange period of time in my life. I used to write more than I do now, probably due to some combination of the pandemic, growing the company to 50 people, supporting Jess through a high risk pregnancy and then parenting a newborn. I have a certain level of entitlement to a couple of sleepy writing years, but I’m going to get back on the horse.
 
