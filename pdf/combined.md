@@ -3,7 +3,7 @@
 
 \vspace*{0.30\textheight}
 \begin{center}
- Reflection
+\Large Reflection
 \end{center}
 
 
@@ -166,7 +166,7 @@ If that sounds dramatic, wait until you meet toddlers and customers.
 
 \vspace*{0.30\textheight}
 \begin{center}
- Economics
+\Large Economics
 \end{center}
 
 
@@ -294,7 +294,7 @@ The question becomes what startup will benefit the most from a society that heav
 
 \vspace*{0.30\textheight}
 \begin{center}
- Lifestyle
+\Large Lifestyle
 \end{center}
 
 
@@ -477,7 +477,7 @@ I’m not sure if this ended up being an essay about debadging or about quality,
 
 \vspace*{0.30\textheight}
 \begin{center}
- Science
+\Large Science
 \end{center}
 
 
@@ -598,7 +598,7 @@ I’m also going to invest in the headset when the time comes. It has gone down 
 
 \vspace*{0.30\textheight}
 \begin{center}
- Homeschooling
+\Large Homeschooling
 \end{center}
 
 
@@ -769,7 +769,7 @@ People often fail due to a lack of focus or a lack of intensity, rather than a l
 
 \vspace*{0.30\textheight}
 \begin{center}
- Psychology
+\Large Psychology
 \end{center}
 
 
@@ -936,7 +936,7 @@ Fountain theory is one way I’ve helped myself and friends understand this and 
 
 \vspace*{0.30\textheight}
 \begin{center}
- Business
+\Large Business
 \end{center}
 
 
@@ -1079,7 +1079,7 @@ Given the problem description of rust out, which is a chronic stress condition w
 
 \vspace*{0.30\textheight}
 \begin{center}
- Philosophy
+\Large Philosophy
 \end{center}
 
 
@@ -1351,7 +1351,7 @@ Consider what truths might be crowded out for you by the loudness of the world. 
 
 \vspace*{0.30\textheight}
 \begin{center}
- Futurism
+\Large Futurism
 \end{center}
 
 
@@ -1543,7 +1543,7 @@ I think that virtual reality is only going to become more compelling and all con
 
 \vspace*{0.30\textheight}
 \begin{center}
- Technology
+\Large Technology
 \end{center}
 
 
@@ -1664,7 +1664,7 @@ You can find the source code for this website [here](https://github.com/rogerkir
 
 \vspace*{0.30\textheight}
 \begin{center}
- Poliitcs
+\Large Poliitcs
 \end{center}
 
 

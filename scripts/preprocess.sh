@@ -35,12 +35,12 @@ done < <(find _posts -name '*.md' | sort)
 # Process each tag and associated files
 for i in "${!tagsArray[@]}"; do
     tag="${tagsArray[i]}"
-    echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n\\\\begin{center}\n $tag\n\\\\end{center}\n" >> "$output"
+    echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n\\\\begin{center}\n\\\\Large $tag\n\\\\end{center}\n" >> "$output"
     echo -e "\n\n\\\\newpage\n\n" >> "$output"
     files="${filesArray[i]}"
     for file in $files; do
         title=$(sed -n '/^title: /p' "$file" | sed 's/title: //')
-        echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n\\\\begin{center}\n $title \n\\\\end{center}\n"
+        echo -e "\n\n\\\\vspace*{0.30\\\\textheight}\n\\\\begin{center}\n\\\\Large $title \n\\\\end{center}\n"
         sed -e '1,/^\---$/d' -e '/^\---$/,$d' "$file" >> "$output"
         echo -e "\n\n\\\\newpage\n\n" >> "$output"
     done
