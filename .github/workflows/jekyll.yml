@@ -52,7 +52,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
       - name: Cache LaTeX and Pandoc
         id: cache  
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: |
             /usr/local/texlive
@@ -60,8 +60,8 @@ jobs:
           key: ${{ runner.os }}-texlive-pandoc-${{ hashFiles('**/*.md') }}
           restore-keys: |
             ${{ runner.os }}-texlive-pandoc-
-      - name: Install Pandoc and LaTeX
-        if: steps.cache.outputs.cache-hit != 'true'
+      - if: ${{ steps.cache.outputs.cache-hit != 'true' }}
+        name: Install Pandoc and LaTeX
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-xetex
