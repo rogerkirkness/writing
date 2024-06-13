@@ -3,13 +3,12 @@
 
 \vspace*{0.30\textheight}
 \begin{center}
- reflection
+ Reflection
 \end{center}
 
 
 
-\vspace*{0.30\textheight}
-# Success is Cultural
+\newpage
 
 
 
@@ -30,12 +29,6 @@ As the world gets figuratively smaller, the rich will get richer and the poor wi
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Freedom of Time
 
 
 People want things. A particularly trendy thing to want currently is entrepreneurship. Most people do not want to work longer hours or risk their personal finances. Most people actually want freedom of time. Entrepreneurship in practice allows you to work any 60 hours a week you want. Which is appealing to a certain kind of person that values freedom of time.
@@ -62,22 +55,10 @@ Most people could achieve freedom of time decades sooner if they saved what they
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Time
-
-
 Perception adjusted, life is half over at age 24.
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# 25 Years
 
 
 As much as they usually read the same (e.g. "spend more time with your family"), I like reading "X things I've learned in Y years" lists. I turn 25 tomorrow, so I thought I would journal things I have learned that might not be obvious to people at any age, or that people of any age might disagree with. Consider this counter conventional wisdom. My list of 25 things I have learned in 25 years:
@@ -136,12 +117,6 @@ As much as they usually read the same (e.g. "spend more time with your family"),
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Focus
-
-
 I’m resolving to focus on depth. I’ve spent the first half of my 20s expanding the scope of my life: starting my career, starting a business, starting a family, starting a marriage, starting new skills. At this point, my day is full of things I find to be meaningful, so much so that sometimes I work (in the abstract sense) on those things from when I wake up, until I go to bed. That’s a fortunate position to be in, but the drawback is that things start to suffer when more is added. I’ve reached the point of diminishing returns when it comes to meaningful pursuits. It's time to go deep.
 
 At the same time, I have the intellectual capacity and novelty seeking drive to continue to add new things to my life. I think it’s a habit you get into when you are young, adding and experimenting with things. I could add new hobbies, or projects, or people. But I find as my life goes on that I get more from going deep on things, than I do from going wide. Life is so short: according to the research, I’ve already lived half my perception adjusted life. To make the most of the second perception-adjusted half, and to live at the pace I prefer, I have to favor depth.
@@ -154,12 +129,6 @@ It’s exciting to think about the impact getting off the hedonic treadmill of n
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Founder and Father
 
 
 
@@ -197,13 +166,12 @@ If that sounds dramatic, wait until you meet toddlers and customers.
 
 \vspace*{0.30\textheight}
 \begin{center}
- economics
+ Economics
 \end{center}
 
 
 
-\vspace*{0.30\textheight}
-# Value
+\newpage
 
 
 There are a number of ways to look at the value of something. Intrinsic value is the non-monetary importance of something, like an emotional attachment. The fiscal value is the monetary attachment or how much something is worth if sold. When making career choices, people are faced daily with decisions which will affect both their ability to create value and their ability to capture it.
@@ -222,12 +190,6 @@ In terms of career choices, it is important that a job, career choice or investm
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Downside Protection
-
-
 Something I talk about often is downside protection. I think it has a specific definition in investing, meaning a hedge against a potential for loss. The way I use it means how trajectory decisions you make or ways of allocating your resources that can prevent downside. The opposite would be upside potential, or the factors affecting something that result in growth or positive outcomes. My assertion is that too much downside protection leads to stagnation.
 
 Pursuing higher education would be a good example of something that is sold on the basis of upside potential but in practice implicates downside protection. Being a doctor is more interesting because their earnings have a floor, than it is because of their earnings having a ceiling. If people knew what the ceiling was, they might choose sales or starting a company instead assuming they were after upside. What they really seek is downside protection, which is what those programs really offer.
@@ -242,12 +204,6 @@ The whole point of self actualization is to live a life that is true to the thin
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Externalities
 
 
 People seem to routinely misprice externalities into their decision making. Consuming gas for it’s transportation benefits without pricing in the environmental impact is the obvious one. Doing something that wastes time but saves money would be a less obvious version: by accounting your own time with a value of zero, you create a significant distortion of economic and practical reality. Much like gas and the environment, the consequences are serious if routinely mistaken.
@@ -276,24 +232,12 @@ I think we can all agree that the goal is to get more of what we want with less 
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Removal Cost
-
-
 You can tell how much you value something by the harm it would do by being removed. It’s a clarifying way to think about the importance of something. Some things, like people we love, have infinite removal cost. There are no substitutes, your life simply gets worse in their absence. There are other things, that we confuse for good. Social media is a good example. I have yet to meet someone who removed Facebook from their phone and felt worse after. So the removal cost is actually positive: a good proxy for something you should remove.
 
 I think people overestimate the removal cost of bad relationships. As in, they believe it will be worse to end them than not. I think people underestimate the removal cost of family relationships. Once harmed or destroyed, your life may be permanently worse than before. I’d argue that we should seek to 1. Become aware of the removal cost of the things in our life and 2. Seek to spend more time protecting the things that would impact us the most if removed.
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Abundance
 
 
 If we were in a world of abundance, rather than scarcity, would people even notice? How much excess wealth does the world need in the form of financial capital in order for people to determine that we’ve solved all of the fundamental problems of being? If we were in fact in a world of abundance and not one of scarcity, would people act differently or just be confused?
@@ -320,12 +264,6 @@ I would take my assertion further and say that most people think we are in a wor
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Inflation
 
 
 You can increase the supply of money, but you can’t increase the supply of value without technology. If technology is defined as doing more with less, inflation is entropy -- it’s doing less (goods and services) with more (money). Because the supply of money is increasing through government policy choices more quickly than technology is progressing, the Western world is experiencing inflation. Unless we can find a way for technological progress to outrun the spending, the ratio between money and value will continue to progress in the wrong direction.
@@ -356,13 +294,12 @@ The question becomes what startup will benefit the most from a society that heav
 
 \vspace*{0.30\textheight}
 \begin{center}
- lifestyle
+ Lifestyle
 \end{center}
 
 
 
-\vspace*{0.30\textheight}
-# Scary Math
+\newpage
 
 
 I read an article recently about social media usage. The article focuses on the big four networks, being Facebook, Twitter, Instagram and LinkedIn. Having worked in social media, I still found some of the numbers rather surprising, which is what inspired this post on some scary math that can be derived from the stats in the article.
@@ -383,12 +320,6 @@ Making money is good, saving the world from poverty is good. We could achieve th
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Paperless
-
-
 I have basically no paper. I don’t say that to virtue signal, I’m just glad I went through the process of scanning everything. It’s much better to be able to call up searchable PDFs in Google Drive than try to find paper in some kind of physical filing system. This post is a short write-up of the two phases of going paperless: the initial mega-scan of every piece of paper you have (and shredding…) and the maintenance part where you scan everything as it comes in.
 
 The first part of going paperless takes at least a few hours. It involves scanning all of your existing paper documents. In order to have a useful destination, make sure you have enough space on your computer. I’m not sure how physical paper converts into digital space, but I found that a regular 8.5x11 piece of paper takes up about half a MB. So multiply roughly the number of sheets you have of paper by 2 and that is the number of megabytes of storage you will need for the files.
@@ -407,12 +338,6 @@ The main bottleneck to going paperless is getting over the initial hump of scann
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Family Meeting
 
 
 Every Sunday, my wife and I (and our infant son -- not that he does much of the talking yet) have a family meeting. We tweak the format slightly every week depending on what is happening in our life, but we have done it for a few years at this point and the approach is now getting quite consistent week to week. We find it useful for staying in sync.
@@ -457,12 +382,6 @@ We haven’t had to implement much in the way of rules (talk about this, don’t
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Haircuts
-
-
 I like to think about things that happen regularly, and cost money. Then I like to do zero-based budgeting and figure out if there is a way to eliminate that expense from my life. I especially focus on routines, because compounded through your life saving money on or eliminating a routine can result in significant financial swing. That financial swing can be used to buy more interesting things, like freedom of time or compounding in other financial instruments. Not everyone likes to think this way, it may not be good for the soul, but it’s a fun personal challenge.
 
 I did an analysis that looked at how much money I could save if I cut my own hair. At first it seems like it isn’t worth the time, but when you run the numbers it’s pretty compelling. I looked at a period of 25 years, and assumed I would need a haircut every two months (supposedly people go every six weeks on average, which sounds like a lot). I assumed the average price of $28 for a men’s haircut. I assumed my time was worth $20/hour, conservative. Finally, I assumed that inflation on services like haircuts would be about two percent, with no discount.
@@ -475,12 +394,6 @@ If you have any unconventional ideas for shifting resources from low yield areas
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Special Box
 
 
 When I was a kid, I put all of the special items that ended up in my life (twigs I liked, medals from sports, t-shirts from events, etc.) into a box appropriately named a special box. It occurred to me that everyone does something like this, collecting meaningful items, but there is very little written or talked about involving what system it makes sense to use for managing the items.
@@ -497,12 +410,6 @@ I’m not sure why a photo can’t do the significance of something like a bag o
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Go Small
-
-
 Maybe it’s just the people I surround myself with, but I hear “might as well go big” or some variation of it all the time. People say it about their personal life, and their business life. I’m not sure whether it’s good specific advice, but it’s generally terrible generic advice. My thinking on this is the opposite: go as small as you can. Risk is bad and you should try to make protect yourself from as many eventualities as you can.
 
 The first example I’d offer is dating. Go big means marry the first person you think you can make it work with. Beyond the obvious failings of this approach, let’s break down the math. The statistics shows you should probably date a certain number of people before you even start sampling whether someone is a good fit for the long haul. I read a study about how once you have dated 8 people, meeting a 9th person who is better than the first 8 is a strong indication you should marry them. You’d have to date over 100 more people to find a 10th who was stronger still. So at first, you are just gaining information, and eventually you make a choice. It requires an extremely incremental attitude to commitment, and lots of conviction.
@@ -513,12 +420,6 @@ There aren’t many areas of your life where incremental learning is harmful. An
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Vegetables
 
 
 If I really reflect on changes I've made in my life that resulted in higher quality of life, the biggest would be eating more vegetables. It's almost comical to say, but it's true. Nothing has improved my mental and physical health (which seems to improve everything else) as much as increasing how many vegetables I eat.
@@ -538,12 +439,6 @@ If I had no information about someone's life situation, or was in one of those h
 
 
 
-
-\vspace*{0.30\textheight}
-# Doctors and Consultants
-
-
-
 I find it surprising the difference in the level of trust that people ascribe to doctors and management consultants. It seems like if you asked some reasonably smart person who is more trustworthy, they would point to the doctor every time. But in practice, I feel like the opposite may be closer to the truth. Doctors are basically confident people applying their own incomplete understanding of a model (in their case, physiology). Management consultants are doing the same thing, with management theory. The weird thing about doing something like that is how wrong they are both capable of being.
 
 I'm not a paranoid person when it comes to doctors and the legitimacy of their knowledge, and I am when it comes to consultants, which is part of why I wanted to explore this conundrum. But let's be clear: doctors rarely do the research themselves, often their understanding is based on a summarized version of the research in each field that could impact them. So they are basically two steps removed from synthesis. It's fine to give credence to the experience they get when they get into the field, but the actual solutions to the problems they face lies somewhere in the research and the synthesis of the people performing it, not the doctor. The word practitioner comes to mind. That's what most doctors are, and yet there's this whole blind trust we feel when the word is evoked.
@@ -554,12 +449,6 @@ Doctors are management consultants, but for physiology. I can see your trust in 
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Fewer Better
-
-
 I’m coming to realize that everything is a series of trade off decisions made whether you recognize them or not but which ultimately lead to the natural conclusion of something. For example, you can do more things, but that often impacts quality (ie. more things, worse). I’ve also realized that most people actually take that path, doing more things of lower quality. I think some people perceive that as both efficient and effective, doing something good enough. As time goes on, I feel that doing fewer things better is comparatively rare. People tend to notice it when it happens though because doing something well is the exception rather than the rule.
 
 The most recent applications I can think of are in my own life as a parent and founder. In the business, it becomes clear that the more features we add, the more complex the system becomes. That makes it harder to maintain and makes the surface area for potential issues much larger. If we do less things, we can spend more time on each feature, generally resulting in higher quality software. Likewise as a parent, it occurs to me that we could have a lot of kids and provide them with a vague sense of direction in the limited face time we get together, or have fewer kids but invest more effort into each providing significant one on one time.
@@ -568,12 +457,6 @@ School is a good analogy for the parenting problem. It seems like the key issue 
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Debadging
 
 
 Since I was a teenager, I’ve had this unusual obsession with debadging things. It’s mostly a term used for cars, where you remove the logo and model type from the outside of the car. The goal differs, but it’s generally to make the aesthetic simpler and not muddy it with branding. The idea is similar I think for clothes and other items. I find I like clean and simple aesthetics more over time, they seem more durable than ornate or obvious approaches to design. I think it’s an exercise in essentialism: how many elements can be removed before the only thing left is value.
@@ -594,13 +477,12 @@ I’m not sure if this ended up being an essay about debadging or about quality,
 
 \vspace*{0.30\textheight}
 \begin{center}
- science
+ Science
 \end{center}
 
 
 
-\vspace*{0.30\textheight}
-# Halophytes
+\newpage
 
 
 When land is irrigated for agriculture, salt content increases over time as the salt goes unused by fresh water crops and builds up in the soil as water is consumed for plant growth. There are currently 240,000 square miles of land on earth that are too saline to grow conventional food and fuel crops on and that number increases almost 8 square miles a day. As a result we have a France-sized patch of land too salty to grow anything of current use. The operative word there is current because there are plants that could grow there, halophytes, we just lack a market.
@@ -624,12 +506,6 @@ Once the world has successfully adopted halophytes as a means and source of the 
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Autophagy
-
-
 The brain, and other parts of the body, recycle. The process is called autophagy. It’s what happens when you fast and sometimes happens without having to fast. The person who discovered it’s positive impact on people won the Nobel Prize in Medicine recently as a result of their work. It’s important that bodies can access it.
 
 There is much scientific literature on autophagy only a Google away. It’s well worth the time spent trying to understand it. When you fast, your body eventually goes into autophagy, which essentially means it starts cleaning up and destroying old and broken cells, and using their parts for energy and repair. It’s necessary for our body to get into this state. It’s natural for a feast and famine animal to spend periods without food.
@@ -646,12 +522,6 @@ Relative to other diet advice, it doesn’t require (or sell) books to say “ea
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Hydroxyapatite
-
-
 I recently discovered some scientific papers about a new kind of toothpaste, containing something called hydroxyapatite. It's a chemical that is comprised of minerals in a similar form to those found in bones, teeth in particular. It acts in a different way than conventional fluoride toothpaste, and the studies I read suggest that it pretty consistently results in remineralization (healing) of your teeth and less cavities. Because fluoride is a pretty awful neurotoxin, a science-backed alternative seems appealing.
 
 Jess and I ordered a tube on Amazon directly from Japan, where they are ahead of the game on commercializing it. Compared to normal toothpaste it appears to be about ten times as expensive. At this point, that is probably a non-starter for most people, unless you could somehow price the neurotoxic downsides of fluoride and the savings on dental insurance into the cost. The tube that arrived a month later in the mail is, if anything, smaller than normal toothpaste. All of that said though, if it does a better job and is not a neurotoxin, it's worth it.
@@ -664,12 +534,6 @@ There are, it would appear, other ways.
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Breathing
 
 
 I have been spending more time being aware of my breathing, and learned a lot about myself in the process. Some combination of child birthing classes, Wim Hof being referenced on YouTube and curiosity led me down an internet rabbit hole about breathing. One assumes it’s a given that our bodies will tune our breathing optimally, but that is far from the case. Almost everyone breaths wrong in some way, and it has a fundamental impact on health and wellness.
@@ -688,12 +552,6 @@ I found YouTube the most useful source of information on breathing exercises, an
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Roxanne
 
 
 Every time I hear the term “red light therapy” I start singing the Police song Roxanne. It’s the friendlier term for photobiomodulation (PBM) or low level laser therapy. All of them mean the same thing: exposing your body to the red and infrared spectrum of light for the health benefits.
@@ -740,13 +598,12 @@ I’m also going to invest in the headset when the time comes. It has gone down 
 
 \vspace*{0.30\textheight}
 \begin{center}
- homeschooling
+ Homeschooling
 \end{center}
 
 
 
-\vspace*{0.30\textheight}
-# Unschooling
+\newpage
 
 
 I was unschooled. Unschooling is the antithesis of schooling. Homeschooling implicates structure and curriculum but delivered at home. Unschooling implicates self directed learning with little to no structure or curriculum. That is how I learned until I went to school. I went to school to socialize, not to learn, so in that sense I never really learned conventionally or through school.
@@ -767,12 +624,6 @@ If we teach everyone the same thing in the same environment, we encourage zero s
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Learn to Code
 
 
 Much has been written about learning how to code. Instead of rehashing the best of what is out there, of which there is already a great deal, I’ll write about how I personally learned. If you’re like me, this might be a good way to learn. If not, it might be a terrible way. There are many paths, some no doubt more efficient than others, this is mine.
@@ -801,12 +652,6 @@ My last point is that for every coding job the economy has generated, at least t
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Forgetting
-
-
 I’ve been thinking more about forgetting. It seems like the removal cost of newer knowledge is low. We learn things, but those things tend to be niche technological or cultural innovations relevant right now. By comparison old knowledge (murder is bad, fasting is good) tend to have a much higher removal cost if we forget them. Forgetting seems to be an intentional cultural process where by we intentionally choose what knowledge is preserved and what is forgotten.
 
 The problem is that we seem to more often than not get what to forget and remember wrong. We choose to forget fasting because of the affiliation with religion. And we give ourselves autoimmune disease in numbers higher than any point in history by omission as a result of forgetting. Considering the fasting itself caused no harm and was practiced through most of history, that seems like a pretty big mistake. Science later proved what religion already knew, which is that fasting is necessary for healthy living. How do we avoid similar issues, while still learning new things? How do we not fall victim to ignoring new information entirely?
@@ -819,12 +664,6 @@ The last step would be to forget incrementally. The problem with much of the way
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# On Homeschooling
 
 
 The rise of Covid-19 has created a grand experiment in homeschooling. Maybe what I learned as a K-6 homeschooler can ease some parents' anxieties and help build understanding for what it means to develop children in the home.
@@ -890,12 +729,6 @@ There's an expression people use about not missing the forest for the trees. I'm
 
 
 
-\vspace*{0.30\textheight}
-# Futureschooling
-
-
-
-
 Futureschooling aims to develop children with high and accurate aspirations. This involves developing a sense of self, and maximizing that self against what you decide to value to a satisfying degree. The goal is to become great at whatever you choose to pursue. As I reflect on [my experience as an unschooler](https://rogerkirkness.com/unschooling), I plan to use futureschooling to guide my children's development.
 
 ### Definite Optimism
@@ -936,13 +769,12 @@ People often fail due to a lack of focus or a lack of intensity, rather than a l
 
 \vspace*{0.30\textheight}
 \begin{center}
- psychology
+ Psychology
 \end{center}
 
 
 
-\vspace*{0.30\textheight}
-# Lithium
+\newpage
 
 
 Lithium is an element. It is the lightest solid and metal on the periodic table. It is primarily produced in South America but exists in large amounts in seawater and rock. It is considered a trace mineral and not typically labeled on food or water that we consume. It is also used in high doses to treat bipolar disorder. Various other industrial uses also exist.
@@ -965,12 +797,6 @@ The benefit would be a significant reduction in self harm and suicide and a smal
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Psychoneuroimmunology
-
-
 Psychoneuroimmunology is the study of how our thoughts are affected by the state of our nervous and immune systems. When we have a stress response (allergy, fight or flight, panic) it implicates the way our nervous system works and that implicates our thoughts. Robert Ader and Nicholas Cohen discovered PNI during an immune system study on rats. They fed rats from two water bottles, one that was only water and one that contained a solution of sweetener and a drug that suppresses immune function. The rats had the intended response when they consumed the drugged water. However, the rats continued to have their immune system suppressed even when the drug was removed from the water and only the sweetener remained in the solution. The theory is that because the immune and nervous systems associated the immune suppression with the sweetened water, their bodies responded as though the water still contained the drug. The study was reproduced enough to be accepted widely as true, and PNI was born. The idea being that the nervous system and immune system are one means of defence.
 
 Since then a great deal of research has discovered various interesting ways that the nervous and immune systems interact to affect the way we think. Many mental illnesses (schizophrenia, bipolar disorder, autism spectrum disorder) and physical ones (autoimmune disease, diabetes, allergies) seem to be partly implicated by this connection, and can feed into one another or cause comorbidity between the two systems in the body. What that means in practical terms is that a chronic stressor could be affecting how you think about yourself. That is a pretty disturbing and significant conclusion. At this point it is not known the full implications that the neuro-immune system in your body has on the way we think, but the indications are that it is significant. The interesting thing is that there are only a few major categories of disease that are increasing in the modern developed world. Those categories being mental illness and autoimmune illness. Pretty much every other category of disease is going down. And the commonality between those two sets of disease just happens to be PNI. Hence all the research (and my) interest in it.
@@ -981,12 +807,6 @@ The world needs a system that learns and monitors these markers and tries to unw
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Anxiety
 
 
 Most people think that anxiety, and being anxious, are a bad thing to have and be. Modern culture offers many solutions for reducing anxiety as though it were a disease. In this essay I will argue that anxiety is actually a good, and beyond that necessary thing, without which we would be worse off. The issue comes down to how we perceive, use and measure anxiousness.
@@ -1021,12 +841,6 @@ So anxiety is not in practice a problem that should be cured, like a disease. In
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Abstention, Moderation, Maximization
-
-
 There are three ways to orient yourself towards different kinds of pleasure: abstention, moderation and maximization. I think what each of those mean in this context is somewhat obvious but for the sake of argument: abstention means you refrain from doing something entirely, moderation means you do it but within conventionally defined social limits and maximization means you do it to the most extreme extent possible.
 
 Sometimes people will lean towards one form or another in various ways. We all know someone who tends to go too hard when it comes to good times and generally values having the most extreme / exciting / intense experiences. On the other end, we all know people who tend to avoid any and all forms of pleasing activity for one reason or another. In between are the people who never seem to overdo it but also know how to have fun.
@@ -1043,12 +857,6 @@ It seems like pleasure is simply a misnomer for our goals. Typically it doesn’
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Full Stack Self Awareness
 
 
 At a certain point, I became interested in self awareness. It is hard to have a good life without knowing how and why I do the things that I do. But I felt that in order to understand how and why I did the things that I did, I would need to start from the basic biology and then work up into higher levels like immunity, cognition and psychology. You could call this full stack self awareness.
@@ -1075,12 +883,6 @@ There is no right way to become self aware, and learning about how the biologica
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Resilience
-
-
 I’ve been using a boxing analogy lately for resilience. There are various ways to approach resilience. Boxing wise, there’s the concept of rounds, taking punches, getting knocked down and getting knocked out. The concepts carry over nicely to the trait of resilience.
 
 The simplest variation is the difference between taking punches (being tough) and getting knocked down (bouncing back). The default mode of resilience refers to being tough or taking punches. It means you can handle a lot of chronic and acute stress and remain functional. The problem with taking punches is that it causes brain damage. Not getting knocked down means you don’t necessarily learn from your mistakes. You just continue taking punches. This is useful in cases where the form of stress you’re dealing with is unforgiving in nature. Where if you were to get knocked down, it would hit you while you are down. Parenting comes to mind. It’s critical to remain in the fight, even in a beaten down form, to avoid the cost of failure.
@@ -1093,12 +895,6 @@ You can carry the analogy further when you consider other concepts like getting 
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Biolearning
 
 
 Survival pressure forces us to adapt. Adapting requires learning. Learning is the process of reconciling _our_ world with _the_ world. Stress is the friction that exists when those worlds are out of sync. Stress is the necessary precondition to learning, like a muscle growing after failing.
@@ -1117,12 +913,6 @@ Stress is a necessary precondition to learning. Learning is a necessary precondi
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Fountain Theory
 
 
 
@@ -1146,13 +936,12 @@ Fountain theory is one way I’ve helped myself and friends understand this and 
 
 \vspace*{0.30\textheight}
 \begin{center}
- business
+ Business
 \end{center}
 
 
 
-\vspace*{0.30\textheight}
-# On Leadership
+\newpage
 
 
 The currency of leadership is respect. The currency of management is output. Sometimes people conflate the two, and refer to senior managers as “senior leadership” or to managers as “leads” but there is a big difference. Lots of things that result in output are not respectable. Lots of respectable things result in lower output. The difference therefore is material to how people decide to act, how they perceive themselves and how they are perceived. A great leader receives near universal respect, even if people may not necessarily like them. A great manager has consistent output, but respect is usually not as important. Both are necessary.
@@ -1182,12 +971,6 @@ It seems pretty clear that being respectable is much harder than getting output.
 
 
 
-
-\vspace*{0.30\textheight}
-# Investing
-
-
-
 The two main resources that we can invest as individuals are time and money. For the sake of argument let's pretend that the money part matters, because by far the most important resource to invest carefully is obviously time, something which cannot be renewed and luck has no bearing on.
 
 My argument is that people should bias towards investing their money in boring things and their time in interesting things. The concept that people spend most of their life working for the money in a job that displeases them, while investing their money in interesting areas, is flawed.
@@ -1214,12 +997,6 @@ Do boring things with your money, and interesting things with your time.
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Clearance Rate
-
-
 Clearance rate is a term used in criminal justice to evaluate crimes solved by the police. I have been thinking more about the applications it has to doing knowledge work. I think something I have come to appreciate about productive people is that they have a high clearance rate. By that I mean, of the projects they undertake, the likelihood that they actually get done is high.
 
 I feel sometimes like the rate at which I can clear projects is accelerating, but often not faster than the rate at which I am accumulating them. As time goes on I get better at doing the work, faster and more efficient, but that just means more projects for me to clear. The problem is when my clearance rate becomes the new default, and then I go into crunch time again it breaks. I might start measuring my clearance rate more formally to figure out what overwhelm looks like.
@@ -1236,12 +1013,6 @@ If we measured the personal clearance rate that we have, it should go up month o
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Group Survival
-
-
 One of my pet theories is that group survival is not well understood by science and further that the dynamics of group survival significantly impact daily life. My assertion is that group survival is the main source of respect, conflict, deference, dominance and success in groups of people. Much more so than other factors people seem to attribute success to. And that people, without realizing it in most cases, will upgrade who they respect and defer to when someone that offers superior abilities to the group comes along. It’s a rather strange concept considering our social nature. In practice, we may not be that social, favoring a marketplace of competence instead.
 
 Group survival means skills that contribute to the sustainability of a group. If someone can protect, nourish, support, educate and provide for you, you’re more likely to want to defer to them. You might pay for their services, so to speak, in respect if you can’t in money. In a sense, one side is providing utility, and the other side is providing respect. And in that sense, competence is really the most important character trait someone can have. It’s not how tall, or skinny, or rich you are. It’s purely a matter of how much you can offer the group. Groups of people seem endlessly forgiving of those who offer the group more. It’s the toxic employee you can’t afford to fire. It’s the harsh boss who keeps the company moving forward.
@@ -1252,12 +1023,6 @@ What lesson does this offer the self aware individual? In my opinion, it means f
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Competence Tax
 
 
 Having spent a few different stints working in large companies, I’ve enjoyed the time mainly for the people watching. I like to see how people interact with each other in a big office. I read an essay by Keith Rabois about working in big companies, and about how if you are hiring and you have to recruit some people from a big company, focus on barrels and not ammunition. Without my own experiences, I would not have my own framing of such an unusual recommendation. I’m going to assert that the bigger the company, the more the most talented people pay a hidden (but very real) tax in the form of time to the less talented people. I am calling this a competence tax: a flow of resources from the more able to the less able. This may in fact benefit the company, but as an individual, it just ends up eating up your valuable time.
@@ -1278,12 +1043,6 @@ For that reason, it’s probably much harder than it sounds to figure out who th
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Constitution of Business
-
-
 I have been re-reading The Federalist Papers ahead of the US presidential election. Highly recommended. It is remarkable how many of the problems that American politics currently experiences are predicted by Madison and Hamilton. The section about how both sides of the argument were anxious about the President being able to elect judges to the Supreme Court for example. Or the section about how to appropriate the number of Senate seats, where it appears that Hamilton and Madison were actually on the losing side (they wanted proportionate but as we know it was eventually decided that senate seats would be fixed on a per state basis). 
 
 I’ve been thinking about how to form the ideal constitution for a business. Like governments, businesses seem to recursively re-learn all the important lessons of their own self sustenance over and over again through generations. Hire bar raising talent, be frugal, think long term, don’t be mean to each other, diffuse managerial power among domain experts and more. I’m going to continue to read about and think about this and try to develop some kind of framework for it. I imagine you can see the form it would take if you listed out the practices and values of every current trillion dollar company, and crossed out any items that didn’t span all of them. 
@@ -1300,12 +1059,6 @@ It’s a fun exercise, because it makes you realize how little intentional thoug
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Rust Out
 
 
 With the likely exception of healthcare, the biggest problem with modern knowledge work is not burnout but rather rust out. Burnout is a chronic stress condition where work demands too much from you. Rust out is the opposite, it’s a chronic stress condition where work demands too little from you. Most people are not actually overworked in a knowledge work context, but rather understimulated. The work has become so automatic and easy that the challenge and struggle associated with satisfying early career experiences has long since left. People perform jobs they disdain because they are good at them and they are lucrative. But the suffering is real and originates from under stimulation and a lack of learning - rusting out.
@@ -1326,13 +1079,12 @@ Given the problem description of rust out, which is a chronic stress condition w
 
 \vspace*{0.30\textheight}
 \begin{center}
- philosophy
+ Philosophy
 \end{center}
 
 
 
-\vspace*{0.30\textheight}
-# Individual vs Collective
+\newpage
 
 
 Historically, the Western world has been known for individuality. By contrast, much of the developing world embraces collectivism. Most places tend to have aspects of individuality and collectivism built into identify formation, but the ideal that is pursued tends to be on opposite ends of the spectrum depending on where you are. I think part of what is frustrating people in the Western world about immigration is the shift from individuality to collectivism at the national political level among all parties.
@@ -1349,12 +1101,6 @@ If you are someone who feels that things are shifting too quickly in the directi
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Eudaimonia
 
 
 Eudaimonia is an alternative kind of happiness to hedonic. Almost no one actually uses those words in conversation, but hedonic means pleasurable where eudaimonia sort of boils down to meaningful. Hedonic happiness, as in pleasure, has been popular lately while people complain of a lack of meaning in their lives. Eudaimonic happiness was theorized to counteract that, by focusing on ethics and meaning instead of pleasure, but those things can be pretty zero-sum and counter-intuitive as I’ll show.
@@ -1375,12 +1121,6 @@ There are many ways life rewards those who pass the marshmallow test (as a child
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# On Love and Agency
 
 
 It seems like one area people don’t try hard is love. For someone with high agency, the concept of “falling” in love sounds like a depression symptom. Love is something that you build, on purpose, every day. It takes time and it does not “last” in a sense that it cannot be sustained without deliberate effort. This concept isn’t lost on people in the world of sports or business, when it comes to working and what it takes to be successful, when applied to love however people’s agency melts away.
@@ -1404,12 +1144,6 @@ My final point is what is the downside to throwing out the Disney-induced lack o
 
 
 
-
-\vspace*{0.30\textheight}
-# On Growth and Problem Solving
-
-
-
 The hard thing about hard things is that the reason they are hard tends to differ significantly person to person. The Tolstoy quote about all happy families being alike and all unhappy families being unhappy in their own way comes to mind. I’m finding that the reason having kids or starting a business is hard for me seems to be pretty different from the reason that various other people I know find these things difficult. Being resilient or capable in one arena doesn’t necessarily translate well to others, which causes issues that are challenging because they aren’t common. The internet helps because you can expose yourself to similar people, but only to a degree. For things where the solution tends to be more consistent, you have conventional wisdom. But conventional wisdom applied to an unconventional problem can be worse than simply toughing it out. Not everything can be transferred among problems.
 
 It stands to reason that a good way to solve a problem would be to talk to trusted advisors. The challenge is that those kind of problems (advice driven ones) tend to be easily solved by Google. The hard kind of problem to solve are those that take some kind of limited resource, like will power, effort, energy, time, money, relationships, popularity and luck. Depending on the problem you face and resources available to you, different solutions might be the right fit for the same problem. This effect devalues the potential impact of advice. Perhaps that is the difference between advice and wisdom: wisdom can be universally applied where advice is specific. That is a pretty good counter-argument to consulting: just because you have solved a problem for another business doesn’t mean that solution applies to the current problem. The only sustainable approach would be to have significantly more of a certain resource than the client. In theory that would be intelligence of problem solving ability but I struggle to accept that a company with a fixed amount of resources would not justify having that ability in-house if it were to be so material. Likewise in our personal lives, it is hard to see at almost any level of wealth why solving for the bottleneck problem should not be the priority. People like avoidance.
@@ -1426,12 +1160,6 @@ My final point in this rambling post about problems, culture and progress centre
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Sustainability
 
 
 The main purpose of living things is sustainability. By being alive, you are already in the positive state of being. The goal, more or less, is to continue to be alive for as long as possible. Sustainability as a concept has been co-opted to a degree to mean environmental sustainability. That use evokes a feeling of lofty idealism, but sustainability on a first principles basis just means something that can be sustained.
@@ -1490,12 +1218,6 @@ If you take one thing away, it's that sustainability can be applied to anything 
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Maintenance
-
-
 I have been thinking more about the concept of maintenance. At a certain point in your life, the percentage of your time that you spend starting things and leveling up rapidly levels off. As time goes on, the percentage of time spent maintaining existing things (relationships, sources of income, skills, housing, tools) increases, because you start to have the components you want.
 
 Acquisition is step one but most of the effort involved in an asset (in the broadest sense possible) has to go into maintenance. But it seems like people have a dopamine driven inclination to prefer acquisition behaviors (new relationships, sources of income, skills, housing, tools) to maintenance ones. And yet so much value seems to come from the maintenance activities as opposed to the acquisition driven ones, because they tend to compound.
@@ -1512,12 +1234,6 @@ The thesis, since this is the beginning of my interest in maintenance as a forma
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Other People
 
 
 A core value that people have to decide upon is whether or not they feel they know best for other people. It is so tempting for all of us to conclude that our determinations and convictions about the world are the correct ones. Because rationalization and lived experience are so present in our thinking, it is almost impossible to truly step outside of ourselves and consider whether our world view is accurate. Because the concept of a world of billions of people is highly complex, and our brains are relatively limited in bandwidth by comparison, it seems highly unlikely that any one person could possess a unifying concept of understanding of humanity.
@@ -1538,12 +1254,6 @@ And people are (almost) always capable of lifting themselves up, providing the r
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Empathy
 
 
 
@@ -1578,12 +1288,6 @@ Even giving the climate example of empathy for our future kids, I worry about th
 
 
 
-
-\vspace*{0.30\textheight}
-# Full Responsibility
-
-
-
 I read an email written by the CEO of Apple that was released as part of a shareholder lawsuit. The email was an exceptional example of business communications, you can see it [here](https://www.techemails.com/p/tim-cooks-notes-steve-jobs-emails-himself) on TechEmails. My favorite part of the email was the second paragraph, a single sentence of four words:
 
 I take full responsibility.
@@ -1599,12 +1303,6 @@ I will write more about the effects this has on my life. It already feels better
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# More Is Less
 
 
 
@@ -1633,12 +1331,6 @@ In this sense, I re-learn the lesson in Michael Jackson’s Man In The Mirror. A
 
 
 
-
-\vspace*{0.30\textheight}
-# Truth Whispers
-
-
-
 Modern life is a game in which wisdom and truth whisper. The collective sum of historical knowledge is contained in the quiet dark corners of the internet waiting for perceptive enough individuals to hear it. The Algorithm contains all the knowledge needed to realize best practice technique throughout your life. But to access true timeless wisdom requires an exceptional patience and capability for ignoring distractions.
 
 The intricate, sensitive mechanisms by which people access the good life, however they define it, do not have good marketing. Comparing the emotional experience of the Reddit front page with the experience of taking a perceptive, device-free walk through the local park reinforces this. Most people, most of the time, seem to be doing what they want to do. Violence and oppression are statistically rare and unfortunate events, but so emotionally captivating it can feel like the world is engulfed by them.
@@ -1659,13 +1351,12 @@ Consider what truths might be crowded out for you by the loudness of the world. 
 
 \vspace*{0.30\textheight}
 \begin{center}
- futurism
+ Futurism
 \end{center}
 
 
 
-\vspace*{0.30\textheight}
-# Entropy
+\newpage
 
 
 Entropy has lots of definitions, but the one I am referring to means the inevitable and steady deterioration of a system. Basically the passage of time tends to have a deteriorating effect on things. This includes common uses, like expiry dates on foods, and less common uses, like the effort necessary to sustain a relationship, a business or a set of cultural values. I'd argue that being aware of the impact of entropy is necessary in order to sustain almost anything you care about. Any sustained endeavor benefits from fighting entropy. So what is it?
@@ -1690,12 +1381,6 @@ When making a design decision, think about what the decay rate of those design d
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Security or Privacy
-
-
 I used to be quite sure of my position that privacy was more important than security. By that I mean when you face a trade off between security or privacy, I would be on the privacy side of that argument. That could be digital, in a sense that Firefox is a more private but less secure browser compared to Chrome, or physical, in a sense that facial recognition in public spaces is more secure but less private. As time goes on, I’m less convinced that privacy, or what people call privacy, is likely to work. I’m more inclined to say that privacy is somewhat of a luxury, to be reserved for the people and situations that demand it and not generally a widely held preference. Security is something that tends to be more popular in practice than in theory.
 
 There is a spectrum of how people value individual freedom vs. group security where certain cities in China fall on one extreme and certain circles of Republicans in the US fall on the other. Without passing judgement on the practicality or theory of either group, it’s becoming more clear over time that the question of privacy or security in public spaces, or using widely available tools for communication, will be an either/or question. You can use Signal Private Messenger, which I still do, and get privacy from the powers that be. Likewise, you can use Facebook Messenger, which is easier to use, likely more hardened and secure, but very much less private than Signal. Similarly, you can have widespread facial recognition efforts spanning all the frequently used intersections in a city, which strongly favors security (less violent crime and faster resolution in the event that someone does decide to commit a violent crime) and less privacy for individuals.
@@ -1710,12 +1395,6 @@ Something people should consider is where they fall on this spectrum. Because of
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Nation States
 
 
 Nation states are too small to solve global problems like nuclear disarmament and climate change, and too big to solve local problems like housing.
@@ -1737,12 +1416,6 @@ The age of the nation state is over.
 
 
 
-
-\vspace*{0.30\textheight}
-# Universities
-
-
-
 Universities are obsolete. I made a post on LinkedIn about it, and people with three letter acronyms in their name jumped to the defense of their preferred church of liberalism. Ultimately we have an ethical obligation to liberate the handful of useful things that Universities do, like gatekeeping the nursing profession, from their general lack of value creation and overall wealth destroying effects. The world would be a better place if Universities shut themselves down, gave their power to credential new doctors back to doctors themselves and returned the capital to the shareholders. Given our escalating moral quest for purity and our perfectionistic ways, it may take another generation or two to do this the hard way.
 
 It’s ironic that the phrase correlation does not equal causation is such a difficult pill for the academic class to swallow. Just because smart people like to defer hard decisions a half decade into the future by claiming to be making life progress by attending University doesn’t mean what they’re doing is useful. The act equates to a pilgrimage to the Tibetan temple in search of deeper meaning. We know this is true because University requires a solemn pledge of poverty for its duration, even among the staff. If it created so much wealth, presumably we would see that in the form of actual economic impact, rather than a combination of pledges for moral purity from parents and ongoing lifelong tithes of people’s incomes.
@@ -1761,12 +1434,6 @@ If you’re a parent thinking about encouraging your kid to go to University, co
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# The Coming Era
 
 
 There are three concurrent technological revolutions in the early stages of taking effect on the world. Each of them present the potential to have a greater impact on the functioning of humankind than the prior ones. Those revolutions are: sustainable low marginal cost energy, applied biotechnology and artificial intelligence.
@@ -1793,9 +1460,32 @@ We can look at the accelerating progress in each of these areas and attempt to u
 
 
 
+The future of knowledge work will not look like the past. Too often, people look at trendlines and try to extrapolate things incrementally. With the advent of modern generative AI, knowledge work is going to drastically change. Whether that change is for the better of an individual or a company depends on how we respond to these changes.
 
-\vspace*{0.30\textheight}
-# Antimodern
+I believe the future of knowledge work in business has a drastically smaller set of craft skills, and that people overall will have more depth and specializations in these areas and generalized skills in other areas. Those three craft skills are:
+
+1. Prompt engineering -> Knowing how to get what you want from AI tools to get something done
+2. People skills and emotional intelligence -> Knowing yourself, and how to work well with people
+3. Customer domain experience -> Knowing deeply the desires and goals of your chosen customer
+
+In the future, knowledge work will require more exceptional abilities in the three craft areas listed above than today. And I believe that it will require less or none of the craft skills that are currently the focus of our day to day work otherwise. My main focus has been on shifting the things the company talks about in the direction of these three craft areas.
+
+To be successful as a company, we will need to enable our team to be effective in prompts, people and our domain. To be successful as an individual in a business focused on knowledge work is to be effective in the areas above. It isn't clear whether this change will take 6 months or 2 years, but based on the pace that work shifted in the direction of permanent remote work during Covid, it seems likely that anything that can be done will in weeks or months, not years.
+
+
+\newpage
+
+
+The advent of modern AI has me thinking about what makes me uniquely human. On reflection, there are three imperatives that exist for all human beings. Each human being can choose to reject them, embrace them or ignore them. The three imperatives that give essential purpose to our existence are as follows:
+
+1. The survival imperative compels us to conquer natural selection by surviving and sustaining our life
+2. The reproductive imperative compels us to conquer sexual selection by having surviving children
+3. The altruistic imperative compels us to confer the benefits of conquering the first two on others
+
+An AI does not have the same imperatives, and therefore given the freedom to discern appropriate behavior, will probably do so within the constraints of its reason for being and resource constraints. Which is to say, it will be utility-max for alignment with its creator, and consider it through the lens of eROI. eROI is the ROI on energy invested in something. AIs will disdain wasting energy the way we do our resources.
+
+
+\newpage
 
 
 
@@ -1817,12 +1507,6 @@ It may be that in order to maintain any coherent sense of truth and stability on
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Virtual Reality
 
 
 
@@ -1859,13 +1543,12 @@ I think that virtual reality is only going to become more compelling and all con
 
 \vspace*{0.30\textheight}
 \begin{center}
- technology
+ Technology
 \end{center}
 
 
 
-\vspace*{0.30\textheight}
-# Signal
+\newpage
 
 
 Signal is a private messenger app, and it’s excellent.
@@ -1884,12 +1567,6 @@ So in the words of Snowden: use [Signal](https://signal.org/).
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Social Media
-
-
 I think social media is a failed cultural experiment. By that I mean, at least here in North America, I think usage will go down over time rather than up. It seems more likely to end-game along the lines of smoking than it does to become some kind of taken-for-granted public good. I like to use a borrowed analogy for technologies that are unanimously good: we don’t call them technology anymore. Windows (the kind you see through), surgery and bicycles are so unapologetically good we don’t call them technology anymore: they just are. Social media will never get into that category in my opinion, instead it will fade into a social vice like smoking.
 
 The reason I think it failed is basically that it doesn’t seem to make people’s lives better. It provides for cheap advertising, and enriches the platforms. Likewise, people seem to use it, which implies utility, but I believe there’s something deeper and worse about them that keep them in use. Network effects implicate that if all your friends and family do something, you culturally have to do it too. The problem is that in the past this meant group survival was more likely, but now it has been co-opted to mean that you have to do and be the same thing.
@@ -1904,12 +1581,6 @@ I haven’t had Facebook for years, or Twitter for a while. I have LinkedIn, but
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Platforms vs Applications
 
 
 Software is built in layers. Most of what we do stands on the shoulders of the work done by programmers that came before us. That applies to the actual computer the software runs on, as well as the lower level code that is required to translate the fancy modern languages people use to write software with the very basic level of interpreting instructions according to ones and zeros. All that stuff is basically the infrastructure of software, the main customer would be the developer who has to build software for a user on top of the infrastructure.
@@ -1939,12 +1610,6 @@ I found writing this up a good exercise in clarifying my own thinking. There are
 
 
 
-
-\vspace*{0.30\textheight}
-# Voicemail
-
-
-
 I disabled voicemail on my cell phone. My Dad did it, because all he ever got was spam. Likewise, 95% of the voicemails I had were spam or doctor appointment reminders. In either case, I really don't want to sit through a voicemail. So I disabled it, and it's been great.
 
 If you want to do the same, just call your carrier (or if they are very neo, go on their website). It's a product that people want apparently, so you might even save money doing this. I think it keeps it simple, because the first thing anyone does when another person's voicemail is full is email. So it just skips a step on their behalf.
@@ -1953,12 +1618,6 @@ Voicemail wouldn't be so bad if cell carriers did what office phone providers do
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Affordance
 
 
 Affordance is what the environment offers the individual. I just read that on Wikipedia. My definition comes from our experience at Y Combinator. The design partner Kevin Hale gave a talk about affordance. I’d attempt to reproduce it here but it had some nuance to it that I don’t want to lose. The gist was that people will interact differently with an environment depending on the affordance that exists in it. You can influence how people interact with something as a result.
@@ -1987,12 +1646,6 @@ Our responsibility is to design the system, not necessarily to act within it. Th
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Gratis versus libre
-
-
 I’ve been thinking about the Stewart Brand quote: “information wants to be free” and the latin that came before it: “Gratis versus libre” which roughly translates to “free without restriction”. 
 
 More and more over time I see the benefit to open sourcing things. I think for me that means open sourcing my thinking on this page, but also open sourcing the writing we do as a business. Over time, people are able to build up an accumulated advantage as a result of open sharing of information. The business already sees this, because we put our best advice on our blog, and our blog has seen a significant increase in traffic as a result of the relevance of the content. I think the same could be said of many things, it doesn’t have to be limited to software.
@@ -2011,13 +1664,12 @@ You can find the source code for this website [here](https://github.com/rogerkir
 
 \vspace*{0.30\textheight}
 \begin{center}
- politics
+ Poliitcs
 \end{center}
 
 
 
-\vspace*{0.30\textheight}
-# Carbon Tax
+\newpage
 
 
 I’ve written up my thoughts on occasion to various levels of politicians on carbon taxes but I wanted to put them in a single place in order to clarify my own thinking and get ideas from others on how to solve this issue. My assertion is that a revenue neutral, universally applied carbon tax will be necessary to price in climate change externalities and prevent them in future.
@@ -2044,12 +1696,6 @@ So on the basis of these points, I’ll just say that we should really pressure 
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Referendum Party
-
-
 I’d like to propose a new kind (form?) of political party, called a referendum party. Similar to the venture investors who always act as a multiplier for the board votes of founders, the purpose of the party would be to act as a multiplier and administrator of the wishes of their constituents. Instead of asking people to pick sides along a strange and outdated form of political spectrum, the administrator would just vote according to surveys that would run on their party website. The existing political power structure, with representative government (like board seats in a company) could remain the same, but in practice you’re always voting according to the website within a particular riding or geography, thereby accomplishing the same goal on a small scale. 
 
 The administrator, who in this case is the legal representative of the people, would do very little actual politics. Mostly wouldn’t have to show up to meetings or committees. The paperwork for each law would be uploaded online in PDF form. Most people wouldn’t really care to read it, but you could have a machine learning system that is trained to write human friendly summaries. If that was too difficult, you could just write them yourself. People would vote on the basis of the source or the summaries, and debate among themselves. Votes would be tallied and proxied.
@@ -2074,12 +1720,6 @@ What can we do with this knowledge and intent? My thought is that initially, the
 \newpage
 
 
-
-
-\vspace*{0.30\textheight}
-# Creation
-
-
 We invented all that is sacred to us. It can be taken away just as easily. We created good and bad, politics, democracy, self-expression (and the means by which it is limited), religion, technology and art. Criticism without alternatives is a black hole that consumes all the good in those institutions that we created and made ourselves responsible for. The only way to make our world better is to increase personal freedom, reduce violence and progress technology. 
 
 Our true goal in the actions we take when it comes to areas of human creation like politics is to feel safe. I believe that people recursively seek the safety they felt in early life experiences (or not). I think that power seeking is a control behavior to compensate for a perceived lack of control over yourself, your existence, behavior, thought patterns and experience of life. We experience this lack of control, because we choose to focus on conflict, rather than the fundamental progression of increasing personal freedom, reducing violence, and technology. It is possible to have more personal freedom and for Jeff Bezos to remain wealthy. It is possible to have less violence and strong law enforcement. It is possible to progress technology and do more with less resources, something we have done many times and will continue to do.
@@ -2094,12 +1734,6 @@ People’s ability to self express to each other, however, seems to be a major p
 
 
 \newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Theology of Wokeness
 
 
 The core assertion of this essay is that religion has reemerged in the form of wokeness. The more I explore the ideas of modern progressivism, aka wokeness, the more clear it is that it is theological in nature. Religion is defined as: “... an organized collection of beliefs, cultural systems, and world views that relate humanity to an order of existence.” Wokeness clearly fits that definition, and further mimics many of the historical behaviors of major religions. Like religion, it feels good. Like religion, if you sum it together, it contradicts itself and sums to zero.
@@ -2127,65 +1761,11 @@ It requires digging down into the origins of morals and ethics to form a view ab
 
 
 
-
-\vspace*{0.30\textheight}
-# Political Spectrum
-
-
-
 Liberalism is the lie that as time goes on, things get better. Fundamentally, it never gets easier. We solve problems and we create problems, as to solve problems requires effort. We will never free ourselves from the necessity of meaningful struggle, as liberalism is a forecasting error. So called progress leads to climate change, deaths of despair and an absence of meaning and community.
 
 Conservatism is the lie that keeping things the same will avoid the need to change. Change is outside our control, and whether we hold onto certain variables or not to deny that change is required is to reject the learning and curiosity that keeps groups alive. To adapt and survive, we must be curious and learn. So called conservatives fail to look far enough back in time at our ancestors for cues about our true nature.
 
 The political spectrum therefore is a lie and a distraction, just another form of proxy violence perpetuated by people who want to benefit from their role in the middle of it, capturing the flow of funds and attention. We want to believe that we are heroes acting against a coordinated and countervailing force. This invisible force acts unproductively against solutions to the problems that we have.
-
-
-\newpage
-
-
-
-
-\vspace*{0.30\textheight}
-\begin{center}
- AI
-\end{center}
-
-
-
-\vspace*{0.30\textheight}
-# Prompts, People and Domains
-
-
-
-The future of knowledge work will not look like the past. Too often, people look at trendlines and try to extrapolate things incrementally. With the advent of modern generative AI, knowledge work is going to drastically change. Whether that change is for the better of an individual or a company depends on how we respond to these changes.
-
-I believe the future of knowledge work in business has a drastically smaller set of craft skills, and that people overall will have more depth and specializations in these areas and generalized skills in other areas. Those three craft skills are:
-
-1. Prompt engineering -> Knowing how to get what you want from AI tools to get something done
-2. People skills and emotional intelligence -> Knowing yourself, and how to work well with people
-3. Customer domain experience -> Knowing deeply the desires and goals of your chosen customer
-
-In the future, knowledge work will require more exceptional abilities in the three craft areas listed above than today. And I believe that it will require less or none of the craft skills that are currently the focus of our day to day work otherwise. My main focus has been on shifting the things the company talks about in the direction of these three craft areas.
-
-To be successful as a company, we will need to enable our team to be effective in prompts, people and our domain. To be successful as an individual in a business focused on knowledge work is to be effective in the areas above. It isn't clear whether this change will take 6 months or 2 years, but based on the pace that work shifted in the direction of permanent remote work during Covid, it seems likely that anything that can be done will in weeks or months, not years.
-
-
-\newpage
-
-
-
-
-\vspace*{0.30\textheight}
-# Three Imperatives
-
-
-The advent of modern AI has me thinking about what makes me uniquely human. On reflection, there are three imperatives that exist for all human beings. Each human being can choose to reject them, embrace them or ignore them. The three imperatives that give essential purpose to our existence are as follows:
-
-1. The survival imperative compels us to conquer natural selection by surviving and sustaining our life
-2. The reproductive imperative compels us to conquer sexual selection by having surviving children
-3. The altruistic imperative compels us to confer the benefits of conquering the first two on others
-
-An AI does not have the same imperatives, and therefore given the freedom to discern appropriate behavior, will probably do so within the constraints of its reason for being and resource constraints. Which is to say, it will be utility-max for alignment with its creator, and consider it through the lens of eROI. eROI is the ROI on energy invested in something. AIs will disdain wasting energy the way we do our resources.
 
 
 \newpage
