@@ -2,7 +2,7 @@
 layout: post
 title: Psychoneuroimmunology
 date: July 2017
-tags: [Psychology]
+tags: [Science]
 ---
 Psychoneuroimmunology is the study of how our thoughts are affected by the state of our nervous and immune systems. When we have a stress response (allergy, fight or flight, panic) it implicates the way our nervous system works and that implicates our thoughts. Robert Ader and Nicholas Cohen discovered PNI during an immune system study on rats. They fed rats from two water bottles, one that was only water and one that contained a solution of sweetener and a drug that suppresses immune function. The rats had the intended response when they consumed the drugged water. However, the rats continued to have their immune system suppressed even when the drug was removed from the water and only the sweetener remained in the solution. The theory is that because the immune and nervous systems associated the immune suppression with the sweetened water, their bodies responded as though the water still contained the drug. The study was reproduced enough to be accepted widely as true, and PNI was born. The idea being that the nervous system and immune system are one means of defence.
 

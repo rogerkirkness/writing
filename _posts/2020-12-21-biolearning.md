@@ -2,7 +2,7 @@
 layout: post
 title: Biolearning
 date: December 2020
-tags: [Psychology]
+tags: [Science]
 ---
 Survival pressure forces us to adapt. Adapting requires learning. Learning is the process of reconciling _our_ world with _the_ world. Stress is the friction that exists when those worlds are out of sync. Stress is the necessary precondition to learning, like a muscle growing after failing.
 

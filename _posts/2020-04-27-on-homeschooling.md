@@ -2,7 +2,7 @@
 layout: post
 title: On Homeschooling
 date: April 2020
-tags: [Homeschooling]
+tags: [Education]
 ---
 The rise of Covid-19 has created a grand experiment in homeschooling. Maybe what I learned as a K-6 homeschooler can ease some parents' anxieties and help build understanding for what it means to develop children in the home.
 

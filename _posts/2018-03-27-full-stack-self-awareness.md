@@ -2,7 +2,7 @@
 layout: post
 title: Full Stack Self Awareness
 date: March 2018
-tags: [Psychology]
+tags: [Science]
 ---
 At a certain point, I became interested in self awareness. It is hard to have a good life without knowing how and why I do the things that I do. But I felt that in order to understand how and why I did the things that I did, I would need to start from the basic biology and then work up into higher levels like immunity, cognition and psychology. You could call this full stack self awareness.
 
