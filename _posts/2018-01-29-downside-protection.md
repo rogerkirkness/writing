@@ -2,7 +2,7 @@
 layout: post
 title: Downside Protection
 date: January 2018
-tags: [Economics]
+tags: [Business]
 ---
 Something I talk about often is downside protection. I think it has a specific definition in investing, meaning a hedge against a potential for loss. The way I use it means how trajectory decisions you make or ways of allocating your resources that can prevent downside. The opposite would be upside potential, or the factors affecting something that result in growth or positive outcomes. My assertion is that too much downside protection leads to stagnation.
 

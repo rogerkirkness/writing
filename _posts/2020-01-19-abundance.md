@@ -2,7 +2,7 @@
 layout: post
 title: Abundance
 date: January 2020
-tags: [Economics]
+tags: [Business]
 ---
 If we were in a world of abundance, rather than scarcity, would people even notice? How much excess wealth does the world need in the form of financial capital in order for people to determine that we’ve solved all of the fundamental problems of being? If we were in fact in a world of abundance and not one of scarcity, would people act differently or just be confused?
 

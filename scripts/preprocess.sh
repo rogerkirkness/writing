@@ -39,6 +39,7 @@ done < <(find _posts -name '*.md' | sort)
 # Process each tag and associated files
 for i in "${!tagsArray[@]}"; do
     tag="${tagsArray[i]}"
+    echo $tag
     echo -e "\n\\\\addcontentsline{toc}{section}{$tag}\n" >> "$output"
     echo -e "\n\n\\\\vspace*{0.25\\\\textheight}\n\\\\begin{center}\n\\\\Huge $tag\n\\\\end{center}\n" >> "$output"
     echo -e "\n\\\\begin{center}\n\\\\includegraphics[width=0.2\\\\textwidth]{$honeycombs_image}\n\\\\end{center}\n" >> "$output"
