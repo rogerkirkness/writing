@@ -2,10 +2,14 @@ url: "https://rogerkirkness.com"
 permalink: /:title
 plugins:
   - jekyll-sitemap
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      pdf: true
+tags:
+  order:
+    Philosophy
+    Reflection
+    Technology
+    Science
+    Business
+    Lifestyle
+    Education
+    Politics
+    Futurism
