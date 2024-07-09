@@ -19,9 +19,9 @@ There are several related questions that I have been thinking about as it relate
 
 I don’t have satisfying answers to these questions. And because Universities have become ineffective at both their original and revised purpose, I don’t think they do either. Virtual reality platforms do not share my incentives or my desire to remain in touch with my humanness. Governments are unable to contain people’s desire to remain in virtual reality - if most of a democratic electorate wants their addictions enabled, it will be so. So I know I must depend on myself, but I have more questions than answers when it comes to countervailing virtual reality.
 
-There are some changes I have made in my life that have not been easy changes in order to spend less of my time in virtual reality and try to connect more with my humanness:
+There are some changes I have made in my life that have not been easy changes in order to spend less of my time in virtual reality:
 
-* I no longer watch videos unless absolutely essential for my job. I don’t think there’s anything wrong with videos, but I find the more I step back from them, the more clearly I can think.
+* I no longer watch videos unless absolutely essential for my job. I don’t think there’s anything wrong with videos, but the more I step back from them, the more clearly I can think.
 * I question how important every form of virtual reality platform is in my life, and bias towards elimination. I do this at work, like doing voice rather than video calls, and at home.
 * I am very judicious about whether to allow an algorithm to direct my attention. I intentionally block algorithmic feeds like Facebook, LinkedIn, Reddit and YouTube entirely.
 * I have cultivated offline hobbies that require my eyes and ears. I bought an axe that I sharpen myself to make firewood. I read physical books. 
