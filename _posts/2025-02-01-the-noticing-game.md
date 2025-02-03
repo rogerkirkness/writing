@@ -1,0 +1,18 @@
+---
+layout: post
+title: The Noticing Game
+date: February 2025
+tags: [Philosophy]
+---
+
+When I’m out in public with the kids, we like to play a game called the noticing game. I created the noticing game when I realized that most people seek what amounts to the opposite of situational awareness. Most people seem to want to lock into some kind of media in the liminal spaces of their life, and cognitively teleport from one place based activity to the next. I prefer to do the opposite, to take in the intense and rich patterns of life in raw and unfiltered form. Nothing wrong with enjoying a podcast, music or an audiobook if you like it, I personally don’t.
+
+I find that temperament wise I am not really able to turn off situational awareness. At all times I scan the event horizon in front of and around me, analyzing the movements of people and things. I try to path predict the actions of different people. Will that car keep going or stop? Will that man on a bike hit that woman pushing a stroller? What will happen when those teenagers accost each other at the bus stop? And so on. I find it hard not to experience a visceral and satisfying fascination with watching the world at it’s most mundane and avoiding distractions.
+
+With the kids, the noticing game is an attempt to raise situational awareness and accurate perception of risk. Far from attempting to make them aware of the dangers of their environment, beyond the obvious of watching for cars when they cross the street, I try to make them aware of their presence in space, among people, and those peoples intentions. I also try to make them aware of the world of nature, the intentions and actions of animals and even plants. Did you know leaves on trees turn upward when rain is imminent? My kids notice this now, and we time whether or not we can make it home without getting rained on through it.
+
+There are so many things to notice in the world. When you live in an urban environment, the default is to shut out as many of those things as possible in order to function. I remember not noticing sirens when I lived downtown for a while, but when I first moved there it felt constant. Attention is so powerful, so much of the outcomes of people’s work, lives and relationships is a function of how they have intentionally directed their attention. And as attention seeking behaviour among people and digital technology increases, the amount of time spent reflecting on and actively directing attention seems to be dwindling and replaced by fun distractions.
+
+People think that the best way to access presence is to meditate, but I find meditation makes me environment scan my life. I look for things to notice and then ruminate even more. But the noticing game has become the form of meditation that works best for my temperament and orientation to the world. Few things are more meditative than predicting the path of cars engaging in a roundabout as a driver, or as an individual walking through an urban centre trying to glean whatever understanding you can about the people around you from how they behave.
+
+If you’re someone who finds they have a hyper vigilant mind and who has not enjoyed meditation, try out the noticing game next time you’re in public. See what you can take in about the environment, including the people, fixtures, animals, plants, buildings, infrastructure. Think about the people who are responsible for maintaining all of those things. The people who keep the shops and have to perform all the thankless work preparing for customers. The struggles and things that excite every person you come across. The parallel world of animal and plant life in the natural struggle for survival. It can be a blissful thing to notice it all.
