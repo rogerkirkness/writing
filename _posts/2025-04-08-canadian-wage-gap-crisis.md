@@ -5,6 +5,8 @@ date: April 2025
 tags: [Politics]
 ---
 
+_I originally wrote this memo for Build Canada, but it didn't get run so I'm sharing it here in original form._
+
 ### Key Message
 
 Canada faces a critical challenge that threatens our economic future: the systematic loss of our highest-performing talent to the United States due to uncompetitive compensation.
