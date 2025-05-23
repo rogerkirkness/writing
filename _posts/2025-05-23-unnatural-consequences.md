@@ -46,7 +46,7 @@ There are various health benefits to drinking clean, safe drinking water. Drinki
 
 Water is something where the natural way is not entirely better, similar to the consideration around the sun and sunburns. Occasionally, animals in nature get sick or die from drinking water contaminated with viruses, bacteria and parasites, and that is a risk to ‘natural’ water. That said, water in nature contains many things modern people are deficient in, including magnesium, vitamin B12 and zinc (which just happens to be my morning vitamin routine, in addition to vitamin D). We are making a steep trade off ensuring our water is safe to drink.
 
-The reason drinking alkaline, electrolyte rich water and consuming vitamin B12 and magnesiums supplements is a popular health intervention is that our water is lacking in these things that occur in nature. Were we to drink spring water or well water from the source, we could realize equivalent or greater benefits assuming that source was free of contaminants. 
+The reason drinking alkaline, electrolyte rich water and consuming vitamin B12 and magnesium supplements is a popular health intervention is that our water is lacking in these things that occur in nature. Were we to drink spring water or well water from the source, we could realize equivalent or greater benefits assuming that source was free of contaminants. 
 
 **Movement**
 
