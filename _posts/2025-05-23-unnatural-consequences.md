@@ -24,7 +24,7 @@ The reason taking Vitamin D supplements and using red light therapy products lik
 
 **Contact with Earth**
 
-In nature, our bodies remain in contact with the earth at all times whether sleeping, eating, running or otherwise. Our bodies and their cells expect to remain in constant contact with earth since the alternative would not have existed during the period in which we evolved. Earthing allows the positivity charge in our cells to be neutralized by the negative charge of the earth.
+In nature, our bodies remain in contact with the earth at all times whether sleeping, eating, running or otherwise. Our bodies and their cells expect to remain in constant contact with earth since the alternative would not have existed during the period in which we evolved. Earthing allows the positive charge in our cells to be neutralized by the negative charge of the earth.
 
 There are many health benefits to earthing and grounding. There are various products available that allow people to ground themselves without having to actually go outside in bare feet, such as earthing shoes, earthing mats, earthing mattress covers and so on. Every surface of your life can be covered in material that connects you back with the earth that underlies everything. Earthing helps with inflammation, sleep, cardiovascular health, stress and mood.
 
