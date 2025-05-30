@@ -1,7 +1,16 @@
 url: "https://rogerkirkness.com"
 permalink: /:title
 incremental: true
+future: false
+profile: true
 highlighter: rouge
 markdown: kramdown
+sass:
+  style: compressed
+exclude:
+  - scripts/
+  - README.md
+  - Gemfile*
+  - CLAUDE.md
 plugins:
   - jekyll-sitemap
