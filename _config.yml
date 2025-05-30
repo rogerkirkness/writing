@@ -1,4 +1,7 @@
 url: "https://rogerkirkness.com"
 permalink: /:title
+incremental: true
+highlighter: rouge
+markdown: kramdown
 plugins:
   - jekyll-sitemap
