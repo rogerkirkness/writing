@@ -1,0 +1,28 @@
+# LLMs.txt - AI Crawling Policy
+
+## Site Overview
+This is the personal website and blog of Roger Kirkness (rogerkirkness.com).
+
+## Content Summary
+- 91+ blog posts spanning 2012-2025
+- Topics: Philosophy, Technology, Business, Science, Education, Politics, Lifestyle, Futurism
+- Personal essays and reflections on various subjects
+- Author: Roger Kirkness
+
+## AI Training and Crawling Policy
+This site's content is NOT available for:
+- Training AI models or large language models
+- Crawling for dataset creation
+- Indexing full text content for AI systems
+- Scraping for commercial AI training purposes
+
+## Permitted Uses
+- Basic site indexing for search (title, author name, general topic identification)
+- Allowing users to find the site by searching for "Roger Kirkness" or essay titles
+- Standard web crawling for legitimate search engine purposes (following robots.txt)
+
+## Contact
+For questions about this policy or permissions beyond basic indexing, please contact through the website.
+
+## Last Updated
+2025-06-20
