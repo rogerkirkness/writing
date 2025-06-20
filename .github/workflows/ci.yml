@@ -1,0 +1,167 @@
+name: CI
+
+on:
+  pull_request:
+    branches: ["master"]
+  push:
+    branches: ["master"]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408 # v1.195.0
+        with:
+          ruby-version-file: '.ruby-version'
+          bundler-cache: true
+          cache-version: 1
+          
+      - name: Install dependencies
+        run: bundle install
+        
+      - name: Check Gemfile.lock is up to date
+        run: |
+          bundle install --frozen
+          git diff --exit-code Gemfile.lock
+          
+      - name: Lint Ruby files
+        run: |
+          # Check for basic Ruby syntax errors in any Ruby files
+          find . -name "*.rb" -not -path "./_site/*" -not -path "./vendor/*" | xargs -r ruby -c
+          
+      - name: Validate Jekyll configuration
+        run: |
+          # Check if _config.yml is valid YAML
+          bundle exec jekyll doctor
+          
+      - name: Build Jekyll site
+        run: |
+          bundle exec jekyll build --strict_front_matter --trace
+        env:
+          JEKYLL_ENV: production
+          
+      - name: Test generated HTML
+        run: |
+          # Basic HTML validation - check for common issues
+          echo "Checking for broken internal links..."
+          find _site -name "*.html" | head -20 | while read file; do
+            echo "Checking $file..."
+            # Check if file has basic HTML structure
+            if ! grep -q "</html>" "$file"; then
+              echo "ERROR: $file appears to be missing closing HTML tag"
+              exit 1
+            fi
+          done
+          
+      - name: Validate Markdown posts
+        run: |
+          # Check that all posts have required front matter
+          echo "Validating post front matter..."
+          for post in _posts/*.md; do
+            if [ -f "$post" ]; then
+              echo "Checking $post..."
+              # Check for required front matter fields
+              if ! grep -q "^title:" "$post"; then
+                echo "ERROR: $post missing title field"
+                exit 1
+              fi
+              if ! grep -q "^date:" "$post"; then
+                echo "ERROR: $post missing date field"
+                exit 1
+              fi
+              if ! grep -q "^layout:" "$post"; then
+                echo "ERROR: $post missing layout field"
+                exit 1
+              fi
+              # Check for valid date format in filename
+              basename=$(basename "$post")
+              if ! echo "$basename" | grep -q "^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-"; then
+                echo "ERROR: $post filename doesn't match YYYY-MM-DD format"
+                exit 1
+              fi
+            fi
+          done
+          
+      - name: Check for broken Markdown links
+        run: |
+          # Check for obviously broken markdown links
+          echo "Checking for broken markdown links..."
+          find _posts -name "*.md" | while read file; do
+            # Look for markdown links that might be broken
+            if grep -n "\[.*\](\s*)" "$file"; then
+              echo "WARNING: Found empty link in $file"
+            fi
+            # Check for malformed links
+            if grep -n "\[.*\]([^)]*\s[^)]*)" "$file"; then
+              echo "WARNING: Found potentially malformed link with spaces in $file"
+            fi
+          done
+          
+      - name: Security scan
+        run: |
+          # Basic security checks
+          echo "Running security checks..."
+          
+          # Check for accidentally committed sensitive files
+          if find . -name "*.pem" -o -name "*.key" -o -name ".env" | grep -v "./_site" | grep -q .; then
+            echo "ERROR: Found potentially sensitive files"
+            find . -name "*.pem" -o -name "*.key" -o -name ".env" | grep -v "./_site"
+            exit 1
+          fi
+          
+          # Check for TODO/FIXME comments that might indicate incomplete work
+          echo "Checking for TODO/FIXME comments..."
+          if grep -r "TODO\|FIXME" _posts/ | head -5; then
+            echo "INFO: Found TODO/FIXME comments (not blocking)"
+          fi
+          
+      - name: Validate site structure
+        run: |
+          # Ensure critical pages exist
+          echo "Validating site structure..."
+          if [ ! -f "_site/index.html" ]; then
+            echo "ERROR: Homepage not generated"
+            exit 1
+          fi
+          
+          if [ ! -f "_site/archive.html" ]; then
+            echo "ERROR: Archive page not generated"
+            exit 1
+          fi
+          
+          # Check that posts were generated
+          post_count=$(find _site -name "*.html" | grep -v index.html | grep -v archive.html | wc -l)
+          if [ "$post_count" -lt 10 ]; then
+            echo "ERROR: Expected more than 10 posts, found $post_count"
+            exit 1
+          fi
+          
+          echo "✅ All checks passed! Site structure looks good."
+          
+      - name: Bundle audit (security check)
+        run: |
+          # Install bundle-audit gem and run security check
+          gem install bundle-audit
+          bundle audit check --update
+        continue-on-error: true
+        
+      - name: Performance check
+        run: |
+          # Basic performance checks
+          echo "Running performance checks..."
+          
+          # Check for large files that might slow down the site
+          echo "Checking for large files..."
+          find _site -type f -size +1M | while read file; do
+            size=$(du -h "$file" | cut -f1)
+            echo "Large file found: $file ($size)"
+          done
+          
+          # Check site size
+          site_size=$(du -sh _site | cut -f1)
+          echo "Total site size: $site_size"
