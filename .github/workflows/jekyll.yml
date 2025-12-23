@@ -65,76 +65,13 @@ jobs:
       - name: Upload Jekyll artifact
         uses: actions/upload-pages-artifact@v3
         
-  # PDF Generation job (runs conditionally)
-  pdf:
-    if: needs.build.outputs.should-build-pdf == 'true'
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        
-      - name: Cache apt packages
-        uses: actions/cache@v4
-        with:
-          path: /var/cache/apt/archives
-          key: ${{ runner.os }}-apt-${{ hashFiles('.github/workflows/jekyll.yml') }}
-          restore-keys: |
-            ${{ runner.os }}-apt-
-            
-      - name: Install Pandoc and LaTeX
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex
-          
-      - name: Create PDF directory
-        run: mkdir -p pdf
-        
-      - name: Set Execution Permissions for Script
-        run: chmod +x scripts/preprocess.sh
-        
-      - name: Run Preprocess Script
-        run: ./scripts/preprocess.sh
-        
-      - name: Convert Markdown to PDF
-        run: |
-          pandoc pdf/combined.md -o pdf/book.pdf --pdf-engine=xelatex \
-          -V geometry:"paperwidth=5.5in,paperheight=8.5in,margin=0.75in" \
-          -V linestretch=1.5 --toc --toc-depth=2  \
-          -H <(echo '\usepackage{graphicx}')
-          
-      - name: Upload PDF to Artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: ESSAYS by ROGER KIRKNESS
-          path: pdf/book.pdf
-          
-      - name: Download Jekyll artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-          path: _site-temp
-          
-      - name: Extract and add PDF to site
-        run: |
-          cd _site-temp
-          tar -xf artifact.tar
-          cp ../pdf/book.pdf .
-          tar -cf ../artifact-with-pdf.tar .
-          cd ..
-          
-      - name: Upload combined artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site-temp
-        
   # Deployment job
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: [build, pdf]
+    needs: [build]
     if: always() && (needs.build.result == 'success')
     steps:
       - name: Deploy to GitHub Pages
