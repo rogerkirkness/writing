@@ -2,7 +2,7 @@
 layout: post
 title: Greatness vs. Excellence
 date: April 2026
-tags: [Reflection]
+tags: [Philosophy]
 ---
 There is a fascinating difference I've noticed in how groups of people identify themselves. The difference exists between excellence and greatness. The choice that a group makes to emphasize one or the other is a major driver of the behaviour and values of the group, even more so than its purpose.
 
