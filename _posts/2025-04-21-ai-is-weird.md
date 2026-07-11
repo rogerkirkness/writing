@@ -13,7 +13,7 @@ Here are some things I think will happen as a result of AI:
 
 * We will realize sooner and more viscerally that a great deal of work that happens in the economy should not be automated, but rather not happen at all
 * We will realize how much of our identities stem from the feeling of being in scarce supply, busy, important, spoken for, unavailable and intelligent
-* We will work about the same amount as we do now, because most work in not in service of immediate survival needs calories wise but rather one of the goals above
+* We will work about the same amount as we do now, because most work is not in service of immediate survival needs calories wise but rather one of the goals above
 * We will be a little less satisfied in our work across the board as the intelligence sword of Damocles hangs over even the best outcome for agentic AI and AGI
 * We will still by and large be satisfied in our work and seek it out despite what some communist Subreddits might have you believe, because it is meaningful and because AI won’t provide for much of the needs that are listed above for people
 * We will have overall higher functioning and less boring jobs, which are overall more focused on people as the interface rather than software (e.g. AI enabled support humans)
