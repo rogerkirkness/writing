@@ -1,0 +1,20 @@
+---
+layout: post
+title: On Orthodoxy and Honour
+date: August 2026
+tags: [Philosophy]
+---
+
+Orthodoxy has multiple interpretations. The core of it is adhering to accepted or traditional rules and beliefs. When I picture it in my head though, I imagine those that take religion both seriously and at times literally. It isn't defined for me just by the word or concept, but also by the religious people that it is applied to in order to explain their strong beliefs. To me, I associate it with taking one's own beliefs seriously.
+
+Last night, I watched The Lost Samurai on a friend's recommendation. I share Tom Cruise character's inner conflict between the ideals of American individualism, and the call to honour reflected by the Samurai of Japan. For some reason, individualist cultures seem to gravitate towards greatness - evaluating ourselves according to other's recognition rather than an inner sense of quality. Collectivism seems to prefer excellence. Greatness prefers glory, and excellence prefers honour. I've concluded I prefer honour.
+
+I prefer bondage to my responsibilities, and to take them with an extreme degree of seriousness (e.g. orthodoxy), over freedom. And it's not that I don't like freedom, I love it. But in many areas, freedom and honour can be opposites, or at least, not necessarily compatible ideas with each other. If I die protecting my group, I am not necessarily exercising individual freedom. But in every culture, serving in violent conflict and dying as a result is considered honourable, including those seeking glory. Which leads me to believe seeking freedom is emotional, and an inferior way.
+
+It's taken me a long time to accept that I live in a culture that does not value honour. Many of our "leaders" seem to openly contempt it. But it's not that they conflate glory with honour like those who follow Machiavellian philosophy. If anything, that would be more coherent and honourable than modern leaders. Modern leaders seem to be running as fast as they can to pursue abstract control behaviours over other people to avoid fear or discomfort. In the absence of honour, the worst freedom seeking impulses surface. To be free is at times the opposite of responsibility. We should aspire to leaders who are above all responsible, if not honourable, and we should be willing to recognize our role too.
+
+This said, seeking honour is not without its problems either. I read a Haig Patapan book called A Dangerous Passion: Leadership and the Question of Honour. It talks about how through various philosophical periods of history, from Socrates through Machiavelli and Hobbes, there have been clear flaws that stem from our desire for honour. That while leaders tend to seek honour, that seeking drive also leads to many problems. The problems vary depending on the framework of honour one follows. Socrates magnanimous leadership, Machiavellian glory seeking and Hobbesian dispersed leadership all have critical flaws.
+
+Worst than that, I think that we are collectively to blame for this. In a democracy, our leaders are a mirror reflecting back what our votes imply matter to us when we voted. Each person gets to decide what to do with our honour. The interesting thing about it, relative to glory which is social, is that once established, we can decide how seriously to take our honour. We can go with the flow or we can go against the flow. We can vote according to what's honourable, or according to whims for freedom.
+
+Spirituality might be a gateway to honour, but itself does not seem to serve the needs of groups. I keep thinking about this idea of developing my own sense of what is honourable that is informed by historical philosophies, and then living according to those principles to the best of my ability. I don't think taking it as literally as the Samurai, who force a dagger through their stomach if dishonoured even once, is necessarily right. But studying honour and taking it more seriously than is typical seems like a worthwhile pathway to a satisfying life. I'm not sure if that makes me an Orthodox liberal, but it feels close.
